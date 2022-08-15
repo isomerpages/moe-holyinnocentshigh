@@ -198,8 +198,13 @@ Our objective in HICO is to bring awareness of Chinese music and instruments to 
 
 #### **Badminton**
 
-![](/images/badminton%201.jpg)
-![](/images/badminton%202.jpg)
+<img src="/images/badminton%201.jpg" 
+     style="width:49%" align = left>
+<img src="/images/badminton%202.jpg" 
+     style="width:49%" align = right>
+		 
+<br><br><br>
+<br><br><br><br>
 
 The HIHS badminton team is devoted to the development of a positive and high-performing culture. Both the ‘B’ and ‘C’ division teams go through a meticulous training plan and are committed to continual advancement and achievement.
 

@@ -27,9 +27,9 @@ For any enquiries, please direct your email to [hihs@moe.edu.sg](mailto:hihs@moe
 
 **Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2021, 11am to 1 June 2021, 3pm.**
 
-**The selection criteria and process for the talent areas will be updated by early - Jun. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec  **
+**The selection criteria and process for the talent areas will be updated by early - Jun. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
 
-**Refer here for [HIHS DSA Brochure](https://drive.google.com/file/d/1VyWSA48gxNSyDSj5JRjVIi-jFWYZHq9k/view?usp=sharing)  **
+**Refer here for [HIHS DSA Brochure](https://drive.google.com/file/d/1VyWSA48gxNSyDSj5JRjVIi-jFWYZHq9k/view?usp=sharing)**
 
 #### **Media / Journalism**
 

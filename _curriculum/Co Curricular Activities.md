@@ -42,3 +42,17 @@ Performing Arts CCAs provide opportunities for students to develop a lifelong pa
 | <br>**Football**  | Every Wednesday and Friday <br>Venue:<br> School Field |  Mrs Tan-Yeong May Kit |
 | <br>**Wushu**  | Every Wednesday and Friday <br>Venue:<br> Concourse |  Mr Lin Weiding |
 |
+
+Sports & Games CCA helps to develop robustness, fair play and team spirit in our students.  Students will also hone their sports specific skills, fitness and tactics through inter-school competitions.
+
+![](/images/sports%20and%20games.png)
+
+#### **Uniformed Groups**
+
+| Uniform Group CCA  |             Training          Day /Venue |      CCA Teacher IC |
+|---|---|---|
+| <br>**National Cadet Corps (NCC)** | Every Friday <br>Venue:<br> In front of Space, Parade Square  |  Mr Ng Kai Siong Zoel |
+| **National Police Cadet Corps (NPCC)** | Every Friday <br>Venue:<br> Parade Square  |  Ms Jeslyn Lee Yu Lin |
+| <br>**Scouts** | Every Friday <br>Venue:<br> Near Field, Parade Square |  Mr Lee Kian Aik Damien |
+|<br> **St John Brigade (SJB)**  | Every Friday <br>Venue: <br>Near Chapel / Canteen, Parade Square |  Ms Chai Ming Rong |
+|

@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - Staff.md
       - Information for Students and Parents.md

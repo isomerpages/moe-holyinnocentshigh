@@ -99,7 +99,7 @@ The Indoor Sports Hall will facilitate better training for our boys.
 
 ##### **Latest Achievements:**
 **2018**
-B Division - Zonal (Second Round)
+* B Division - Zonal (Second Round)
 
 ##### **Read press coverage of the HIHS Basketball Team:**
 * [Holy Innocents’ roll over Raffles to set up showdown with Guangyang for semis berth](https://www.redsports.sg/2016/02/21/south-zone-b-division-basketball-holy-innocents-raffles/) <br>

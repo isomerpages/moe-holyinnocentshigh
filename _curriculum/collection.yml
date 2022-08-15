@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programmes/NTerprise Programme.md
       - Programmes/Learning Support Programme.md
       - Programmes/Elective Modules.md
       - Programmes/Information on Sexuality Education 2022.md

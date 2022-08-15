@@ -158,7 +158,7 @@ The HIHS Hornet Scouts Troop was founded on 1st March 1963 and has since been ac
 
 Our scouts will be equipped with Scouting skills such as campcraft, first aid, outdoor cooking, orienteering, pioneering and water activities while being inculcated with values such as respect, self-management, integrity and perseverance. Our scouts will also be provided with various leadership opportunities to lead their juniors and peers in training activities and serve the community through annual Job Week activities and voluntary work. Furthermore, interpersonal skills will be honed through participation in inter-school competitions and campfires organised by other Scouts Troops.
 
-##### **Latest Achievements: **
+##### **Latest Achievements:**
 
 *   Frank Cooper Sands Award for year of assessment 2019 ( Gold )
 *   Frank Cooper Sands Award for year of assessment 2018 ( Gold )

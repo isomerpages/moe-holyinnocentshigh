@@ -88,7 +88,8 @@ and class leadership roles.
 
 #### **Basketball**
 
-![](/images/Basketball%201.jpg)
+<img src="/images/Basketball%201.jpg" 
+     style="width:65%">
 
 The HIHS Basketball team is a force to be reckoned with in the South Zone. Both the B’ Division and C’ Division teams undergo rigorous training and they have been emerging in top zonal positions in recent years.
 

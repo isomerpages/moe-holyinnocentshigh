@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programmes/Information on Sexuality Education 2022.md
       - Programmes/.keep
       - Co Curricular Activities.md
       - Leap 2.md

@@ -2,4 +2,5 @@ collections:
   ethos:
     output: true
     order:
+      - Our Catholic Light.md
       - Teaching Ethos.md

@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Humanities.md
       - Departments/Craft & Technology and Aesthetics.md

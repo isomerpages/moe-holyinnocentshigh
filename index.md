@@ -26,7 +26,7 @@ sections:
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme
       button: click here to read more
-      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/llp-the-good-samaritan-project
+      url: /curriculum/programmes/LLP/
       image: /images/infopic 1.jpg
       alt: Image alt text
   - infopic:
@@ -34,7 +34,7 @@ sections:
       subtitle: Journalism and Broadcasting
       description: Applied Learning Programme
       button: click here to read more
-      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/alp-journalism-n-broadcasting
+      url: /curriculum/programmes/ALP/
       image: /images/infopic 2.jpg
       alt: Image alt text
   - infopic:

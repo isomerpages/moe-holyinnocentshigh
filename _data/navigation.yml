@@ -2,3 +2,17 @@ logo: /images/sch logo.jpg
 links:
   - title: Home
     url: /staging.d2xn9n00fw62s4.amplifyapp.com/
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Quick Guide
+    url: /FAQ/

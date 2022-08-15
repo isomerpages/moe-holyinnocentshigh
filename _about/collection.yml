@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Departments/HIHS Heartbeat.md
       - Departments/School Song and Creed.md
       - Departments/Honour Roll.md
       - Departments/School Management Committee.md

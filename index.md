@@ -34,7 +34,7 @@ sections:
       subtitle: Journalism and Broadcasting
       description: Applied Learning Programme
       button: click here to read more
-      url: /curriculum/programmes/ALP/
+      url: /curriculum/programmes/alp/
       image: /images/infopic 2.jpg
       alt: Image alt text
   - infopic:

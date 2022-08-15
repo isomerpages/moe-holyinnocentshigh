@@ -49,7 +49,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 1**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|
 | <br><br><br><br><br>1 (60 mins) | ·Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br><br>·Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>·Recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br><br>·Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | <br><br><br><br><br>Term 3 <br>Week 2 |
 | 2 (60 mins) | ·Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 <br>Week 2 |
@@ -58,7 +58,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 2**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD<br> (e.g. Term 1 Week 2) |
 |---|---|---|
 | <br><br><br>1 (60 mins) | ·Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br> ·Develop an appreciation of one’s own unique qualities and characteristics as a male or female <br><br>·Understand what sexual orientation entails | <br><br><br>Term 3 <br>Week 7 |
 | 2A (60 mins) | ·Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3<br> Week 8 |
@@ -67,7 +67,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 3**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD <br>(e.g. Term 1 Week 2) |
 |---|---|---|
 | <br><br><br><br><br>1A (60 mins) | ·Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. <br><br>·Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. <br><br>·Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. | <br><br><br><br><br>Term 2<br> Week 8 |
 | <br><br><br><br><br>1B (60 mins) | ·Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. <br><br>·Know that a decision to end a relationship will have consequences on oneself and others. <br><br>·Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience. <br><br>·Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. | <br><br><br><br><br>Term 2 <br>Week 8 |
@@ -76,7 +76,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 4**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD <br>(e.g. Term 1 Week 2) |
 |---|---|---|
 |<br><br><br><br><br> 1(60 mins) | ·Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. <br><br>·Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. <br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | <br><br><br><br><br>Term 3 <br>Week 2 |
 | <br><br><br><br><br><br><br><br>2 (60 mins) | ·Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br> ·Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. <br><br>·Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being. <br><br>·Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship. | <br><br><br><br><br><br><br><br>Term 3<br> Week 2 |
@@ -86,9 +86,9 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 5**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD<br> (e.g. Term 1 Week 2) |
 |---|---|---|
-| (60 mins) | ·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. ·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. ·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 3 Week 2 |
+| <br><br><br><br><br>(60 mins) | ·Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. <br><br>·Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. <br><br>·Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | <br><br><br><br><br>Term 3<br> Week 2 |
 |
 
 _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._

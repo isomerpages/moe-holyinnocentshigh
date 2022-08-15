@@ -2,17 +2,73 @@ logo: /images/sch logo.jpg
 links:
   - title: Home
     url: /staging.d2xn9n00fw62s4.amplifyapp.com/
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: About
+    url: /about/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about/principals-message/
+      - title: History
+        url: /about/history/
+      - title: HIHS Heartbeat
+        url: /about/hihs-heartbeat/
+      - title: School Song and Creed
+        url: /about/school-song-and-creed/
+      - title: Honour Roll
+        url: /about/honour-roll/
+      - title: School Management Committee
+        url: /about/school-management-committee/
+      - title: Departments
+        url: /about/departments/
+      - title: Partners
+        url: /about/partners/
+      - title: Staff
+        url: /about/staff/
+      - title: Info for Students & Parents
+        url: /about/info-for-students-&-parents/
+  - title: Curriculum
+    url: /curriculum/programmes/dsa/
+    sublinks:
+      - title: Programmes
+        url: /curriculum/programmes/dsa/
+      - title: Co-Curricular Activities
+        url: /curriculum/cca/
+      - title: Leap 2.0
+        url: /curriculum/leap-2.0/
+  - title: Ethos
+    url: /ethos/teachers-creed/
+    sublinks:
+      - title: Teachers' Creed
+        url: /ethos/teachers-creed/
+      - title: Teachers' Pledge
+        url: /ethos/teachers-pledge/
+      - title: Teachers' Vision
+        url: /ethos/teachers-vision/
+      - title: Our Catholic Light
+        url: /ethos/our-catholic-light/
+      - title: Teaching Ethos
+        url: /ethos/teaching-ethos/
+  - title: Links
+    url: /links/hihs-intranet/
+    sublinks:
+      - title: HIHS Intranet
+        url: /links/hihs-intranet/
+      - title: HIHS Facebook
+        url: /www.facebook.com/holyinnocentshighschool
+      - title: Parent Support Group Facebook
+        url: /www.facebook.com/HIPSG/
+      - title: iCON Email
+        url: /links/icon-email/
+      - title: MySkillsFuture
+        url: /links/myskillsfuture/
+      - title: ACE Learning
+        url: /links/ace-learning/
+      - title: Parent Gateway Portal
+        url: /links/parent-gateway-portal/
+      - title: SLS Support for HBL
+        url: /links/sls-support-for-hbl/
+      - title: MOE Press Release
+        url: /links/moe-press-release/
+      - title: OPAC
+        url: /links/opac/
   - title: Quick Guide
     url: /FAQ/

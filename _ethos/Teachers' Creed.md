@@ -5,3 +5,4 @@ description: ""
 ---
 ### **Teacher's Creed**
 
+![](/images/teachers%20creed.jpg)

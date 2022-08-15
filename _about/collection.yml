@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Departments/Craft & Technology and Aesthetics.md
       - Departments/Physical Education & Holistic Health Department.md
       - Departments/Student Development Team (SDT).md
       - Departments/Student Management.md

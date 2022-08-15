@@ -2,5 +2,6 @@ collections:
   ethos:
     output: true
     order:
+      - Teachers' Vision.md
       - Our Catholic Light.md
       - Teaching Ethos.md

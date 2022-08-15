@@ -41,14 +41,14 @@ sections:
       title: Elective Modules
       button: click here to read more
       alt: Image alt text
-      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/elective-modules
+      url: /curriculum/programmes/elective-modules/
       image: /images/infopic 3.jpg
   - infopic:
       title: PDLP
       subtitle: iPad for personalised learning
       description: Personalised Digital Learning Programme
       button: click here to  read more
-      url: https://holyinnocentshigh.moe.edu.sg/about/information-for-students-and-parents/personalised-digital-learning-programme-pdlp
+      url: /about/info-for-students-and-parents/pdlp/
       image: /images/infopic 4.jpg
       alt: Image alt text
 ---

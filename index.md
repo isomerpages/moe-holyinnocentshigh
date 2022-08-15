@@ -28,6 +28,7 @@ sections:
       button: click here to read more
       url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/llp-the-good-samaritan-project
       image: /images/infopic 1.jpg
+      alt: Image alt text
   - infopic:
       title: ALP
       subtitle: Journalism and Broadcasting
@@ -35,6 +36,7 @@ sections:
       button: click here to read more
       url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/alp-journalism-n-broadcasting
       image: /images/infopic 2.jpg
+      alt: Image alt text
   - infopic:
       title: Elective Modules
       button: click here to read more

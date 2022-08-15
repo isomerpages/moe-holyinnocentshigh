@@ -60,8 +60,8 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 | LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
 |---|---|---|
-| 1 (60 mins) | ·        Know that one’s understanding of gender roles should not be limited by gender stereotypes ·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female ·        Understand what sexual orientation entails | Term 3 Week 7 |
-| 2A (60 mins) | ·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8 |
+| <br><br>1 (60 mins) | ·Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br> ·Develop an appreciation of one’s own unique qualities and characteristics as a male or female <br><br>·Understand what sexual orientation entails | <br><br>Term 3 Week 7 |
+| 2A (60 mins) | ·Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8 |
 | 2B (60 mins) | ·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 8 |
 |
 

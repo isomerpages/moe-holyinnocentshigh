@@ -22,21 +22,20 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: LLP
+      subtitle: The Good Samaritan Programme
+      description: Learning for Life Programme
+      button: read more
+      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/llp-the-good-samaritan-project
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: ALP
+      subtitle: Journalism and Broadcasting
+      description: Applied Learning Programme
+      button: Read more
+      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/alp-journalism-n-broadcasting
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Elective Modules
+      button: read more
       alt: Image alt text
+      url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/elective-modules
 ---

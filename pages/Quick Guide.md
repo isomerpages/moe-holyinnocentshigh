@@ -19,7 +19,7 @@ description: ""
 * [What is the CCA Grading System?](https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit)
 
 ##### **Miscellaneous:**
-* [Are Students allowed to bring mobile phones to school?](https://staging.d2xn9n00fw62s4.amplifyapp.com/about/Info-for-Students-and-Parents/school-rules/)
-* [What is the policy on attire and grooming during non-curriculum periods?](https://staging.d2xn9n00fw62s4.amplifyapp.com/about/Info-for-Students-and-Parents/school-rules/)
-* [What is the policy on attendance and punctuality?](https://staging.d2xn9n00fw62s4.amplifyapp.com/about/Info-for-Students-and-Parents/school-rules/)
-* [What are the categories of offences and consequences?](https://staging.d2xn9n00fw62s4.amplifyapp.com/about/Info-for-Students-and-Parents/school-rules/)
+* [Are Students allowed to bring mobile phones to school?](https://drive.google.com/file/d/1rWLkdDh12_Y-u-Y1RZxJxhBEvX-7UlY5/view)
+* [What is the policy on attire and grooming during non-curriculum periods?](https://drive.google.com/file/d/1rWLkdDh12_Y-u-Y1RZxJxhBEvX-7UlY5/view)
+* [What is the policy on attendance and punctuality?](https://drive.google.com/file/d/1rWLkdDh12_Y-u-Y1RZxJxhBEvX-7UlY5/view)
+* [What are the categories of offences and consequences?](https://drive.google.com/file/d/1rWLkdDh12_Y-u-Y1RZxJxhBEvX-7UlY5/view)

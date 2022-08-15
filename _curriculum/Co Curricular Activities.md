@@ -18,10 +18,27 @@ Through these activities, students are given opportunities to develop leadership
 
 | Visual & Performing               Art CCAs |                Training              Day /Venue |  CCA Teacher IC |
 |---|---|---|
-| **Concert Band** | Every Wednesday and Friday Venue:<br> Music Room           | Mdm Chin Mei San Agnes  |
-|  **Chinese Orchestra** | Every Wednesday and Friday<br> Venue: MPR, Humanities Rm, ITR 3  |  Ms Ong Wen Hui |
-| **Choir** |  Every Wednesday and Friday Venue:<br> AVA Room 1 & 2  |  Mrs Seah-Ng Poh Ling, Valerie  |
-| **Modern Dance** | Every Wednesday and Friday Venue:<br> Dance Studio, Com Lab 2  |  Ms Lin LiFen Colene |
-| **English Drama** |  Every Wednesday and Friday Venue:<br> Com Lab 1, 4 Integrity Classroom | Ms Amitra ilangovan  |
-|   **Art Club**  |  Every Wednesday and Friday Venue: <br>Art Room 2 |  Ms Waheedah Muhd Khaliq |
+| <br>**Concert Band** | Every Wednesday and Friday <br>Venue:<br> Music Room           | Mdm Chin Mei San Agnes  |
+|  <br>**Chinese Orchestra** | Every Wednesday and Friday<br> Venue:<br> MPR, Humanities Rm, ITR 3  |  Ms Ong Wen Hui |
+| <br>**Choir** |  Every Wednesday and Friday <br>Venue:<br> AVA Room 1 & 2  |  Mrs Seah-Ng Poh Ling, Valerie  |
+| <br>**Modern Dance** | Every Wednesday and Friday<br> Venue:<br> Dance Studio, Com Lab 2  |  Ms Lin LiFen Colene |
+|<br>**English Drama** |  Every Wednesday and Friday <br>Venue:<br> Com Lab 1, 4 Integrity Classroom | Ms Amitra ilangovan  |
+|   <br>**Art Club**  |  Every Wednesday and Friday <br>Venue: <br>Art Room 2 |  Ms Waheedah Muhd Khaliq |
+|
+
+Performing Arts CCAs provide opportunities for students to develop a lifelong passion for the arts. The Performing Arts CCAs help to nurture in our students’ creative expression, enrich social, culture and historical awareness, and build character. In addition, the Performing Arts CCAs also instil in students a sense of graciousness and an appreciation of the rich culture and heritage of our multi-racial society.
+
+![](/images/performing%20arts.png)
+
+#### **Sports and Games**
+
+|  Sports & Games   | Training Day /Venue |  CCA Teacher IC |
+|---|---|---|
+| <br>**Badminton** | Every Wednesday and Friday <br>Venue:<br> School Hall |  Ms Vivana Lee |
+| <br>**Bowling** | Every Wednesday and Friday  <br>Venue:<br> Forte Bowl @Kovan | Ms Ong-Teo Lian Gek Cindy |
+| <br>**Basketball** | Every Wednesday and Friday <br>Venue:<br> Sheltered Basketball Court |  Mrs Ku-Ang Tin Tin |
+| <br>**Floorball** | Every Wednesday and Friday <br>Venue:<br> Indoor Sports Hall (ISH) |  Mr Tan Chai Soon Jarrod |
+| <br>**Netball** | Every Wednesday and Friday <br> Venue:<br> Parade Square |  Ms Zhang Jiexin |
+| <br>**Football**  | Every Wednesday and Friday <br>Venue:<br> School Field |  Mrs Tan-Yeong May Kit |
+| <br>**Wushu**  | Every Wednesday and Friday <br>Venue:<br> Concourse |  Mr Lin Weiding |
 |

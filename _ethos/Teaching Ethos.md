@@ -4,3 +4,5 @@ permalink: /ethos/teaching-ethos/
 description: ""
 ---
 ### **Teaching Ethos**
+
+![](/images/teaching%20ethos.png)

@@ -34,6 +34,7 @@ For any enquiries, please direct your email to [hihs@moe.edu.sg](mailto:hihs@moe
 #### **Media / Journalism**
 
 ![](/images/media%20journalism.jpg)
+
 The HIHS Journalism & Broadcasting Programme is an established and recognised Applied Learning Programme (ALP) in Singapore. The programme aims to develop critical thinkers and confident communicators through a broad-based school wide curriculum and a rigorous and rewarding CCA for selected students. 
 
 With the programme fully integrated with our language curricula, all lower secondary students undergo media training (with focus in Journalism and Broadcasting) in their English and Mother Tongue Languages lessons.

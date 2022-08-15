@@ -25,17 +25,20 @@ sections:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme
-      button: read more
+      button: click here to read more
       url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/llp-the-good-samaritan-project
+      image: /images/infopic 1.jpg
   - infopic:
       title: ALP
       subtitle: Journalism and Broadcasting
       description: Applied Learning Programme
-      button: Read more
+      button: click here to read more
       url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/alp-journalism-n-broadcasting
+      image: /images/infopic 2.jpg
   - infopic:
       title: Elective Modules
-      button: read more
+      button: click here to read more
       alt: Image alt text
       url: https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/elective-modules
+      image: /images/infopic 3.jpg
 ---

@@ -58,14 +58,63 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **Secondary 2**<br> Respectful Relationships & Safety
 
-
+| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+|---|---|---|
+| 1 (60 mins) | ·        Know that one’s understanding of gender roles should not be limited by gender stereotypes ·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female ·        Understand what sexual orientation entails | Term 3 Week 7 |
+| 2A (60 mins) | ·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 8 |
+| 2B (60 mins) | ·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 8 |
+|
 
 ##### **Secondary 3**<br> Respectful Relationships & Safety
 
-
+| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+|---|---|---|
+| 1A (60 mins) | ·         Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. ·         Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. ·         Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. | Term 2 Week 8 |
+| 1B (60 mins) | ·         Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. ·         Know that a decision to end a relationship will have consequences on oneself and others. ·         Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience. ·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. | Term 2 Week 8 |
+| 2 (60 mins) | .         Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.  .         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 9 |
+|
 
 ##### **Secondary 4**<br> Respectful Relationships & Safety
 
-
+| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+|---|---|---|
+| 60 mins) | ·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. ·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. ·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 3 Week 2 |
+| 2 (60 mins) | ·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. ·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. ·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being. ·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship. | Term 3 Week 2 |
+| 3 (60 mins) | ·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.   ·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. ·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. | Term 3 Week 3 |
+| 4 (60 mins) | ·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 3 Week 5 |
+|
 
 ##### **Secondary 5**<br> Respectful Relationships & Safety
+
+| LESSONS / DURATION | Lesson Objectives At the end of the lesson, students will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+|---|---|---|
+| (60 mins) | ·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity. ·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. ·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 3 Week 2 |
+|
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+#### **eTeens Programme**
+
+_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+##### **At Holy Innocents’ High School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| opics/Lessons | Programme Learning Objectives | Time Period (e.g. Term 3 Week 9) |
+|---|---|---|
+| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS ·         Modes of transmission ·         Modes of protection, specifically on how the condom is used ·         Consequences and impact of STIs/HIV   | Term 2 Week 10 |
+| Classroom-based Lesson | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making   | Term 2 Week 10 |
+|
+
+#### **Information for Parents**
+
+1\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+2\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled “[Annex A](https://drive.google.com/file/d/1CyjHhv4TSe8Mat2Nt6XZI0HqukFU6aDT/view?usp=sharing)”. The completed form is to be submitted by 04/02/2022.
+
+3\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled “[Annex B](https://drive.google.com/file/d/1AN9s7c45wZ0YHeXQsJ7e5t-sjf8trsea/view?usp=sharing)”.  The completed form is to be submitted by 04/03/2022.
+
+4\. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+5\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.

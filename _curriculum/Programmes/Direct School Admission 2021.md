@@ -191,3 +191,25 @@ Our objective in HICO is to bring awareness of Chinese music and instruments to 
 * [VIA Performance - 月亮代表我的心](https://youtu.be/R8N4QKRFr8syuel)<br>
 * [SYF 2021 Rehearsal - 渐快的凉风](https://www.youtube.com/watch?v=D-8GjKIUbLM)
 
+##### **Selection criteria:**
+*   Performance at Audition
+*   Performance at Interview
+*   Achievement
+
+#### **Badminton**
+
+![](/images/badminton%201.jpg)
+![](/images/badminton%202.jpg)
+
+The HIHS badminton team is devoted to the development of a positive and high-performing culture. Both the ‘B’ and ‘C’ division teams go through a meticulous training plan and are committed to continual advancement and achievement.
+
+In line with our School’s focus on the Good Samaritan Programme, our badminton team places great prominence on excellence, sportsmanship and team unity, enabling us to holistically develop our students in terms of skills and values. Our emphasis on self-improvement and resilience has propelled our boys to achieve  3rd runner up in the ‘B’ division South Zonal Competition, qualifying  for the National Competition in 2019. A culture of mentorship within the team has also allowed the students to reach their fullest potential at their own pace, while inspiring them to pursue excellence in the sport.
+
+##### **Latest Achievements:**
+**2019**
+* B Division (Boys) - South Zone 3rd Runner Up
+
+##### **Selection criteria:**
+*   Performance at Try-out
+*   Performance at Interview
+*   Achievement

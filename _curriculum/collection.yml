@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Co Curricular Activities.md
       - Leap 2.md

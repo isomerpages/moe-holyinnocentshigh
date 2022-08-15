@@ -56,3 +56,19 @@ Sports & Games CCA helps to develop robustness, fair play and team spirit in our
 | <br>**Scouts** | Every Friday <br>Venue:<br> Near Field, Parade Square |  Mr Lee Kian Aik Damien |
 |<br> **St John Brigade (SJB)**  | Every Friday <br>Venue: <br>Near Chapel / Canteen, Parade Square |  Ms Chai Ming Rong |
 |
+
+Uniformed Groups provide our students with authentic learning experiences which will help them develop important qualities such as leadership, teamwork, self-reliance, discipline and resilience.
+
+![](/images/uniformed%20groups.png)
+
+#### **Clubs and Societies**
+
+| Club & Societies CCAs |                   Training                 Day/ Venue |             CCA Teacher IC |
+|---|---|---|
+| <br>**Library Club** | Twice a week <br>Venue:<br> School Library | Mrs Ng-Nam Susanne  |
+| <br>**Journalism & Broadcasting Society**  | Every Wednesday and Friday<br> Venue:<br> J&B Room, Computer lab 4,Navigation Room |  Ms Hew Kai Ling Vanessa |
+| <br>**Community Service Club**  | Every Wednesday and Friday <br>Venue: <br>Navigation Room |  Ms Lua Bee Hian |
+| <br>**Chinese Weiqi** | Every Wednesday and Friday <br>Venue: <br>ITR 2 |  Ms Liu Nan |
+|
+
+Clubs & Societies allow our students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialised areas.

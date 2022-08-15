@@ -46,27 +46,6 @@ links:
       - title: Teaching Ethos
         url: /ethos/teaching-ethos/
   - title: Links
-    url: /links/hihs-intranet/
-    sublinks:
-      - title: HIHS Intranet
-        url: /links/hihs-intranet/
-      - title: HIHS Facebook
-        url: /links/facebook/
-      - title: Parent Support Group Facebook
-        url: /links/psg-facebook/
-      - title: iCON Email
-        url: /links/icon-email/
-      - title: MySkillsFuture
-        url: /links/myskillsfuture/
-      - title: ACE Learning
-        url: /links/ace-learning/
-      - title: Parent Gateway Portal
-        url: /links/parent-gateway-portal/
-      - title: SLS Support for HBL
-        url: /links/sls-support-for-hbl/
-      - title: MOE Press Release
-        url: /links/moe-press-release/
-      - title: OPAC
-        url: /links/opac/
+    url: /Links/
   - title: Quick Guide
     url: /FAQ/

@@ -2,6 +2,7 @@ collections:
   ethos:
     output: true
     order:
+      - Teachers' Creed.md
       - Teachers' Pledge.md
       - Teachers' Vision.md
       - Our Catholic Light.md

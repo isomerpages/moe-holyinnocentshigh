@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programmes/ALP Journalism & Broadcasting.md
       - Programmes/NTerprise Programme.md
       - Programmes/Learning Support Programme.md
       - Programmes/Elective Modules.md

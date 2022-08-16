@@ -65,4 +65,35 @@ Students will be assessed based on the following domains and components:
 |  | Conduct and Attire | The student is able to attend PE lessons in appropriate PE attire, follow instructions from PE Teachers and display a high level of safety awareness. |
 |
 
+#### **PE Highlights**
 
+**HI Active Youth Day**
+
+<img src="/images/pe%201.jpg" 
+     style="width:49%" align=left>
+<img src="/images/pe%202.jpg" 
+     style="width:49%" align=right>
+<br><br><br><br>
+<br><br><br><br>
+**Road Run**
+
+<img src="/images/pe%203.jpg" 
+     style="width:49%" align=left>
+<img src="/images/pe%204.jpg" 
+     style="width:49%" align=right>
+<br><br><br><br>
+<br><br><br><br>
+**Sports Elective Program**
+
+<img src="/images/pe%205.jpg" 
+     style="width:49%" align=left>
+<img src="/images/pe%206.jpg" 
+     style="width:49%" align=right>
+<br><br><br><br>
+<br><br><br><br>
+**ACES Day**
+
+<img src="/images/pe%207.jpg" 
+     style="width:49%" align=left>
+<img src="/images/pe%208.jpg" 
+     style="width:49%" align=right>

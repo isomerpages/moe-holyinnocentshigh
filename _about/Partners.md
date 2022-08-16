@@ -30,10 +30,10 @@ description: ""
 <img style="width:25%" src="/images/sp.jpg">
 </a></p>
 
-<p><a href="http://www.tp.edu.sg/main/index.asp">
+<p><a href="https://www.tp.edu.sg/home.html">
 <img style="width:25%" src="/images/tp_logo.gif">
 </a></p>
 
-<p><a href="http://www.cjc.edu.sg/">
+<p><a href="https://cjc.moe.edu.sg/">
 <img style="width:15%" src="/images/cjc_crest.jpg">
 </a></p>

@@ -20,7 +20,7 @@ The Mother Tongue Languages Department recognises the challenges faced by the 21
 
 The school’s Applied Learning Programme (ALP) which is the Journalism and Broadcasting Programme, supports and complements the learning of Mother Tongue Languages in Holy Innocents’ High School. With the exposure to journalism and broadcasting topics within the MTL curriculum, students are able to transfer their learning of their language skills into actual application of the skills through journal writing, news reporting, audio and video recordings.
 
-##### **Teaching Team**
+#### **Teaching Team**
 
 |  |  |
 |---|---|

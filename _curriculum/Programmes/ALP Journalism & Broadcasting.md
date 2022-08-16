@@ -22,12 +22,8 @@ Leveraging on the school’s strengths and partnerships, our Journalism & Broadc
 
 Lesson packages are designed and conducted by each <br>department’s teachers. Opportunities to apply their <br>knowledge and skills learnt will be provided at different <br>platforms in both languages, as well as other subject<br> disciplines. These include weekly DJ broadcasts and class <br>broadcasts, class newsletter, publications in Lianhe Zaobao,<br> national competitions, etc.	
 
-<br><br>
-
 <img src="/images/alp%203.jpg" style="width:40%;margin-right:15px;" align = "left">
-‘HIHS On Air’ 圣婴之声is an in-house broadcast station from which the pupil DJ teams make weekly broadcasts. Set up in the school canteen in July 2012, The Chinese Language Unit broadcasts twice a week to the whole school, in both English and Chinese Language.
-
-<br><br>
+‘HIHS On Air’ 圣婴之声is an in-house broadcast<br> station from which the pupil DJ teams make weekly<br> broadcasts. Set up in the school canteen in July 2012,<br> The Chinese Language Unit broadcasts twice a week<br> to the whole school, in both English and Chinese Language.
 
 It has reached out to the pupil population at large, with broadcasts on news, fashion, song dedications, interviews, story-telling, etc. Malay Language unit and other departments have also conducted pupil broadcasts in the disciplines of Science and History to raise pupil interest in these subjects.
 

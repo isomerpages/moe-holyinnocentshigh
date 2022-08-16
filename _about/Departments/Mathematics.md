@@ -32,11 +32,7 @@ The department has been planning and designing various programmes to cater to th
 
 |  |  |
 |---|---|
-| Head of Department (Mathematics) (Covering)  | Mr Ian Sim Tsi Tang |
-| Subject Head (Mathematics)  | Mr Brandon Choy Wai Keong   |
-| Teachers | Mrs Chang Poh Joo (Sec 1 Coordinator)<br>Mr Lin Weiding (Sec 2 Coordinator)<br>	Mr Zoel Ng Kai Siong (Sec 3 Coordinator)<br>Miss Lua Bee Hian (Sec 4 Coordinator)<br>Mr Ian Sim (Assistant Year Head)<br>Mr Muhammad Shahrom Asmani (SH/ Education Support)<br>Mr Clifford Chua Poh Teck (ST/ Mathematics) <br>Mrs Lo Sock Kui<br>Mrs Cindy Ong<br>Miss Jolene Koh Shi Yue <br>Ms Shahidah Rahmat<br>Mr Nalpon Walter<br>Mr Terence Koh <br>Ms Natalie Kwok |
+| **Head of Department (Mathematics) (Covering)**  | Mr Ian Sim Tsi Tang |
+| **Subject Head (Mathematics)**  | Mr Brandon Choy Wai Keong   |
+| **Teachers** | Mrs Chang Poh Joo (Sec 1 Coordinator)<br>Mr Lin Weiding (Sec 2 Coordinator)<br>	Mr Zoel Ng Kai Siong (Sec 3 Coordinator)<br>Miss Lua Bee Hian (Sec 4 Coordinator)<br>Mr Ian Sim (Assistant Year Head)<br>Mr Muhammad Shahrom Asmani (SH/ Education Support)<br>Mr Clifford Chua Poh Teck (ST/ Mathematics) <br>Mrs Lo Sock Kui<br>Mrs Cindy Ong<br>Miss Jolene Koh Shi Yue <br>Ms Shahidah Rahmat<br>Mr Nalpon Walter<br>Mr Terence Koh <br>Ms Natalie Kwok |
 |
-
-
-
-

@@ -116,4 +116,4 @@ Building on their knowledge from the lower secondary programme, they are also ta
 <img src="/images/art%209.jpg" 
      style="width:49%" align = left>
 <img src="/images/art%2010.jpg" 
-     style="width:49%" align = right>		 
+     style="width:49%" align = right>

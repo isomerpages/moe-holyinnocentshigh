@@ -2,5 +2,6 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - Personalised Digital Learning Programme.md
       - Information for Parents/Parenting Programmes.md
       - Information for Parents/.keep

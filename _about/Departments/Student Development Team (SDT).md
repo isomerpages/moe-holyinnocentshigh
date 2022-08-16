@@ -19,5 +19,21 @@ Our programmes comprises components from student social-emotional well-being to 
 | Level Discipline  Teachers |  Ms Soh Sze Chuan Sabrina | Ms Chen Xinyi | Ms Hor Hui Lin Katherine  | Mr Nalpon Walter Edgar |
 |
 
+<img src="/images/sdt1.jpg" 
+     style="width:49%" align=left>
+<img src="/images/sdt%202.jpg" 
+     style="width:49%" align=right>		 
 
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br>
+**Under Gear-up Program - Treetop walk experience at Windsor Park**
 
+![](/images/sdt%203n4.jpg)
+
+**Graduation Ceremony 2019**
+
+![](/images/sdt5.jpg)
+
+**Gear-up experience**

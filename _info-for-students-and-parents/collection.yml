@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - Schemes of Work.md
       - School Events Calender.md
       - Rewards & Recognition.md
       - Home School Collaboration Protocol.md

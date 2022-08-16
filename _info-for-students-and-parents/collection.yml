@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - Rewards & Recognition.md
       - Home School Collaboration Protocol.md
       - Publications.md
       - School Bookshop and Uniform Contact Info.md

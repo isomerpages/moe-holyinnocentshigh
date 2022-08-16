@@ -41,12 +41,56 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 
 |  |  |
 |---|---|
-| Head Of Department | Mr Clement Chua |
-| Subject Head (Geography) | Ms Chen Huifeng Adely |
-| Senior Teacher  (Geography) | Mr Yeo Jian Wen Alvin  |
-| Geography Teachers  | Ms Zhang Jiexin<br>Ms Siti Aisyah<br>Mr Lawrence Koh (Year Head, Upper Secondary)  |
-| Senior Teacher (History) | Mr Elamaran Natarajan |
-|  History Teachers | Mr Er Swee Long Gerry <br> Ms Vanessa Hew|
-|   Lead Teacher (Social Studies) | Mrs Renuka Krishnah |
-|  Social Studies Teachers | Ms Liang Meiyi Ms Perng Jia Wei Ms Yvonne Teo Ms Cherlyn Ng|
+| **Head Of Department** | Mr Clement Chua |
+| **Subject Head (Geography)** | Ms Chen Huifeng Adely |
+| **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
+| **Geography Teachers**  | Ms Zhang Jiexin<br>Ms Siti Aisyah<br>Mr Lawrence Koh (Year Head, Upper Secondary)  |
+| **Senior Teacher (History)** | Mr Elamaran Natarajan |
+|  **History Teachers** | Mr Er Swee Long Gerry <br> Ms Vanessa Hew|
+|   **Lead Teacher (Social Studies)** | Mrs Renuka Krishnah |
+|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Perng Jia Wei Ms Yvonne Teo Ms Cherlyn Ng|
 |
+
+#### **Programmes / Projects / Competitions in 2019**
+
+1. Geographical Investigation (Lower Secondary)
+2. Geography Fieldwork (Upper Secondary)
+3. NUS Geography Challenge
+4. Historical Investigation (Lower Secondary)
+5. History-Literature Learning Journey
+6. Inter-school War & Diplomacy History Card Challenge
+7. Issues Investigation for Social Studies
+8. River Valley Model United Nations
+9. Visit to NeWater Plant
+
+#### **Photos**
+
+**A) Sec 3 students visiting Parliament House on Seating Day**
+![](/images/humanities1.jpg)
+
+**B) History Card Challenge**
+![](/images/humanities2.jpg)
+
+![](/images/humanities3.jpg)
+
+![](/images/humanities4.jpg)
+
+**C) Sec 1 History-Literature Trail – Learning Journey to the Singapore River**
+
+![](/images/humanities5.jpg)
+
+![](/images/humanities6.jpg)
+
+![](/images/humanities7.jpg)
+
+**D) Sec 3 Visit to NeWater Plant**
+
+![](/images/neWater.jpg)
+
+![](/images/neWater2.jpg)
+
+![](/images/neWater3.jpg)
+
+**E) Sec 1 Geography Fieldwork**
+
+![](/images/Sec%201%20Geo%20Fieldwork.jpg)

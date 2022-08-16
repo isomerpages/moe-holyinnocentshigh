@@ -4,9 +4,6 @@ permalink: /about/Info-for-Students-and-Parents/info-for-parents/
 description: ""
 third_nav_title: Information for Parents
 ---
-
-
-
 ### **Parenting Programmes**
 
 At Holy Innocents’ High School, we believe in engaging and working closely together with parents of our students, as parents are the first line of support for their children. Effective collaboration between parents and the school can improve student motivation and contribute to a caring, safe and nurturing environment for each student.
@@ -14,7 +11,7 @@ At Holy Innocents’ High School, we believe in engaging and working closely tog
 Our school also believes in supporting parents by equipping them with more knowledge and resources to better support, guide and bond with their child, through **talks, workshops and other activities** as well as through the **Positive Parenting Programme (Triple P)**, in collaboration with the Ministry of Social and Family Development (MSF) and external vendors.
 
 <img src="/images/parenting1.jpg" 
-     style="width:35%">
+     style="width:25%">
 		 
 Details and registration links for upcoming talks and activities will be sent out on the Parents Gateway app. Look out for them!
 

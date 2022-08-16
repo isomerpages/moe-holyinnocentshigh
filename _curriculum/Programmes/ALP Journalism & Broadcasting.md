@@ -30,3 +30,25 @@ Lesson packages are designed and conducted by each <br>department’s teachers. 
 <br><br>
 
 It has reached out to the pupil population at large, with broadcasts on news, fashion, song dedications, interviews, story-telling, etc. Malay Language unit and other departments have also conducted pupil broadcasts in the disciplines of Science and History to raise pupil interest in these subjects.
+
+#### **Journalism and Broadcasting Society (CCA)**
+
+<img src="/images/alp%204.jpg" style="width:40%;margin-right:15px;" align = "right">
+Students are also identified as talents for further<br> development in the Journalism and Broadcasting<br> Society (CCA). Talented and interested students<br> can take part in the CCA in Secondary One or can<br> be recruited into the school and CCA through the <br>Direct School Admission (DSA) Programme.	
+<br><br>
+
+Advanced level programmes in journalism and broadcasting are also offered to CCA students in both English and Chinese Language. Many internal and external platforms are tapped on to give pupils opportunities to put into practice what they have learnt. Students from the CCA take on emcee roles in major school events such as Chinese New Year Celebrations, Prize-giving Ceremony and National Day Celebrations etc.
+<br><br>
+
+<img src="/images/alp%205.jpg" style="width:40%;margin-right:15px;" align = "right">
+
+CCA students have numerous platforms to apply<br> their learning such as zbComma where students<br> submit and publish their written newspaper articles<br> on a regular basis. CCA students also have the <br>opportunity to mentor and facilitate primary school<br>
+
+<img src="/images/alp%206.jpg" style="width:40%;margin-right:15px;" align = "right">
+
+ students from Rosyth School, Holy Innocents’<br> Primary School and Poi Ching Primary School to <br>share and apply what they have learnt from Journalism and Broadcasting. Students from Journalism and Broadcasting Society also <br>contributes to the community through the monthly<br> Story-Telling sessions held inCheng San Library.
+ 
+<img src="/images/alp%207.jpg" style="width:40%;margin-right:15px;" align = "right">
+
+We are also exploring opportunities for pupils to<br> become student journalists and broadcasters with a <br>public newspaper and a radio station. In 2015, we<br> have two students from the CCA who have been<br> selected to become student journalists with<br> Lianhe Zaobao.
+

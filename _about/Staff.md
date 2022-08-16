@@ -54,11 +54,11 @@ description: ""
 |  2 CHARITY | Ms Siti Salmeah Ameer <br> Mrs Chan Sann Roo Cynthia | [siti_salmeah_ameer@moe.edu.sg](siti_salmeah_ameer@moe.edu.sg)  <br> [chia_sann_roo@moe.edu.sg](chia_sann_roo@moe.edu.sg) |
 | 2 COURAGE  | Miss Jolene Koh Shi Yue <br> Mrs Tan Hwa Chye Susan | [jolene_koh_shi_yue@moe.edu.sg](jolene_koh_shi_yue@moe.edu.sg) <br> [tan_hwa_chye@moe.edu.sg](tan_hwa_chye@moe.edu.sg) |
 | 2 FAITH | Ms Wong Toon Keen Angela <br> Mr Yeo Jian Wen Alvin <br> Miss Siti Aisyah Safiyyudin | [wong_toon_keen@moe.edu.sg](wong_toon_keen@moe.edu.sg) <br> [yeo_jian_wen_alvin@moe.edu.sg](yeo_jian_wen_alvin@moe.edu.sg) <br> [siti_aisyah_safiyuddin@moe.edu.sg](siti_aisyah_safiyuddin@moe.edu.sg) |
-| 2 HOPE |  Miss Pan Jiaqi Bernice <br> Ms Wong Lai Chui Dip | pan_jiaqi_bernice@moe.edu.sg <br> wong_lai_chui_dip@moe.edu.sg |
-|  2 HUMILITY | Mr Simranpal Singh Sandhu <br> Mrs Ong Lian Gek Cindy | simranpal_singh_sanohu@moe.edu.sg <br> teo_lian_gek_cindy@moe.edu.sg |
-| 2 INTEGRITY | Miss Gladys Seow Yi Ling <br> Mrs Ku-Ang Tin Tin | gladys_seow_yi_ling@moe.edu.sg  <br> ang_tin_tin@moe.edu.sg |
-|  2 LOVE | Ms Lau Mei Tong <br> Mr Er Swee Long Gerry | lau_mei_tong@moe.edu.sg <br> er_swee_long@moe.edu.sg |
-| 2 RESPECT | Ms Lee Yu Lin Jeslyn <br> Mr Elmaran s/o Natarajan <br> Mrs Lo-Yeo Sock Kui | jeslyn_lee_yu_lin@moe.edu.sg <br> elamaran_natarajan@moe.edu.sg <br> yeo_sock_kui@moe.edu.sg |
+| 2 HOPE |  Miss Pan Jiaqi Bernice <br> Ms Wong Lai Chui Dip | [pan_jiaqi_bernice@moe.edu.sg](pan_jiaqi_bernice@moe.edu.sg) <br> [wong_lai_chui_dip@moe.edu.sg](wong_lai_chui_dip@moe.edu.sg) |
+|  2 HUMILITY | Mr Simranpal Singh Sandhu <br> Mrs Ong Lian Gek Cindy | [simranpal_singh_sanohu@moe.edu.sg](simranpal_singh_sanohu@moe.edu.sg) <br> [teo_lian_gek_cindy@moe.edu.sg](teo_lian_gek_cindy@moe.edu.sg) |
+| 2 INTEGRITY | Miss Gladys Seow Yi Ling <br> Mrs Ku-Ang Tin Tin | [gladys_seow_yi_ling@moe.edu.sg](gladys_seow_yi_ling@moe.edu.sg)  <br> [ang_tin_tin@moe.edu.sg](ang_tin_tin@moe.edu.sg) |
+|  2 LOVE | Ms Lau Mei Tong <br> Mr Er Swee Long Gerry | [lau_mei_tong@moe.edu.sg](lau_mei_tong@moe.edu.sg) <br> [er_swee_long@moe.edu.sg](er_swee_long@moe.edu.sg) |
+| 2 RESPECT | Ms Lee Yu Lin Jeslyn <br> Mr Elmaran s/o Natarajan <br> Mrs Lo-Yeo Sock Kui | [jeslyn_lee_yu_lin@moe.edu.sg](jeslyn_lee_yu_lin@moe.edu.sg) <br> [elamaran_natarajan@moe.edu.sg](elamaran_natarajan@moe.edu.sg) <br> [yeo_sock_kui@moe.edu.sg](yeo_sock_kui@moe.edu.sg) |
 |  3 CHARITY | Ms Tan Mei Ling Gwendolynn  | tan_mei_ling_gwendolynn@moe.edu.sg  |
 | 3 COURAGE | Mr Ng Kai Siong Zoel  | kai_siong_zoel_ng@moe.edu.sg  |
 |  3 HUMILITY | Ms Apollonia Riard | apollonia_riard@moe.edu.sg |

@@ -54,4 +54,11 @@ We are also exploring opportunities for pupils to<br> become student journalists
 
 <img src="/images/alp%208.jpg" style="width:45%;margin-right:15px;" align = "right">
 
-They also take part in Journalism and Broadcasting related competitions<br>throughout the year to stretch their potential<br> and apply their learning. In November 2012 <br>and 2013, our students took part in the VOX<br> Media Camp and Competition organised by<br> Ngee Ann Polytechnic and Singapore Press<br> Holdings. Our team won the Top Prize in the<br> Editing Category for two consecutive years.<br> In November 2014, one of our teams emerged <br>as the Overall Winner in News Editing.	
+They also take part in Journalism and Broadcasting related competitions<br>throughout the year to stretch their potential<br> and apply their learning. In November 2012 <br>and 2013, our students took part in the VOX<br> Media Camp and Competition organised by<br> Ngee Ann Polytechnic and Singapore Press<br> Holdings. Our team won the Top Prize in the<br> Editing Category for two consecutive years.<br> In November 2014, one of our teams emerged <br>as the Overall Winner in News Editing.
+<br><br>
+
+<img src="/images/alp%209.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+Two teams of students took part in the<br> annual Radio Drama Script Writing<br> Competition this year. Out of the five<br> winning entries, these two teams clinched<br> the Third Prize and the Consolation Prize 
+<img src="/images/alp%2010.jpg" style="width:40%;margin-right:15px;" align = "left">
+for<br> the competition. They were also given the<br> opportunity to meet experienced DJs and<br> were mentored by these DJs during the<br> radio drama recording.

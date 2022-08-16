@@ -28,7 +28,9 @@ description: ""
 | Operating Hours   |   12pm - 6pm <br> (Mondays to Saturdays, Closed on Sunday & PH) |
 |
 
-|  |  |
+#### **Sale of School Uniform HIHS**
+
+| |  |
 |---|---|
-| **SALE OF SCHOOL UNIFORM HIHS**<br> For 2021<br> Dates: 8, 22 Jan; 5, 26 Feb; 26 Mar; 9, 30 Apr; 14 May; 9, 23 Jul; 13, 27 Aug; 24 Sept <br>Time: 12pm to 2pm <br>Venue: School Canteen |  |
+| For 2021<br> Dates: 8, 22 Jan; 5, 26 Feb; 26 Mar; 9, 30 Apr; 14 May; 9, 23 Jul; 13, 27 Aug; 24 Sept <br>Time: 12pm to 2pm <br>Venue: School Canteen |  |
 |  |  |

@@ -37,24 +37,20 @@ Advanced level programmes in journalism and broadcasting are also offered to CCA
 <br><br>
 
 <img src="/images/alp%205.jpg" style="width:40%;margin-right:15px;" align = "right">
-
 CCA students have numerous platforms to apply<br> their learning such as zbComma where students<br> submit and publish their written newspaper articles<br> on a regular basis. CCA students also have the <br>opportunity to mentor and facilitate primary school<br>
-
+<br><br><br><br>
 <img src="/images/alp%206.jpg" style="width:40%;margin-right:15px;" align = "right">
-
- students from Rosyth School, Holy Innocents’<br> Primary School and Poi Ching Primary School to <br>share and apply what they have learnt from Journalism and Broadcasting. Students from Journalism and Broadcasting Society also <br>contributes to the community through the monthly<br> Story-Telling sessions held inCheng San Library.
+students from Rosyth School, Holy Innocents’<br> Primary School and Poi Ching Primary School to <br>share and apply what they have learnt from Journalism and Broadcasting. Students from Journalism and Broadcasting Society also <br>contributes to the community through the monthly<br> Story-Telling sessions held inCheng San Library.
  
 <img src="/images/alp%207.jpg" style="width:40%;margin-right:15px;" align = "right">
-
 We are also exploring opportunities for pupils to<br> become student journalists and broadcasters with a <br>public newspaper and a radio station. In 2015, we<br> have two students from the CCA who have been<br> selected to become student journalists with<br> Lianhe Zaobao.
-
-<img src="/images/alp%208.jpg" style="width:45%;margin-right:15px;" align = "right">
-
+<br><br>
+<img src="/images/alp%208.jpg" style="width:40%;margin-right:15px;" align = "right">
 They also take part in Journalism and Broadcasting related competitions<br>throughout the year to stretch their potential<br> and apply their learning. In November 2012 <br>and 2013, our students took part in the VOX<br> Media Camp and Competition organised by<br> Ngee Ann Polytechnic and Singapore Press<br> Holdings. Our team won the Top Prize in the<br> Editing Category for two consecutive years.<br> In November 2014, one of our teams emerged <br>as the Overall Winner in News Editing.
 <br><br>
 
 <img src="/images/alp%209.jpg" style="width:40%;margin-right:15px;" align = "left">
-
 Two teams of students took part in the<br> annual Radio Drama Script Writing<br> Competition this year. Out of the five<br> winning entries, these two teams clinched<br> the Third Prize and the Consolation Prize 
+<br><br><br>
 <img src="/images/alp%2010.jpg" style="width:40%;margin-right:15px;" align = "left">
-for<br> the competition. They were also given the<br> opportunity to meet experienced DJs and<br> were mentored by these DJs during the<br> radio drama recording.
+for the competition. They were also given the<br> opportunity to meet experienced DJs and<br> were mentored by these DJs during the<br> radio drama recording.

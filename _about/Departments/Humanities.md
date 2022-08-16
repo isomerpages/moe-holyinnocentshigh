@@ -30,12 +30,15 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 
 #### **Pictorial Representation of Framework** 
 
-![](/images/humanities%20framework.png)
-![](/images/humanities%202.png)
+<img src="/images/humanities%20framework.png" 
+     style="width:65%">
+<img src="/images/humanities%202.png" 
+     style="width:85%">
 
 #### **Philosophy of Social Studies Curriculum**
 
-![](/images/hum3.jpg)
+<img src="/images/hum3.jpg" 
+     style="width:65%">
 
 #### **Teaching Team**
 

@@ -37,11 +37,11 @@ Advanced level programmes in journalism and broadcasting are also offered to CCA
 <br><br>
 
 <img src="/images/alp%205.jpg" style="width:40%;margin-right:15px;" align = "right">
-CCA students have numerous platforms to apply<br> their learning such as zbComma where students<br> submit and publish their written newspaper articles<br> on a regular basis. CCA students also have the <br>opportunity to mentor and facilitate primary school<br>
-<br><br><br><br>
+
+CCA students have numerous platforms to apply<br> their learning such as zbComma where students<br> submit and publish their written newspaper articles<br> on a regular basis. CCA students also have the <br>opportunity to mentor and facilitate primary schoolstudents from Rosyth School, Holy Innocents’<br> Primary School and Poi Ching Primary School to <br>share and apply what they have learnt from<br> Journalism and Broadcasting. Students from <br>Journalism and Broadcasting Society also <br>contributes to the community through the monthly<br> Story-Telling sessions held inCheng San Library.
 <img src="/images/alp%206.jpg" style="width:40%;margin-right:15px;" align = "right">
-students from Rosyth School, Holy Innocents’<br> Primary School and Poi Ching Primary School to <br>share and apply what they have learnt from Journalism and Broadcasting. Students from Journalism and Broadcasting Society also <br>contributes to the community through the monthly<br> Story-Telling sessions held inCheng San Library.
  
+ <br><br><br><br><br>
 <img src="/images/alp%207.jpg" style="width:40%;margin-right:15px;" align = "right">
 We are also exploring opportunities for pupils to<br> become student journalists and broadcasters with a <br>public newspaper and a radio station. In 2015, we<br> have two students from the CCA who have been<br> selected to become student journalists with<br> Lianhe Zaobao.
 <br><br>

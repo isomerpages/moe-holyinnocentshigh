@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - Timetables.md
       - Notification & Briefing Slides.md
       - 2022 Book Lists.md
       - Schemes of Work.md

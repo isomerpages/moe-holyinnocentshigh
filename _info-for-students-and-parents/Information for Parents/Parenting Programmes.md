@@ -20,8 +20,9 @@ Details and registration links for upcoming talks and activities will be sent o
 		 
 #### **Information on Positive Parenting Programme (Triple P)**
 
-<img src="/images/parenting3.jpg" style="width:35%;margin-right:15px;" align = "left">		 
-The Triple P programme is an Evidence-based Programme introduced to schools by the Ministry of Social and Family Development (MSF) since 2014.<br>
+<img src="/images/parenting3.jpg" style="width:40%;margin-right:15px;" align = "left">		 
+The Triple P programme is an Evidence-based Programme introduced to schools by the Ministry of Social and Family Development (MSF) since 2014.
+
 It aims to:<br>
 -  Support and empower parents<br>
 -  Prevent behaviourial, emotional and developmental problems in children by enhancing parents’ knowledge, skills and confidence<br>

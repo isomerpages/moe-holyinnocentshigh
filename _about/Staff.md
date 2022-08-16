@@ -77,5 +77,5 @@ description: ""
 | 5 FAITH | Mr Nalpon Walter Edgar  | nalpon_walter_edgar@moe.edu.sg  |
 | 5 LOVE | Mr Lin Weiding  | lin_weiding@moe.edu.sg  |
 |  School Counsellor | Ms Mary Neo  | neo_mary@moe.edu.sg  |
-| AED (Learning & Behavioural Support) | Ms Nina S Kalyani | s_kalyani@moe.edu.sg |
+| AED<br> (Learning &<br> Behavioural Support) | Ms Nina S Kalyani | s_kalyani@moe.edu.sg |
 |

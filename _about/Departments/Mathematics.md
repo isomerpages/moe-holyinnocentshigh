@@ -36,3 +36,17 @@ The department has been planning and designing various programmes to cater to th
 | **Subject Head (Mathematics)**  | Mr Brandon Choy Wai Keong   |
 | **Teachers** | Mrs Chang Poh Joo (Sec 1 Coordinator)<br>Mr Lin Weiding (Sec 2 Coordinator)<br>	Mr Zoel Ng Kai Siong (Sec 3 Coordinator)<br>Miss Lua Bee Hian (Sec 4 Coordinator)<br>Mr Ian Sim (Assistant Year Head)<br>Mr Muhammad Shahrom Asmani (SH/ Education Support)<br>Mr Clifford Chua Poh Teck (ST/ Mathematics) <br>Mrs Lo Sock Kui<br>Mrs Cindy Ong<br>Miss Jolene Koh Shi Yue <br>Ms Shahidah Rahmat<br>Mr Nalpon Walter<br>Mr Terence Koh <br>Ms Natalie Kwok |
 |
+
+#### **Programmes / Projects / Competitions in 2021**
+
+1\. Bridging programme for selected Sec 1 students<br>
+2\. Enrichment Programme for Lower Secondary students<br>
+3\. Math Competition [Eg. Singapore Math Olympiad (SASMO) and All Singapore Normal Mathematics Competition etc.]<br>
+4\. Secondary 1 Mathematics Digital Escape Room<br>
+5\. Maths and POA Learning Trail
+
+![](/images/Maths.jpg)
+Students having fun learning through Mathematics based games on Maths Games Day
+
+![](/images/Maths2.jpg)
+Students gathering information on their note pads to complete the M shopper activity

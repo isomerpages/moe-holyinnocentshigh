@@ -1,5 +1,5 @@
 collections:
-  information-for-parents:
+  info-for-students-and-parents:
     output: true
     order:
       - Information for Parents/Parenting Programmes.md

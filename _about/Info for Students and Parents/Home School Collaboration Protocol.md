@@ -35,45 +35,30 @@ third_nav_title: Info for Students and Parents
 |Major Examinations|The school will issue notification letters to inform students and parents on the examination schedule each semester. A copy will also be uploaded onto the school website for reference.<br><br>Subject teachers will inform students on the format of the examination papers, as well as outline the subject topics to be tested for each paper, at least 3 weeks before the start of the examination.|Upon receiving the examination schedule, parents should discuss and guide their children in planning their revision schedule. Parents may wish to ensure that their children are taking the examinations seriously, and start their revision as early as possible to avoid extreme levels of anxiety caused by rushing through their revision just before the examinations.|
 |
 
+##### **Physical and Co-Curricular Development**
 
+| Areas | In School: | At Home: |
+|---|---|---|
+|Safety and Security|The school endeavours to provide a safe and secure environment for students to learn and develop in. All students are covered under a basic group insurance policy purchased by the school. Students who are not feeling well can approach the General Office for assistance. The school will also proactively review its safety and security measures regularly.|Parents are advised to follow the school’s advice on road safety. Parents should drop-off their children at designated drop-off areas and exercise caution when driving within and around the school premises. Parents could also remind their children to follow traffic rules and safety instructions given by school staff on the use of specific rooms and conduct of activities. Parents are welcomed to suggest improvements on safety to the school.|
+|Physical Exercise|The school updates our database with the latest outcome of health checks conducted by HPB, and will relay the required information to relevant teachers for follow-up. The school schedules weekly PE lessons for students to engage in physical activities, where they will develop skills in a range of sports. Uniformed groups and sports CCAs also conduct physical training on a regular basis.<br><br>For students with weight management issues, the school has the APPLE programme to help students develop good habits and practices leading to a healthier lifestyle.|Parents should surface medical conditions and issues to the school immediately via form teachers so that the school can follow up accordingly.<br><br>Parents can help to monitor and advise their children on proper dietary and exercise habits. It will be most ideal if parents can role-model and exercise together with their children. For parents whose children are in the APPLE programme, they should encourage their children to attend the programme, and help them develop healthy habits and practices.|
+|Healthy Eating Habits|The school will work with canteen stallholders to implement the guidelines introduced by HPB in the sale of food and drinks. Through Home Economics lessons taught at the Lower Secondary level, students are also taught about nutrition and good eating habits.|Parents may reinforce healthy eating messages by preparing home-cooked food that follows HPB’s “My Healthy Plate” message. If possible, parents should limit their children’s consumption of deep-fried food and unhealthy snacks. In addition, parents may also help to ensure that their children have a proper breakfast before coming to school, especially on days where their children have morning PE lessons.|
+|Lifestyle Choices|Through CCE and Lower Secondary Science lessons, the school advises students to stay away from harmful activities such as smoking, alcohol consumption, substance-abuse, gambling, pre-marital sex, gaming addiction, cyber-bullying etc.|Parents can reinforce and convey the same messages to their children. Consistent and coherent messaging from both home and school will be more effective in deterring the students from engaging in the unhealthy activities.|
+|Co-Curricular Activities (CCA)|The school provides a range of CCA for students to engage in healthy and enriching activities after school. Students are expected to join one CCA. The CCA training schedule and other relevant information are available on the school website.<br><br>The CCA grading/recognition system (LEAPS 2.0), which determines a student’s CCA grades/level of experiences, is printed in the Student Handbook and available on the school website.|Parents are advised to monitor their children’s CCA attendance closely. If their children are unwell, they are advised to see a doctor and submit the medical certificate to the CCA teachers-in-charge when they return to school if necessary. Parents may call the school if they are unsure about the CCA schedule.<br><br>Parent are encouraged to read the Student Handbook be familiar with LEAPS 2.0.|
+|After-School Enrichment Programmes|Other than CCAs, the school also organises outside-of- school enrichment programmes for students. Examples of these programmes include learning journeys, Olympiads, Science Research Programme, level games, Student Leadership programmes etc. The school will issue parent consent letters for official enrichment programmes.<br><br>The school has an After-School Engagement (ASE) programme where students can sign up for after-school activities under the guidance of school staff and a youth worker, in a designated school facility.|As the school enrichment programmes are evaluated by professionals and are considered beneficial for their children’s development, parents are strongly advised to support all school enrichment programmes. Parents can call the respective teachers-in-charge if they have queries regarding the programmes.|
+|
 
+##### **School-Parent Relations**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Areas | In School: | At Home: |
+|---|---|---|
+|Nature of <br>Parent-Teacher<br>Communication|The school contacts parents when their children<br> 1.fall sick or are injured in school,<br>2.are absent or late from school,<br>3.are involved in disciplinary issues that warrant attention by the discipline committee,<br>4.exhibit unproductive learning behaviours (e.g. consistently not paying attention in class or does not complete homework) or attain below par academic results.<br><br>Staff will contact parents during weekdays on any matters related to the child, during work hours (up till 6 pm). Staff will not respond to parents’ or students’ queries during weekends, unless queries are related to activities or programmes held on the specific weekends. Staff will not contact students late in the evenings. Teachers may respond to emails on the next working day if they cannot access their emails promptly.|For non-urgent matters, parents can email their concerns to the relevant teachers.<br><br>For urgent matters, parents are advised to call the General Office and request to talk to the teachers directly, or leave a message for the teachers to call back. (The General Office operates until 6 pm on Mondays to Fridays. It is not opened on weekends.)<br><br>Parents should advise their children not to communicate with teachers late in the evenings, even if it is related to academic work or co-curricular programme arrangements. Students should be encouraged to plan ahead and schedule appointments or consultations with teachers during office hours.|
+|Contact Information|The school will provide staff email addresses on the school website. The school will not provide personal contact numbers to parents. Parents who would like personal contact numbers of staff should request from the staff directly. Staff has the discretion not to provide personal contact numbers to parents.|Parents are advised to update their contact information with the school during the contact updating exercise on the first week of school in Term 1 and Term 3, or as and when the need arises. Parents should also request their children to provide updated contact information to the school when necessary.|
+|School Website,<br>Instagram and <br>Facebook|The school regularly updates its Facebook page and Instagram to keep parents and students informed of the happenings in the school. Photos of school events are periodically uploaded onto the Facebook. Official information such as timetables, presentation slides, scheme of work and termly letters to parents are available for download from the school website.|Parents are encouraged to check the school Facebook and website regularly to keep them updated of the school events and programmes.|
+|Student Attendance|On every official school day, Form Teachers will mark student attendance using SNAAPP. Parents will be notified if students are absent without valid reason, or are late for school.|Parents are strongly encouraged to download the SNAAPP app in their smartphone to monitor their children’s attendance in school, and receive messages from the school.|
+|Class Timetable|The school uploads all class timetables on the school website at the beginning of each semester for reference.|Parents may print/view their children’s class timetables from the school website to gain a better understanding of their children’s daily learning routines in school. In doing so, parents can also help to inculcate/reinforce the importance of organising learning resources for effective teaching and learning to take place in school, e.g. filing notes systematically and bringing necessary materials for lessons.|
+|Termly Letters<br>to Parents|At the beginning of the year and the end of each Term, the school issues letters to inform parents on news of the school and upcoming events in the following Term. The letters are also available for reference in the school website.|Parents should read the letters to keep themselves informed of the school activities during the year.|
+|Mass Messaging <br> System|The school periodically sends messages to parents and students to inform/remind them of important upcoming activities that require their attention.|Parents may help to remind their children if the messages warrant follow-up action. There is no need to reply to the messages.|
+|Parent-Teacher<br>Meetings and<br>Engagement<br>sessions|The school organises parent-teacher meetings (PTM) and engagement sessions for parents to interact with Form Teachers. The first two PTMs in the year is for parents of selected levels, while subsequent engagement sessions are for identified students.|Parents are strongly encouraged to attend the first PTM to speak with the form teachers and find out their children’s conduct, and academic performance in school. If parents wish to speak with subject teachers, parents should make prior arrangements through a request slip to the school.|
+|Monitoring<br>of Results|The school will issue Report Cards at the end of each Term on the students’ academic and/or co-curricular progress.|Parents may review their children’s academic progress at the end of every term and discuss with their children on future targets and areas for improvements. The report cards also facilitate meaningful discussions between the parents and teachers, especially in identifying potential aspects in which the school and family can work together to help the children improve and achieve in the future.|
+|School Fees and<br>Other Fees|The school will send reminders on behalf of MOE on payment of school fees, and letters on payment for other student-related fees as and when necessary. The school will not refund any payments made if these programmes have to be cancelled due to unforeseen circumstances.<br><br>The school will provide financial assistance to needy students whenever possible, so that no student will be deprived of opportunities because of a lack of funds.|Parents are advised to make prompt payments for school and student-related fees, and to ensure that bank accounts with GIRO facilities have sufficient funds for deduction.<br><br>Parents should approach the Form Teachers or General Office for assistance if they have difficulties making payments for school fees or other fees.|
+|

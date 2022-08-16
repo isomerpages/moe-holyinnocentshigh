@@ -28,7 +28,7 @@ The department has been planning and designing various programmes to cater to th
 
 ![](/images/maths-framework-e1454041084598.png)
 
-##### **Teaching Team**
+#### **Teaching Team**
 
 |  |  |
 |---|---|

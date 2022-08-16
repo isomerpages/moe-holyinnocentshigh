@@ -107,7 +107,8 @@ Lower secondary programme focuses on building pupils knowledge of learn basic pr
      style="width:49%" align = left>
 <img src="/images/art%208.jpg" 
      style="width:49%" align = right>
-<bR><br><br><br><br><br><br>
+<bR><br><br><br><br>
+<br><br><br><br>
 
 ##### **Upper Secondary Food and Nutrition Programme:**
 

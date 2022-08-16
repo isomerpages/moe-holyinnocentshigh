@@ -13,7 +13,7 @@ Our teachers work in teams to design lessons and assessment tasks for their leve
 
 At the same time, the department also focusses on building a strong foundation and providing a rich language for all in the following areas of language learning.
 
-##### **Teaching Team**
+#### **Teaching Team**
 
 |  |  |
 |---|---|

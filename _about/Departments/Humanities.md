@@ -38,3 +38,15 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 ![](/images/hum3.jpg)
 
 #### **Teaching Team**
+
+|  |  |
+|---|---|
+| Head Of Department | Mr Clement Chua |
+| Subject Head (Geography) | Ms Chen Huifeng Adely |
+| Senior Teacher  (Geography) | Mr Yeo Jian Wen Alvin  |
+| Geography Teachers  | Ms Zhang Jiexin<br>Ms Siti Aisyah<br>Mr Lawrence Koh (Year Head, Upper Secondary)  |
+| Senior Teacher (History) | Mr Elamaran Natarajan |
+|  History Teachers | Mr Er Swee Long Gerry <br> Ms Vanessa Hew|
+|   Lead Teacher (Social Studies) | Mrs Renuka Krishnah |
+|  Social Studies Teachers | Ms Liang Meiyi Ms Perng Jia Wei Ms Yvonne Teo Ms Cherlyn Ng|
+|

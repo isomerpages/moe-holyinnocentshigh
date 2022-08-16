@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - School Bookshop and Uniform Contact Info.md
       - MOE FAS and SB FAS.md
       - Personalised Digital Learning Programme.md
       - Information for Parents/Parenting Programmes.md

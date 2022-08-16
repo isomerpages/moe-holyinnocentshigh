@@ -43,9 +43,9 @@ description: ""
 
 | Class | Form Teachers | Email Address |
 |---|---|---|
-| 1 CHARITY  | Ms Soh Sze Chuan Sabrina  | soh_sze_chuan@moe.edu.sg  |
-|   1 COURAGE | Ms Tan Choon Heok <br> Ms Poh Qiu Yan | tan_choon_heok@moe.edu.sg <br> poh_qiu_yan@moe.edu.sg |
-|  1 FAITH | Ms Amitra Ilangovan <br> Mrs Chin Soo Ngo Julia | amitra_ilangovan@moe.edu.sg <br> chia_soo_ngo@moe.edu.sg |
+| 1 CHARITY  | Ms Soh Sze Chuan Sabrina  | [soh_sze_chuan@moe.edu.sg](soh_sze_chuan@moe.edu.sg)  |
+|   1 COURAGE | Ms Tan Choon Heok <br> Ms Poh Qiu Yan | [tan_choon_heok@moe.edu.sg](tan_choon_heok@moe.edu.sg) <br> [poh_qiu_yan@moe.edu.sg](poh_qiu_yan@moe.edu.sg) |
+|  1 FAITH | Ms Amitra Ilangovan <br> Mrs Chin Soo Ngo Julia | [amitra_ilangovan@moe.edu.sg](amitra_ilangovan@moe.edu.sg) <br> [chia_soo_ngo@moe.edu.sg](chia_soo_ngo@moe.edu.sg) |
 |  1 HOPE | Ms Waheedah Muhd Khaliq <br> Miss Ong Wen Hui | waheedah_muhammad_khaliq@moe.edu.sg <br> ong_wen_hui@moe.edu.sg |
 |  1 HUMILITY | Mr Pee Kay Yang <br> Mrs Ng-Nam Susanne | pee_kay_yang@moe.edu.sg <br> nam_susanne@moe.edu.sg |
 | 1 INTEGRITY  | Mr Lee Kian Aik Damien <br> Ms Liu Nan | lee_kian_aik@moe.edu.sg <br> liu_nan@moe.edu.sg |

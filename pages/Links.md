@@ -3,13 +3,12 @@ title: Links
 permalink: /Links/
 description: ""
 ---
-
 ### **Links**
 
 * [HIHS Intranet](https://sites.google.com/a/hihs.edu.sg/intranet/)
 * [HIHS Facebook](https://www.facebook.com/holyinnocentshighschool)
 * [Parent Support Group Facebook](https://www.facebook.com/HIPSG/)
-* [iCON Email]() **no weblink**
+* [iCON Email](https://holyinnocentshigh.moe.edu.sg/links/myskillsfuture) **no weblink**
 * [MySkillsFuture]**no weblink**
 * [Ace Learning](https://holyinnocentshigh.moe.edu.sg/links/ace-learning)
 * [Parent Gateway Portal](https://pg.moe.edu.sg/)

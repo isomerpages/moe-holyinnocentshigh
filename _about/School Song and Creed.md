@@ -17,6 +17,7 @@ Of utmost importance is our spiritual growth.  Therefore we share the Gospel so
 The teachers at HIHS devote themselves to their calling.  They desire to groom our pupils into compassionate and morally upright citizens committed to serving God and society, so that Singapore will become a nation of distinction and prosperity.
 
 Listen to [our school song](https://drive.google.com/file/d/19t35f6TKtSH_a9oy4VgvwmoxRjVuikhZ/preview "HIHS School Song").
+
 <div>
 <audio controls="">
   <source src="https://drive.google.com/file/d/19t35f6TKtSH_a9oy4VgvwmoxRjVuikhZ/preview" type="audio/mpeg">

@@ -42,7 +42,7 @@ Humble in spirit to accept new challenges
 \*Standing with all, in the HIHS family  
 We will be one where the love of God reigns
 
-Listen to [our school creed](https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/HIHS-Creed.mp3).
+Listen to [our school creed](https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/HIHS-Creed.mp3 "HIHS School Creed Song").
 	
 <div>
 <audio controls="">

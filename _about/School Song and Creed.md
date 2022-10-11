@@ -43,7 +43,6 @@ Humble in spirit to accept new challenges
 We will be one where the love of God reigns
 
 Listen to [our school creed](https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/HIHS-Creed.mp3).
-
 <div>
 <audio controls="">
   <source src="https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/HIHS-Creed.mp3" type="audio/mpeg">

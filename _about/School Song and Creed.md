@@ -19,7 +19,7 @@ The teachers at HIHS devote themselves to their calling.  They desire to groom 
 Listen to [our school song](https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/02-Track-2.mp3 "HIHS school song").
 <div>
 <audio controls="">
-  <source src="/qql/slot/u205/OUR HIHS/School Song and Creed/02-Track-2.mp3" type="audio/mpeg">
+  <source src="https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/02-Track-2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>

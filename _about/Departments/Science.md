@@ -76,7 +76,6 @@ soil-based planting, hydroponics and aeroponics, experimenting with new ways to 
 ecosystems thrive in the school.<br>
 
 ![](/images/Science%20Department/11.png)
-
 ![](/images/Science%20Department/12.png)
 
 <u>**Community in Bloom 2021**</u><br>

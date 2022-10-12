@@ -25,3 +25,6 @@ HIHS science experience is a spiral curriculum across 4 years, and is anchored o
 ●	Sec 1: Introducing Scientific Inquiry<br>
 ●	Sec 2: Developing Thinking Skills through STEM<br>
 ●	Sec 3: Promoting Problem-Solving Skills through STEM, and Advocacy for Common Good
+
+The learning of Science in HIHS encompasses lived experiences within and outside of school, introducing students to new ways of seeing and thinking about their learning, competitions to expose students to new ideas and perspectives, science research projects and attachments at post-secondary institutions to help students find relevance and connectedness to learning.
+

@@ -33,7 +33,7 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 ![](/images/Science%20Department/Sec%202%20Students%20Reseaching%20collaboratively%20on%20Solar%20energy.png)<br>
 ![](/images/Science%20Department/Devices%20raised%20to%20capture%20interesting%20points.png)<br>
 ![](/images/Science%20Department/Sec%201%20Students%20prototyping%20a%20water%20filtration.png)<br>
-![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)<br>
+![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)
 
 #### **Science Research Programme and Competitions**
 <u>Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021</u><br>

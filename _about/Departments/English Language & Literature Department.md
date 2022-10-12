@@ -39,13 +39,13 @@ At the same time, the department also focusses on building a strong foundation a
 
 ![](/images/el1.jpg)
 
-Secondary 3 Literature students performing during our annual English Week concert in 2019
+**Secondary 3 Literature students performing during our annual English Week concert in 2019**
 
 ![](/images/el2.jpg)
 
-Even the English and Literature department joined in on the fun, dressing up as various literary characters!
+**Even the English and Literature department joined in on the fun, dressing up as various literary characters!**
 
 ![](/images/el3.jpg)
 
-There were also exciting quizzes and activities, which students enjoyed taking part in during English Week 2019! <br>
-Photos by: Cherlyn Chua (4 Cou), Johnson Chong (3 Lov)
+**There were also exciting quizzes and activities, which students enjoyed taking part in during English Week 2019! <br>
+Photos by: Cherlyn Chua (4 Cou), Johnson Chong (3 Lov)**

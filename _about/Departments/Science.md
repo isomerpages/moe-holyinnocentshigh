@@ -13,6 +13,7 @@ A HI good samaritan with a spirit of inquiry and a heart of love for Man and Nat
 
 
 #### **Teaching Team**
+
 |  |  |
 |---|---|
 | **Head Of Department** | Ms Felicia Lee Xinyun |

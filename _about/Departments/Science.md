@@ -44,4 +44,3 @@ with more Vitamin A content to counter Vitamin A deficiency. Their poster has be
 entry in an inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge
 2021, as part of GMAC’s ongoing efforts in educating the public on GM-related issues. It was a steep
 learning curve for the 4 students but they took on this challenge with passion and enthusiasm.<br>
-

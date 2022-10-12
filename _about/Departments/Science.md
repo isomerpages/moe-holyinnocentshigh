@@ -36,7 +36,7 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 ![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)
 
 #### **Science Research Programme and Competitions**
-<u>Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021</u><br>
+**<u>Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021</u><br>**
 
 A group of Secondary 2 students designed an infographic poster based on the theme of
 “Gene-editing and GMOs”. The group had decided to work on Golden Rice, which is a GMO created
@@ -47,7 +47,7 @@ learning curve for the 4 students but they took on this challenge with passion a
 
 ![](/images/Science%20Department/7%20Arthur,%20Samuel,yu%20en.png)
 
-<u>10th International Biomedical Quiz 2021</u><br>
+**<u>10th International Biomedical Quiz 2021</u><br>**
 The 10th International Biomedical Quiz 2021, organised by Anglo-Chinese Junior College (ACJC)
 Science and Mathematics Council, is an online quiz which provides a platform for secondary and
 pre-university students to develop their aptitude and potential in the biomedical disciplines. The

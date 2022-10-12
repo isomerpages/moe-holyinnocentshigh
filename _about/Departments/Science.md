@@ -87,4 +87,13 @@ Much of the efforts were spearheaded by 2 Hope (2021) over a span of 2 years. Th
 tremendous time and effort, and used their harvest to be a blessing to the school community. In
 2021, students researched and submitted an inquiry report on their comparison between
 hydroponic and soil systems for growing vegetables and were recognized at the Singapore Science
-Youth Fair.
+Youth Fair.<br>
+
+![](/images/Science%20Department/13.png)<br>
+![](/images/Science%20Department/14.png)<br>
+<u>**Upcoming Programmes in 2022**</u><br>
+● ENT Biomedical Quiz 2022 ( To be confirmed )<br>
+● Elementz and IgnITE 2022 ( To be confirmed )<br>
+● Innovation Programme (Secondary) 2022<br>
+● STEM Programme<br>
+● Interdisciplinary Learning

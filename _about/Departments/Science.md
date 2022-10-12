@@ -78,7 +78,7 @@ ecosystems thrive in the school.<br>
 ![](/images/Science%20Department/11.png)
 ![](/images/Science%20Department/12.png)
 
-<u>**Community in Bloom 2021**</u><br>
+<u>Community in Bloom 2021</u><br>
 The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community
 groups. HIHS achieved the Gold award in 2021 for her efforts in community gardening, which
 includes promoting biodiversity in the school, and sustainability efforts by the school community.

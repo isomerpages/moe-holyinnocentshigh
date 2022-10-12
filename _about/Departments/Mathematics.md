@@ -46,7 +46,7 @@ The department has been planning and designing various programmes to cater to th
 5\. Maths and POA Learning Trail
 
 ![](/images/Maths.jpg)
-Students having fun learning through Mathematics based games on Maths Games Day
+**Students having fun learning through Mathematics based games on Maths Games Day**
 
 ![](/images/Maths2.jpg)
-Students gathering information on their note pads to complete the M shopper activity
+**Students gathering information on their note pads to complete the M shopper activity**

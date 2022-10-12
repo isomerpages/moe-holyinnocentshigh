@@ -62,14 +62,14 @@ Dominic Then (4 Cha)<br>
 Lamadrid Jared (4 Cha)<br>
 Goh Benedict (4 Cha)
 
-<u>2021 Singapore Youth Science Fair</u><br>
+**<u>2021 Singapore Youth Science Fair</u>**<br>
 Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the
 Engineering Sciences & Environment Category. 2 teams were awarded the commendation &
 accomplishment award for their research efforts. We are proud of their hard work, and the spirit
 of resilience and teamwork they have demonstrated in research and experimentation.<br>
 ![](/images/Science%20Department/9%20youth%20science%20fair.png)<br>
 ![](/images/Science%20Department/10%20youth%20science%20fair.png)<br>
-<u>Project SaVE (Sustain and Vitalise Environment)</u><br>
+**<u>Project SaVE (Sustain and Vitalise Environment)</u>**<br>
 In Project SaVE, students apply thinking skills to study science concepts that address environmental
 and sustainability issues. They have the hands-on experience of growing their own crops through
 soil-based planting, hydroponics and aeroponics, experimenting with new ways to ensure that the
@@ -78,7 +78,7 @@ ecosystems thrive in the school.<br>
 ![](/images/Science%20Department/11.png)
 ![](/images/Science%20Department/12.png)
 
-<u>Community in Bloom 2021</u><br>
+**<u>Community in Bloom 2021</u>**<br>
 The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community
 groups. HIHS achieved the Gold award in 2021 for her efforts in community gardening, which
 includes promoting biodiversity in the school, and sustainability efforts by the school community.
@@ -90,7 +90,7 @@ Youth Fair.<br>
 
 ![](/images/Science%20Department/13.png)
 ![](/images/Science%20Department/14.png)<br>
-<u>Upcoming Programmes in 2022</u><br>
+**<u>Upcoming Programmes in 2022</u>**<br>
 ● ENT Biomedical Quiz 2022 ( To be confirmed )<br>
 ● Elementz and IgnITE 2022 ( To be confirmed )<br>
 ● Innovation Programme (Secondary) 2022<br>

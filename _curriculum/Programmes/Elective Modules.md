@@ -35,10 +35,10 @@ Some examples of Elective Modules offered by ITE:
 *   Personal Finance
 
 ![](/images/elective%20module%20A1.jpeg)
-3-Dimensional Printing and Design Module at ITE Central
+**3-Dimensional Printing and Design Module at ITE Central**
 
 ![](/images/elective%20module%20A2.jpeg)
-Fun with Electronics at ITE Central
+**Fun with Electronics at ITE Central**
 
 ##### **Category B Elective Modules**
 
@@ -54,19 +54,19 @@ Some examples of Category B Elective Modules:
 *   Building Models with 3-d Printer
 
 ![](/images/elective%20module%20B1.jpeg)
-Gourmet Coffee Making Course
+**Gourmet Coffee Making Course**
 
 ![](/images/elective%20module%20B2.jpg)
-Learning Journey to Motor Vehicle Workshop for Motor Design Module
+**Learning Journey to Motor Vehicle Workshop for Motor Design Module**
 
 ![](/images/elective%20module%20B3.jpg)
-Briefing for airline simulator for the Aeronautical Engineering Module
+**Briefing for airline simulator for the Aeronautical Engineering Module**
 
 ![](/images/elective%20module%20B4.jpeg)
-Showcase Day Part 1
+**Showcase Day Part 1**
 
 ![](/images/elective%20module%20B5.jpeg)
-Showcase Day Part 2
+**Showcase Day Part 2**
 
 ##### **NTerprise**
 
@@ -80,22 +80,22 @@ Some examples of programs or activities conducted under the NTerprise program:
 *   Entrepreneurial Training and Development
 
 ![](/images/elective%20module%20nterprise%201.jpg)
-Collaboration with Student Care Services
+**Collaboration with Student Care Services**
 
 ![](/images/elective%20module%20nterprise%202.jpg)
-Culinary Experience Interview with Gordon Ramsay
+**Culinary Experience Interview with Gordon Ramsay**
 
 ![](/images/elective%20module%20nterprise%203.jpg)
-Youth-Initiated Project Collaboration with Singapore National Co-Op Federation
+**Youth-Initiated Project Collaboration with Singapore National Co-Op Federation**
 
 ![](/images/elective%20module%20nterprise%204.jpeg)
-NTerprise and Cultural Immersion Trip to Chiangmai, Thailand
+**NTerprise and Cultural Immersion Trip to Chiangmai, Thailand**
 
 ![](/images/elective%20module%20nterprise%205.jpg)
-NTerprise and Cultural Immersion Trip to Yogyakarta
+**NTerprise and Cultural Immersion Trip to Yogyakarta**
 
 ![](/images/elective%20module%20nterprise%206.jpg)
-Business Pitch Presentation to the Business Community through Network for Training Entrepreneurs
+**Business Pitch Presentation to the Business Community through Network for Training Entrepreneurs**
 
 ![](/images/elective%20module%20nterprise%207.jpg)
-Entrepreneurial Competitions
+**Entrepreneurial Competitions**

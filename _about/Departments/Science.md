@@ -77,7 +77,7 @@ ecosystems thrive in the school.<br>
 
 ![](/images/Science%20Department/11.png)
 
-![](/images/Science%20Department/12.png)<br>
+![](/images/Science%20Department/12.png)
 
 <u>**Community in Bloom 2021**</u><br>
 The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community

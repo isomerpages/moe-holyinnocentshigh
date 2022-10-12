@@ -73,5 +73,18 @@ of resilience and teamwork they have demonstrated in research and experimentatio
 In Project SaVE, students apply thinking skills to study science concepts that address environmental
 and sustainability issues. They have the hands-on experience of growing their own crops through
 soil-based planting, hydroponics and aeroponics, experimenting with new ways to ensure that the
-ecosystems thrive in the school.
+ecosystems thrive in the school.<br>
 
+![](/images/Science%20Department/11.png)
+
+![](/images/Science%20Department/12.png)<br>
+
+<u>**Community in Bloom 2021**</u><br>
+The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community
+groups. HIHS achieved the Gold award in 2021 for her efforts in community gardening, which
+includes promoting biodiversity in the school, and sustainability efforts by the school community.
+Much of the efforts were spearheaded by 2 Hope (2021) over a span of 2 years. They have invested
+tremendous time and effort, and used their harvest to be a blessing to the school community. In
+2021, students researched and submitted an inquiry report on their comparison between
+hydroponic and soil systems for growing vegetables and were recognized at the Singapore Science
+Youth Fair.

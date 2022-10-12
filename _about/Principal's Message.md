@@ -8,7 +8,6 @@ description: ""
 #### **Principal’s Foreword 2022**
 
 <img src="/images/principal.jpg" style="width:35%;margin-right:15px;" align = "left">
-
 We believe that at HIHS, all students and teachers are anchored in a Christ-centred community, where values of integrity, humility, respect and love fill our shared experiences. I am privileged to journey with the students in their preparation for an adventure of life, where each will carry away something always very precious from their growing-up years at HIHS, into their career paths. 
 
 Thank you, parents and guardians, for choosing this school for an education second to none.

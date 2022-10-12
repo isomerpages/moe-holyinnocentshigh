@@ -33,4 +33,14 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 ![](/images/Science%20Department/Sec%202%20Students%20Reseaching%20collaboratively%20on%20Solar%20energy.png)<br>
 ![](/images/Science%20Department/Devices%20raised%20to%20capture%20interesting%20points.png)<br>
 ![](/images/Science%20Department/Sec%201%20Students%20prototyping%20a%20water%20filtration.png)<br>
-![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)
+![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)<br>
+
+#### **Science Research Programme and Competitions**
+**Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021**<br>
+A group of Secondary 2 students designed an infographic poster based on the theme of
+“Gene-editing and GMOs”. The group had decided to work on Golden Rice, which is a GMO created
+with more Vitamin A content to counter Vitamin A deficiency. Their poster has been sent as an
+entry in an inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge
+2021, as part of GMAC’s ongoing efforts in educating the public on GM-related issues. It was a steep
+learning curve for the 4 students but they took on this challenge with passion and enthusiasm.<br>
+

@@ -60,4 +60,18 @@ Mabel Chan (4 Cha)<br>
 Zane Chong (4 Cha)<br>
 Dominic Then (4 Cha)<br>
 Lamadrid Jared (4 Cha)<br>
-Goh Benedict (4 Cha)<br>
+Goh Benedict (4 Cha)
+
+<u>**2021 Singapore Youth Science Fair**</u><br>
+Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the
+Engineering Sciences & Environment Category. 2 teams were awarded the commendation &
+accomplishment award for their research efforts. We are proud of their hard work, and the spirit
+of resilience and teamwork they have demonstrated in research and experimentation.<br>
+![](/images/Science%20Department/9%20youth%20science%20fair.png)<br>
+![](/images/Science%20Department/10%20youth%20science%20fair.png)<br>
+<u>**Project SaVE (Sustain and Vitalise Environment)**</u><br>
+In Project SaVE, students apply thinking skills to study science concepts that address environmental
+and sustainability issues. They have the hands-on experience of growing their own crops through
+soil-based planting, hydroponics and aeroponics, experimenting with new ways to ensure that the
+ecosystems thrive in the school.
+

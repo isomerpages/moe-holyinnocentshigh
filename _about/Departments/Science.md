@@ -37,6 +37,7 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 
 #### **Science Research Programme and Competitions**
 **Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021**<br>
+
 A group of Secondary 2 students designed an infographic poster based on the theme of
 “Gene-editing and GMOs”. The group had decided to work on Golden Rice, which is a GMO created
 with more Vitamin A content to counter Vitamin A deficiency. Their poster has been sent as an

@@ -11,7 +11,6 @@ To develop students with inquiring, creative and innovative minds with a passion
 #### **Vision**<br>
 A HI good samaritan with a spirit of inquiry and a heart of love for Man and Nature.
 
-
 #### **Teaching Team**
 
 |  |  |

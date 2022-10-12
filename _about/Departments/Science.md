@@ -17,9 +17,5 @@ A HI good samaritan with a spirit of inquiry and a heart of love for Man and Nat
 | **Head Of Department** | Ms Felicia Lee Xinyun |
 |**Subject Head** | Ms Woo Wei Shan (Covering SH/Science) <br>Mrs Sheryl Mok-Koh Yilin (SH/Chemistry) |
 |**Senior Teacher(s)** | Mr Chang Jee Yen (Physics)
-| **Teachers** | Biology<br>
-Ms Tan Mei Ling Gwendolynn<br>
-Ms Lau Mei Tong<br>
-Mrs Susan Tan Hwa Chye<br>
-Mr Lim Thiam Kwee Arthur (HOD / ICT) |
+| **Teachers** | <u>Biology</u><br>Ms Tan Mei Ling Gwendolynn<br>Ms Lau Mei Tong<br>Mrs Susan Tan Hwa Chye<br>Mr Lim Thiam Kwee Arthur (HOD / ICT) |
 |

@@ -89,7 +89,7 @@ tremendous time and effort, and used their harvest to be a blessing to the schoo
 hydroponic and soil systems for growing vegetables and were recognized at the Singapore Science
 Youth Fair.<br>
 
-![](/images/Science%20Department/13.png)<br>
+![](/images/Science%20Department/13.png)
 ![](/images/Science%20Department/14.png)<br>
 <u>**Upcoming Programmes in 2022**</u><br>
 ● ENT Biomedical Quiz 2022 ( To be confirmed )<br>

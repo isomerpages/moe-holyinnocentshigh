@@ -47,10 +47,6 @@ links:
         url: /ethos/teaching-ethos/
   - title: Links
     url: /Links/
-  - title: Quick Guide
-    url: /FAQ/
-  - title: Links
-    url: /Links/
     sublinks:
       - title: HIHS Intranet
         url: https://sites.google.com/a/hihs.edu.sg/intranet/
@@ -60,3 +56,9 @@ links:
         url: https://www.facebook.com/HIPSG/
       - title: iCON Email
         url: https://workspace.google.com/dashboard
+      - title: MySkillsFuture
+        url: https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
+      - title: ACE Learning
+        url: https://www.ace-learning.com/
+  - title: Quick Guide
+    url: /FAQ/

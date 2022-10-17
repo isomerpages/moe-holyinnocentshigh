@@ -24,10 +24,7 @@ Our programmes comprises components from student social-emotional well-being to 
 <img src="/images/sdt%202.jpg" 
      style="width:49%" align=right>		 
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br>
+
 
 **Under Gear-up Program - Treetop walk experience at Windsor Park**
 

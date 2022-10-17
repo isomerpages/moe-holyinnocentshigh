@@ -32,7 +32,7 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 ##### **Art Programme:**
  The Art programme aims to stimulate the love and appreciation of art among our pupils. Through positive learning experiences in art, students develop visual literacy and learn to express their ideas and feelings through their artworks. Through the Art making process, pupils develop their critical and creative thinking and achieve a sense of self-confidence and achievement which equips them to better understand and engage with the world they live in.
  
- ##### **Lower Secondary Art Programme**
+##### **Lower Secondary Art Programme**
  
 * Drawing
 * Application of Colours
@@ -41,7 +41,7 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 
 ![](/images/art%201.jpg)
 
-##### **Upper Secondary Art Programme**
+#### **Upper Secondary Art Programme**
 
 * Acrylic Painting
 * Pencil / Colour Pencil Sketching

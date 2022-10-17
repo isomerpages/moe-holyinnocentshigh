@@ -26,7 +26,7 @@ The school’s Applied Learning Programme (ALP) which is the Journalism and Broa
 |---|---|
 | **Head Of Department** | Mdm Foo Ling Shui |
 |**Subject Head** | |
-| **Teachers** | Ms Liu Nan (Sec. 2 Level Coordinator)<br>Ms Chai Ming Rong (Sec. 3 Level Coordinator)<br>Ms Cheng Guomei (Sec. 4/5 Level Coordinator)<br>Ms Siti Salmeah (ML Unit Coordinator)<br>Mrs Wong-Lai Chui Dip (HCL Coordinator)<br>Ms Angela Wong Toon Keen<br>Ms Christina Chew Pang Juan<br>Mdm Zhu Mei<br>Mr Pee Kay Yang<br>	Mdm Leow Bee Chu<br>Mr Rohaizat Bin Ramlee<br>Mdm Nuruljanah Bte Mohamed Said |
+| **Teachers** | Ms Liu Nan (Sec. 2 Level Coordinator)<br>Ms Chai Ming Rong (Sec. 3 Level Coordinator)<br>Ms Cheng Guomei (Sec. 4/5 Level Coordinator)<br>Ms Siti Salmeah (ML Unit Coordinator)<br>Mrs Wong-Lai Chui Dip (HL Coordinator)<br>Ms Angela Wong Toon Keen<br>Ms Christina Chew Pang Juan<br>Mdm Zhu Mei<br>Mr Pee Kay Yang<br>	Mdm Leow Bee Chu<br>Mr Rohaizat Bin Ramlee<br>Mdm Nuruljanah Bte Mohamed Said |
 |
 
 #### **Programmes / Projects / Competitions in 2020**

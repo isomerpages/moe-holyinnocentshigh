@@ -9,13 +9,12 @@ description: ""
 * [How can I contact the School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/contact-us/)
 * [When are the school terms/ school holidays?](https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2021)
 * [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://sites.google.com/hihs.edu.sg/hihs-dsa/)
-* [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://www.moe.gov.sg/education/school-terms-and-holidays#pri-sec-sch-term-2018) **Broken link**
-* [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/direct-school-admission-2020) **Broken link**
+
 
 ##### **Finance Matters:**
 
-* [[What are the school fees for Secondary School education?](https://www.moe.gov.sg/financial-matters/fees)](https://www.moe.gov.sg/education/secondary) **Broken link**
-* [I would like to find out more about  the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)) **Broken link**
+* [What are the school fees for Secondary School education?](https://www.moe.gov.sg/financial-matters/fees)
+* [I would like to find out more about  the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ##### **CCA Matters:**
 * [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/cca) **Broken Link**

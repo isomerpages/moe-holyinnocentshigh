@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Partners.md
       - Parents Support Group/.keep
       - Principal's Message.md
       - History.md

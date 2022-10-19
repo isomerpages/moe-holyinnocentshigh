@@ -13,7 +13,8 @@ description: ""
 * [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/programmes/direct-school-admission-2020) **Broken link**
 
 ##### **Finance Matters:**
-* [What are the school fees for Secondary School education?](https://www.moe.gov.sg/education/secondary) **Broken link**
+
+* [[What are the school fees for Secondary School education?](https://www.moe.gov.sg/financial-matters/fees)](https://www.moe.gov.sg/education/secondary) **Broken link**
 * [I would like to find out more about  the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)) **Broken link**
 
 ##### **CCA Matters:**

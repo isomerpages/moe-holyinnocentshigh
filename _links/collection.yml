@@ -2,5 +2,5 @@ collections:
   links:
     output: true
     order:
-      - HIHS Intranet.md
       - Parent Gateway Portal.md
+      - HIHS Intranet.md

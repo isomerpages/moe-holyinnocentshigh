@@ -5,7 +5,8 @@ description: ""
 ---
 ### **Co-Curricular Activities**
 
-![](/images/Co%20Curricular%20Activities/Co-Curricular%20Activities.png)
+
+<img src="/images/Co%20Curricular%20Activities/Co-Curricular%20Activities.png" style="width=350" height="500">
 
 In Holy Innocents’ High School, Co-Curricular Activities (CCA) are an integral part of our students’ holistic education. Every student is required to participate in one CCA from the following options:
 

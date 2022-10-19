@@ -67,7 +67,7 @@ links:
       - title: OPAC
         url: https://schoolibrary.moe.edu.sg/holyinnocentshigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
   - title: Contact Us
-    url: /ContactUs/
+    url: /FAQ/
     sublinks:
       - title: FAQ
         url: /FAQ/

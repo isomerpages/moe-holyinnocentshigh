@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Partners.md
-      - Parents Support Group/.keep
       - Principal's Message.md
       - History.md
       - HIHS Heartbeat.md

@@ -7,7 +7,7 @@ description: ""
 
 ##### **General:**
 * [How can I contact the School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/contact-us/)
-* [When are the school terms/ school holidays?](https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2021)
+* [When are the school terms/ school holidays?](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)
 * [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://sites.google.com/hihs.edu.sg/hihs-dsa/)
 
 

@@ -18,7 +18,7 @@ description: ""
 
 ##### **CCA Matters:**
 * [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/curriculum/cca/)
-* [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/cca) **Broken Link**
+<!---* [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/cca) **Broken Link**--->
 * [What is the CCA Grading System?](https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit)
 
 ##### **Miscellaneous:**

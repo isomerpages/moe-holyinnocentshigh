@@ -17,7 +17,7 @@ description: ""
 * [I would like to find out more about  the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ##### **CCA Matters:**
-* [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://curriculum/cca/)
+* [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/curriculum/cca/)
 * [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/cca) **Broken Link**
 * [What is the CCA Grading System?](https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit)
 

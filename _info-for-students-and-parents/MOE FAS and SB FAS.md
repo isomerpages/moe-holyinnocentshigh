@@ -11,8 +11,6 @@ The Ministry of Education provides financial assistance to needy Singaporean stu
 
 Application Form is available [here](/files/MOE-FAS-application-form.pdf)
 
-  
-##### [FAQs on MOE FAS](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&Mesid=18282433)
 
 #### **School Based Financial Scheme (FAS)**
 

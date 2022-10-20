@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Rewards & Recognition/.keep
-      - Honours Scroll (Character & Citizenship).md
       - School Rules.md
       - Timetables.md
       - Notification & Briefing Slides.md

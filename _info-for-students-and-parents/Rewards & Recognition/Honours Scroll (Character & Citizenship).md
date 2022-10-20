@@ -4,10 +4,9 @@ permalink: /information-for-students-and-parents/rewards-n-recognition/honours-s
 description: ""
 third_nav_title: Rewards & Recognition
 ---
-**Honours Scroll (Character & Citizenship)**
+### **Honours Scroll (Character & Citizenship)**
 
-
-1.  **Student of the Year**
+**1.  Student of the Year**
 
 *    Awarded to a graduating student who has displayed all-rounded ability and committed service to the school
 *   Provided outstanding leadership in his / her career in the school
@@ -22,24 +21,24 @@ Criteria:
 *   Awardee should have a Conduct Grade of at least Very Good
 *   Awardee should have attained at least an A2 in his / her CCA
 
-2.  **Student of the Month**
+**2.  Student of the Month**
 
 *    This award is presented on a monthly basis to students who have demonstrated by example the core values of the school – Humility, Integrity, Respect, Love
 *   Level Award – Awarded to 1 student per level
 *   Class Award – 1 to 2 students per class
 
-3.  **Gabriel’s Gold Scout Award**
+**3.  Gabriel’s Gold Scout Award**
 
 *   Awarded on a yearly basis (from 2007 to 2016) to one deserving Sec 1 student who is an active scout
 *   Presented to awardee at Awards Presentation Ceremony of the following year
 
-4.  **VIA Award**
+**4.  VIA Award**
 
 *   Gold Award – Students who attain more than 100 hours of VIA
 *   Silver Award – Students who attain more than 60 hours of VIA
 *   Bronze Award – Students who attain more than 40 hours of VIA
 
-5.  **HIECA Award**
+**5.  HIECA Award**
 
 *   Class point system
 *   Tally class point in 4 key domains: Academic, Socio-Moral, Physical and Aesthetics

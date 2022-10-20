@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - Rewards & Recognition/.keep
       - Honours Scroll (Character & Citizenship).md
       - School Rules.md
       - Timetables.md

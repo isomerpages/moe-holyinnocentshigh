@@ -4,9 +4,8 @@ permalink: /information-for-students-and-parents/rewards-n-recognition/honours-s
 description: ""
 third_nav_title: Rewards & Recognition
 ---
+**Honours Scroll (Character & Citizenship)**
 
-Honours Scroll (Character & Citizenship)
-========================================
 
 1.  **Student of the Year**
 

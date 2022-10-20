@@ -11,11 +11,11 @@ description: ""
 * [2022 Sec 2 Subject Selection Ex briefing for students (25 Oct 2022)](https://drive.google.com/file/d/16nmV6zCaE5NAsCoZeER0QEIMly2oO_A1/view?usp=sharing) - **\*(New)**
 
 
-* [Letter to Parents PAT OYES 2023 (10 October 2022)](https://drive.google.com/file/d/1WVwBw4bqqnybhYb5oMPdRPTdkmqhDOsV/view?usp=sharing) - **\*(New)**
+* [Letter to Parents PAT OYES 2023 (10 October 2022)](https://drive.google.com/file/d/1WVwBw4bqqnybhYb5oMPdRPTdkmqhDOsV/view?usp=sharing) 
 
-* [PAT and OYEA 2023 Slides for Assembly and Contact Time (10 October 2022)](http://ile/d/f1-BF0216iyiFg21TDZapW08mzQo4Vl9lq/view?usp=sharing) - **\*(New)**
+* [PAT and OYEA 2023 Slides for Assembly and Contact Time (10 October 2022)](http://ile/d/f1-BF0216iyiFg21TDZapW08mzQo4Vl9lq/view?usp=sharing)
 
-* [2022 Sec 2 Subject Selection Exercise (Sec 2 PTM) (1 August 2022)](https://drive.google.com/file/d/1B0jv4PobD2UIWtu4T0CQEdeEg3qf6AE1/view?usp=sharing) - **\*(New)**  
+* [2022 Sec 2 Subject Selection Exercise (Sec 2 PTM) (1 August 2022)](https://drive.google.com/file/d/1B0jv4PobD2UIWtu4T0CQEdeEg3qf6AE1/view?usp=sharing) 
 * [2022 Sec 2 Subject Selection Exercise Briefing (26 May 2022)](https://drive.google.com/file/d/1WKXLLDlV9l6O7hBtvICFGJ49aWqP5Sd0/view?usp=sharing)
 * [Q&A Parents Engagement Session (26 May 2022)](https://drive.google.com/file/d/1rLEBdH_gECXfEL1LnAwC-hZon4TONo5Z/view?usp=sharing)  
 * [Zoom Engagement Session](https://holyinnocentshigh.moe.edu.sg/about/information-for-students-and-parents/goog_1369046187) [(26 May 2022)](https://youtu.be/DZS835yw8A8)  

@@ -40,7 +40,7 @@ Criteria:
 
 **5.  HIECA Award**
 
-*   Class point system
-*   Tally class point in 4 key domains: Academic, Socio-Moral, Physical and Aesthetics
-*   Encourage all-round excellence in terms of academic, social-moral, physical and aesthetic areas
-*   Promote class spirit by building peer relationship and enhancing teacher-student rapport
+*   Class point system.
+*   Tally class point in 4 key domains: Academic, Socio-Moral, Physical and Aesthetics.
+*   Encourage all-round excellence in terms of academic, social-moral, physical and aesthetic areas.
+*   Promote class spirit by building peer relationship and enhancing teacher-student rapport.

@@ -7,7 +7,7 @@ description: ""
 
 ##### **Character Development and Social-Emotional Well-Being**
 
-|     <mark>Areas</mark>  | <mark>In School</mark> | <mark>At home</mark> |
+|      Areas | In School | At home |
 |---|---|---|
 | General<br> Discipline  | Form Teachers (FT) are the key liaison persons with parents. On the first day of school, FT will brief students on the school rules printed in the Student Handbook. The school expects students to abide by school rules at all times, and uphold the image of the school through their attitudes, behaviour and actions. | Parents may read the Student Handbook and ensure their children follow the school rules (especially on attire and personal grooming and the usage of mobile phone or other electronic devices brought to school). |
 | Serious<br> Offences <br>e.g. <br>Cheating/<br>Truancy  | FT or Discipline Teachers (DT) will inform parents if their children are involved in serious offences. <br><br>Depending on the nature of the offences, parents may be asked to meet FT/DT in school to discuss how parents and school can collaborate to adopt measures to help the student learn from the offence. Where necessary, appropriate punishment will be meted out and students sent for counselling. | Parents should work closely with the school to help their children change their undesirable behaviours. Parents should take time and effort to counsel their children, help them process the circumstances of the impact of their actions on self and others through reflection, and encourage them to do the right thing. If their children are suspended, parents should ensure that their children stay at home during the suspension period, and bring their children back to school once the suspension period is over. |

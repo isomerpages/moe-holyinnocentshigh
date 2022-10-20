@@ -4,5 +4,4 @@ permalink: /curriculum/programmes/dsa/
 description: ""
 third_nav_title: Programmes
 ---
-Click here for [**Direct School Admission 2022**](https://sites.google.com/hihs.edu.sg/hihs-dsa/)
-
+Click [**here**](https://sites.google.com/hihs.edu.sg/hihs-dsa/) for Direct School Admission 2022

@@ -31,7 +31,7 @@ To engage parents in partnership with HIHS to nurture students holistically.
 | Treasurer: Ms Bridget Teng |
 |
 
-**Connect with us at our [PSG Facebook]([https://www.facebook.com/HIPSG](https://www.facebook.com/HIPSG)) page!**
+**Connect with us at our [PSG Facebook](https://www.facebook.com/HIPSG) page!**
 
 <img src="/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/2019%20PSG%20Activities.gif" 
      style="width:75%">

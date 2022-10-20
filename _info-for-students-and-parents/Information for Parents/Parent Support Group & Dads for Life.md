@@ -47,4 +47,3 @@ Besides our Parent Support Group, we are also partnering Centre for Fathering to
 Look out on Parents Gateway for announcements about our upcoming activities!
 
 ![](/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/parenting4.png)
-

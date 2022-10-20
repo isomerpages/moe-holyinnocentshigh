@@ -34,6 +34,8 @@ To engage parents in partnership with HIHS to nurture students holistically.
 **Connect with us at our [PSG Facebook]([https://www.facebook.com/HIPSG](https://www.facebook.com/HIPSG)) page!**
 
 ![2019 PSG Activity](/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/2019%20PSG%20Activities.gif)
+<img src="/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/2019%20PSG%20Activities.gif" 
+     style="width:75%">
 
 #### **HI Dads For Life**
 
@@ -46,5 +48,3 @@ Look out on Parents Gateway for announcements about our upcoming activities!
 
 ![](/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/parenting4.png)
 
-<img src="/images/About/Info%20for%20Students%20and%20Parents/Information%20for%20Parents/Parent%20Support%20Group/parenting4.png" 
-     style="width:200%">

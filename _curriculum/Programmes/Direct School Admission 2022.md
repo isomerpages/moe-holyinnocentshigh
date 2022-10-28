@@ -12,5 +12,5 @@ third_nav_title: Programmes
 <a href="https://sites.google.com/hihs.edu.sg/hihs-dsa"/>
 <img src=/images/Curriculum/Direct%20school%20admission%202022.png>
 	     <div class="overlay">
-        <div class="text">Press here for Direct School Admission 2022</div>
+        <div class="Press here for Direct School Admission 2022"></div>
 </div>

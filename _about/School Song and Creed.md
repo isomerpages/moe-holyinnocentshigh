@@ -18,13 +18,15 @@ The teachers at HIHS devote themselves to their calling.  They desire to groom 
 
 Listen to [our school song](https://drive.google.com/file/d/19t35f6TKtSH_a9oy4VgvwmoxRjVuikhZ/view "HIHS School Song").
 
-<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_kWE3VWix0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!---<div>
 <audio controls="">
   <source src="https://holyinnocentshigh.moe.edu.sg/qql/slot/u205/OUR%20HIHS/School%20Song%20and%20Creed/02-Track-2.mp3" type="audio/mpeg"> </source>
 		
 Your browser does not support the audio element.
 </audio>
-</div>
+</div>--->
 
 #### **School Creed**
 I am special because God created me  

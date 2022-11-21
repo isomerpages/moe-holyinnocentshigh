@@ -1,0 +1,5 @@
+collections:
+  links:
+    output: true
+    order:
+      - Parent Gateway Portal.md

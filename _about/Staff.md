@@ -26,15 +26,15 @@ description: ""
 | Year Head | Mr Chua Chong Wen Clement | [chua_chong_wen_clement@moe.edu.sg](mailto:chua_chong_wen_clement@moe.edu.sg) |
 | Assistant Year Head | Ms Lim Lee Lian | [lim_lee_lian@moe.edu.sg](mailto:lim_lee_lian@moe.edu.sg) |
 | Assistant Year Head | Miss Siti Aisyah Safiyuddin  | [siti_aisyah_safiyuddin@moe.edu.sg](mailto:siti_aisyah_safiyuddin@moe.edu.sg)   |
-| Assistant Year Head (Internal)   |  Ms Siti Salmeah Ameer | [siti_salmeah_ameer@moe.edu.sg](mailto:siti_salmeah_ameer@moe.edu.sg)   |
+| SH/ Aesthetics |  Ms Kwa Yi Ru Grace | [kwa_yi_ru_grace@moe.edu.sg](mailto:kwa_yi_ru_grace@moe.edu.sg)   |
 | SH/ Character & Citizenship Education  | Ms Quan Liqin Lynn  | [quan_liqin@moe.edu.sg](mailto:quan_liqin@moe.edu.sg)  |
-| SH/ Chemistry (Covering HOD/ SEN) | Mrs Mok Yilin Sheryl | [koh_yilin_sheryl@moe.edu.sg](mailto:koh_yilin_sheryl@moe.edu.sg) |
-| SH Chemistry (Internal) | Ms Woo Wei Shan | [woo_wei_shan@moe.edu.sg](mailto:woo_wei_shan@moe.edu.sg) |
 |  SH/ Educational Support | Mr Shahrom Asmani  | [muhammad_shahrom_asmani@moe.edu.sg](mailto:muhammad_shahrom_asmani@moe.edu.sg)  |
 | SH/ English Language | Ms Koh Lee Ling Alexis | [koh_lee_ling@moe.edu.sg](mailto:koh_lee_ling@moe.edu.sg) |
+| SH/ English Literature | Ms Divya Raman | [divya_raman@moe.edu.sg](mailto:divya_raman@moe.edu.sg) |
 | SH/ Geography | Ms Chen Huifeng Adely | [chen_huifeng@moe.edu.sg](mailto:chen_huifeng@moe.edu.sg) |
-| SH/ Mathematics | Mr Choy Wai Keong Brandon | [brandon_choy_wai_keong@moe.edu.sg](mailto:brandon_choy_wai_keong@moe.edu.sg) |
+| SH/ Mathematics | Ms Toh Su Yi | [toh_su_yi@moe.edu.sg](mailto:toh_su_yi@moe.edu.sg) |
 | SH/ Physical Education | Mr Tay Boon Chong Jeffrey  | [tay_b_c_jeffrey@moe.edu.sg](mailto:tay_b_c_jeffrey@moe.edu.sg)  |
+| SH/ Science | Ms Woo Wei Shan | [woo_wei_shan@moe.edu.sg](mailto:woo_wei_shan@moe.edu.sg) |
 | LT/ Social Studies  | Mrs Renuka Krishnah  | [renuka_thankak_krishnah@moe.edu.sg](mailto:renuka_thankak_krishnah@moe.edu.sg)  |
 | Senior School Counsellor | Mr Seng Wei Jian Justin | [seng_wei_jian_justin@moe.edu.sg](mailto:seng_wei_jian_justin@moe.edu.sg)  |
 |

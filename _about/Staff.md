@@ -43,10 +43,10 @@ description: ""
 
 | Class | Form Teachers | Email Address |
 |---|---|---|
-| 1 CHARITY  | Ms Siti Salmeah Ameer <br> Ms Natalie Soong Shuyi  | [siti_salmeah_ameer@moe.edu.sg](mailto:siti_salmeah_ameer@moe.edu.sg) <br> <br> [natalie_soong_shuyi@moe.edu.sg](mailto:natalie_soong_shuyi@moe.edu.sg)|
-|   1 COURAGE | Ms Tan Hwa Chye Susan <br>Ms Cheng Guomei <br>Ms Apollonia Riard | [tan_hwa_chye@moe.edu.sg](mailto:tan_hwa_chye@moe.edu.sg) <br><br> [cheng_guomei@moe.edu.sg](mailto:cheng_guomei@moe.edu.sg) <br> [apollonia_riard@moe.edu.sg](mailto:apollonia_riard@moe.edu.sg) |
-|  1 FAITH | Ms Amitra Ilangovan <br> Mrs Chin Soo Ngo Julia | [amitra_ilangovan@moe.edu.sg](mailto:amitra_ilangovan@moe.edu.sg) <br> [chia_soo_ngo@moe.edu.sg](mailto:chia_soo_ngo@moe.edu.sg) |
-|  1 HOPE | Ms Waheedah Muhd Khaliq <br> Miss Ong Wen Hui | [waheedah_muhammad_khaliq@moe.edu.sg](mailto:waheedah_muhammad_khaliq@moe.edu.sg) <br> [ong_wen_hui@moe.edu.sg](mailto:ong_wen_hui@moe.edu.sg) |
+| 1 CHARITY  | Ms Siti Salmeah Ameer <br> Ms Natalie Soong Shuyi  | [siti_salmeah_ameer@moe.edu.sg](mailto:siti_salmeah_ameer@moe.edu.sg) <br> [natalie_soong_shuyi@moe.edu.sg](mailto:natalie_soong_shuyi@moe.edu.sg)|
+|   1 COURAGE | Ms Tan Hwa Chye Susan <br>Ms Cheng Guomei <br>Ms Apollonia Riard | [tan_hwa_chye@moe.edu.sg](mailto:tan_hwa_chye@moe.edu.sg) <br> [cheng_guomei@moe.edu.sg](mailto:cheng_guomei@moe.edu.sg) <br> [apollonia_riard@moe.edu.sg](mailto:apollonia_riard@moe.edu.sg) |
+|  1 FAITH | Mr Yeo Jian Wen Alvin <br> Miss Jolene Koh Shi Yue | [yeo_jian_wen_alvin@moe.edu.sg](mailto:yeo_jian_wen_alvin@moe.edu.sg) <br>[jolene_koh_shi_yue@moe.edu.sg](mailto:jolene_koh_shi_yue@moe.edu.sg) |
+|  1 HOPE | Ms Hor Hui Lin Katherine <br> Ms Amitra IIangovan | [hor_hui_lin_katherine@moe.edu.sg](mailto:hor_hui_lin_katherine@moe.edu.sg) <br><br> [amitra_ilangovan@moe.edu.sg](mailto:amitra_ilangovan@moe.edu.sg) |
 |  1 HUMILITY | Mr Pee Kay Yang <br> Mrs Ng-Nam Susanne | [pee_kay_yang@moe.edu.sg](mailto:pee_kay_yang@moe.edu.sg) <br> [nam_susanne@moe.edu.sg](mailto:nam_susanne@moe.edu.sg) |
 | 1 INTEGRITY  | Mr Lee Kian Aik Damien <br> Ms Liu Nan | [lee_kian_aik@moe.edu.sg](mailto:lee_kian_aik@moe.edu.sg) <br> [liu_nan@moe.edu.sg](mailto:liu_nan@moe.edu.sg) |
 |  1 LOVE | Mdm Agnes Chin Mei San <br> Mrs Seah Poh Ling Valerie | [chin_mei_san_agnes@moe.edu.sg](mailto:chin_mei_san_agnes@moe.edu.sg) <br> [ng_poh_ling_valerie@moe.edu.sg](mailto:ng_poh_ling_valerie@moe.edu.sg) |

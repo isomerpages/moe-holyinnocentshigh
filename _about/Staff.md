@@ -43,7 +43,7 @@ description: ""
 
 | Class | Form Teachers | Email Address |
 |---|---|---|
-| 1 CHARITY  | Ms Soh Sze Chuan Sabrina  | [soh_sze_chuan@moe.edu.sg](mailto:soh_sze_chuan@moe.edu.sg)  |
+| 1 CHARITY  | Ms Siti Salmeah Ameer <br> Ms Natalie Soong Shuyi  | [siti_salmeah_ameer@moe.edu.sg](mailto:siti_salmeah_ameer@moe.edu.sg) <br> <br> [natalie_soong_shuyi@moe.edu.sg](mailto:natalie_soong_shuyi@moe.edu.sg)|
 |   1 COURAGE | Ms Tan Choon Heok <br> Ms Poh Qiu Yan | [tan_choon_heok@moe.edu.sg](mailto:tan_choon_heok@moe.edu.sg) <br> [poh_qiu_yan@moe.edu.sg](mailto:poh_qiu_yan@moe.edu.sg) |
 |  1 FAITH | Ms Amitra Ilangovan <br> Mrs Chin Soo Ngo Julia | [amitra_ilangovan@moe.edu.sg](mailto:amitra_ilangovan@moe.edu.sg) <br> [chia_soo_ngo@moe.edu.sg](mailto:chia_soo_ngo@moe.edu.sg) |
 |  1 HOPE | Ms Waheedah Muhd Khaliq <br> Miss Ong Wen Hui | [waheedah_muhammad_khaliq@moe.edu.sg](mailto:waheedah_muhammad_khaliq@moe.edu.sg) <br> [ong_wen_hui@moe.edu.sg](mailto:ong_wen_hui@moe.edu.sg) |

@@ -65,7 +65,7 @@ description: ""
 | 3 INTEGRITY | Ms Lee Wan Jing Melodie | [lee_wan_jing@moe.edu.sg](mailto:lee_wan_jing@moe.edu.sg) |
 | 3 RESPECT | Miss Chai Ming Rong | [ming_rong_chai@moe.edu.sg](mailto:ming_rong_chai@moe.edu.sg) |
 | 3 FAITH | Mr Nalpon Walter Edgar <br> Ms Pan Jiaqi Bernice | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br><br> [pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
-| 3 LOVE | Ms Chen Xinyi <br> Mr Abdul Hadi | [chenxinyi@moe.edu.sg](mailto:chenxinyi@moe.edu.sg) <br> [abdulhadiabdulwahab@moe.edu.sg](mailto:abdulhadiabdulwahab@moe.edu.sg) |
+| 3 LOVE | Miss Zhang Jiexin <br> Miss Chew Pang Juan Christina | [zhang_jiexin@moe.edu.sg](mailto:zhang_jiexin@moe.edu.sg) <br> [chew_pang_juan@moe.edu.sg](mailto:chew_pang_juan@moe.edu.sg) |
 | 3 HOPE | Miss Lee Xin Yan Viviana <br> Mrs Tan-Yeong May Kit | [leexinyanviviana@moe.edu.sg](mailto:leexinyanviviana@moe.edu.sg) <br> [yeongmaykit@moe.edu.sg](mailto:yeongmaykit@moe.edu.sg) |
 | 4 CHARITY | Ms Zhang Jiexin <br> Mdm Zhu Mei | [zhangjiexin@moe.edu.sg](mailto:zhangjiexin@moe.edu.sg) <br> [zhumei@moe.edu.sg](mailto:zhumei@moe.edu.sg) |
 | 4 HUMILITY | Ms Divya Raman <br> Mr Lai Mun Guan | [divyaraman@moe.edu.sg](mailto:divyaraman@moe.edu.sg) <br> [laimunguan@moe.edu.sg](mailto:laimunguan@moe.edu.sg) |

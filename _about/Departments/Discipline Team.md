@@ -30,12 +30,19 @@ third_nav_title: Departments
 * **Conduct** ourselves with **integrity** and **humility**
 * Everyone is **unique** and we can be **purposeful & resilient** in our lives and work towards our goals and dreams. 
 
-**Under Gear-up Program - Treetop walk experience at Windsor Park**
+**Relationships**
+<br> Let the relationships that I build be meaningful and filled with empathy & positivity. May i learn to build trust and be human-centred at work and play.
+* a. Let me be guided by **respect** and **love** and **take responsibility for my own words and actions** in both online and offline.
+* b. Let us give one another the time and space to develop at our own pace.
+* c. May I learn to be **inclusive of others** and recognize & celebrate exemplary behaviour.
 
-![](/images/sdt%203n4.jpg)
+**Choices**
+<br> I have the power to mae responsible choices, I can choose to respond with humility, integrity, respect and love in my daily interactions with others. In doing so, I will learn and grow into a HI Good Samaritan.
+* a. I choose to strike a heality balance between work and play as I discover about myself and my goals.
+* b. I choose to use **kind words** as I speak so that I build a more inclusive and positive environment.
+* c. In any given situation, I have a choice to exercise **moral courage,** guided by **truth, justice** and **integrity.**
 
-**Graduation Ceremony 2019**
+# School Rules
+Please refer to the school rules and consequences [here](https://drive.google.com/file/d/1_64DXXYqCuRCI3C66SOS4lKN9TzBqWjV/view?usp=share_link).
 
-![](/images/sdt5.jpg)
 
-**Gear-up experience**

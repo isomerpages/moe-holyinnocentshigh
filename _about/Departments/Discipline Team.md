@@ -44,5 +44,3 @@ third_nav_title: Departments
 
 # School Rules
 Please refer to the school rules and consequences [here](https://drive.google.com/file/d/1_64DXXYqCuRCI3C66SOS4lKN9TzBqWjV/view?usp=share_link).
-
-

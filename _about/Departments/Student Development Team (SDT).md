@@ -4,7 +4,7 @@ permalink: /about/Departments/student-development-team/
 description: ""
 third_nav_title: Departments
 ---
-### **Student Development Team (SDT)**
+### **Discipline Team**
 
 Our Student Development Team (SDT) aims to nurture students to be compassionate and morally upright citizens to serve God and Society. Every student in Holy Innocents’ High School is nurtured in a systematic approach, beginning from leading self, to leading people and thinking through our various programmes.
 

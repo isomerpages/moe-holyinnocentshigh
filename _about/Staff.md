@@ -59,23 +59,23 @@ description: ""
 | 2 INTEGRITY | Mr Lee Kian Aik Damien <br> Ms Liu Nan | [lee_kian_aik@moe.edu.sg](mailto:lee_kian_aik@moe.edu.sg)  <br> <br>[liu_nan@moe.edu.sg](mailto:liu_nan@moe.edu.sg) |
 |  2 LOVE | Mdm Chin Mei San, Agnes<br> Mrs Seah Poh Ling, Valerie | [chin_mei_san_agnes@moe.edu.sg](mailto:chin_mei_san_agnes@moe.edu.sg) <br><br> [ng_poh_ling_valerie@moe.edu.sg](mailto:ng_poh_ling_valerie@moe.edu.sg) |
 | 2 RESPECT | Miss Lim Lay Yong <br> Mrs Tay Ching Yee Geraldine| [lim_lay_yong@moe.edu.sg](mailto:lim_lay_yong@moe.edu.sg) <br> [geraldine_leong_ching_yee@moe.edu.sg](mailto:geraldine_leong_ching_yee@moe.edu.sg) |
-|  3 CHARITY | Ms Tan Mei Ling Gwendolynn  | [tan_mei_ling_gwendolynn@moe.edu.sg](mailto:tan_mei_ling_gwendolynn@moe.edu.sg)  |
-| 3 COURAGE | Mr Ng Kai Siong Zoel  | [kai_siong_zoel_ng@moe.edu.sg](mailto:kai_siong_zoel_ng@moe.edu.sg)  |
-|  3 HUMILITY | Ms Apollonia Riard | [apollonia_riard@moe.edu.sg](mailto:apollonia_riard@moe.edu.sg) |
-| 3 INTEGRITY | Ms Liang Meiyi | [liang_meiyi@moe.edu.sg](mailto:liang_meiyi@moe.edu.sg) |
-| 3 RESPECT | Miss Teo Yu Qing Yvonne | [teo_yu_qing_yvonne@moe.edu.sg](mailto:teo_yu_qing_yvonne@moe.edu.sg) |
-| 3 FAITH | Ms Hew Kai Ling Vanessa <br> Ms Lua Bee Hian | [hew_kai_ling_vanessa@moe.edu.sg](mailto:hew_kai_ling_vanessa@moe.edu.sg) <br> [lua_bee_hian@moe.edu.sg](mailto:lua_bee_hian@moe.edu.sg) |
-| 3 LOVE | Ms Chen Xinyi <br> Mr Abdul Hadi | [chen_xinyi@moe.edu.sg](mailto:chen_xinyi@moe.edu.sg) <br> [abdul_hadi_abdul_wahab@moe.edu.sg](mailto:abdul_hadi_abdul_wahab@moe.edu.sg) |
-| 3 HOPE | Miss Lee Xin Yan Viviana <br> Mrs Tan-Yeong May Kit | [lee_xin_yan_viviana@moe.edu.sg](mailto:lee_xin_yan_viviana@moe.edu.sg) <br> [yeong_may_kit@moe.edu.sg](mailto:yeong_may_kit@moe.edu.sg) |
-| 4 CHARITY | Ms Zhang Jiexin <br> Mdm Zhu Mei | [zhang_jiexin@moe.edu.sg](mailto:zhang_jiexin@moe.edu.sg) <br> [zhu_mei@moe.edu.sg](mailto:zhu_mei@moe.edu.sg) |
-| 4 HUMILITY | Ms Divya Raman <br> Mr Lai Mun Guan | [divya_raman@moe.edu.sg](mailto:divya_raman@moe.edu.sg) <br> [lai_mun_guan@moe.edu.sg](mailto:lai_mun_guan@moe.edu.sg) |
-|  4 INTEGRITY | Mr Chang Jee Yen <br> Ms Lin Lifen Colene | [chang_jee_yen@moe.edu.sg](mailto:chang_jee_yen@moe.edu.sg) <br> [lin_lifen_colene@moe.edu.sg](mailto:lin_lifen_colene@moe.edu.sg) |
-|  4 RESPECT | Ms Lee Wan Jing Melodie <br> Ms Woo Wei Shan | [lee_wan_jing@moe.edu.sg](mailto:lee_wan_jing@moe.edu.sg) <br> [woo_wei_shan@moe.edu.sg](mailto:woo_wei_shan@moe.edu.sg) |
-|  4 FAITH | Mr Chua Poh Teck Clifford <br> Ms Ng Lin Xing Cherlyn | [chua_poh_teck@moe.edu.sg](mailto:chua_poh_teck@moe.edu.sg) <br> [ng_lin_xing_cherlyn@moe.edu.sg](mailto:ng_lin_xing_cherlyn@moe.edu.sg) |
-| 4 LOVE | Mrs Chang Poh Joo <br> Miss Chew Pang Juan Christina <br> Mr Lau Chee Seng | [tan_poh_joo@moe.edu.sg](mailto:tan_poh_joo@moe.edu.sg) <br> [chew_pang_juan@moe.edu.sg](mailto:chew_pang_juan@moe.edu.sg) <br> [lau_chee_seng@moe.edu.sg](mailto:lau_chee_seng@moe.edu.sg) |
-|  4 HOPE | Ms Chai Ming Rong <br> Mdm Hor Hui Lin Katherine | [ming_rong_chai@moe.edu.sg](mailto:ming_rong_chai@moe.edu.sg) <br> [hor_hui_lin_katherine@moe.edu.sg](mailto:hor_hui_lin_katherine@moe.edu.sg) |
-| 5 FAITH | Mr Nalpon Walter Edgar  | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg)  |
-| 5 LOVE | Mr Lin Weiding  | [lin_weiding@moe.edu.sg](mailto:lin_weiding@moe.edu.sg)  |
-|  School Counsellor | Ms Mary Neo  | [neo_mary@moe.edu.sg](mailto:neo_mary@moe.edu.sg)  |
-| AED<br> (Learning &<br> Behavioural Support) | Ms Nina S Kalyani | [s_kalyani@moe.edu.sg](mailto:s_kalyani@moe.edu.sg) |
-|
+|  3 CHARITY | Ms Ng I-Ling Violet  | [ng_i-_ling_violet@moe.edu.sg](mailto:ng_i-_ling_violet@moe.edu.sg)  |
+| 3 COURAGE | Mr Eldwen Ong | [ong_eldwen@moe.edu.sg](mailto:ong_eldwen@moe.edu.sg)  |
+|  3 HUMILITY | Mr Lai Mun Guan | [lai_mun_guan@moe.edu.sg](mailto:lai_mun_guan@moe.edu.sg) |
+| 3 INTEGRITY | Ms Lee Wan Jing Melodie | [lee_wan_jing@moe.edu.sg](mailto:lee_wan_jing@moe.edu.sg) |
+| 3 RESPECT | Miss Chai Ming Rong | [ming_rong_chai@moe.edu.sg](mailto:ming_rong_chai@moe.edu.sg) |
+| 3 FAITH | Mr Nalpon Walter Edgar <br> Ms Pan Jiaqi Bernice | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br><br> [pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
+| 3 LOVE | Ms Chen Xinyi <br> Mr Abdul Hadi | [chenxinyi@moe.edu.sg](mailto:chenxinyi@moe.edu.sg) <br> [abdulhadiabdulwahab@moe.edu.sg](mailto:abdulhadiabdulwahab@moe.edu.sg) |
+| 3 HOPE | Miss Lee Xin Yan Viviana <br> Mrs Tan-Yeong May Kit | [leexinyanviviana@moe.edu.sg](mailto:leexinyanviviana@moe.edu.sg) <br> [yeongmaykit@moe.edu.sg](mailto:yeongmaykit@moe.edu.sg) |
+| 4 CHARITY | Ms Zhang Jiexin <br> Mdm Zhu Mei | [zhangjiexin@moe.edu.sg](mailto:zhangjiexin@moe.edu.sg) <br> [zhumei@moe.edu.sg](mailto:zhumei@moe.edu.sg) |
+| 4 HUMILITY | Ms Divya Raman <br> Mr Lai Mun Guan | [divyaraman@moe.edu.sg](mailto:divyaraman@moe.edu.sg) <br> [laimunguan@moe.edu.sg](mailto:laimunguan@moe.edu.sg) |
+|  4 INTEGRITY | Mr Chang Jee Yen <br> Ms Lin Lifen Colene | [changjeeyen@moe.edu.sg](mailto:changjeeyen@moe.edu.sg) <br> [linlifencolene@moe.edu.sg](mailto:linlifencolene@moe.edu.sg) |
+|  4 RESPECT | Ms Lee Wan Jing Melodie <br> Ms Woo Wei Shan | [leewanjing@moe.edu.sg](mailto:leewanjing@moe.edu.sg) <br> [wooweishan@moe.edu.sg](mailto:wooweishan@moe.edu.sg) |
+|  4 FAITH | Mr Chua Poh Teck Clifford <br> Ms Ng Lin Xing Cherlyn | [chuapohteck@moe.edu.sg](mailto:chuapohteck@moe.edu.sg) <br> [nglinxingcherlyn@moe.edu.sg](mailto:nglinxingcherlyn@moe.edu.sg) |
+| 4 LOVE | Mrs Chang Poh Joo <br> Miss Chew Pang Juan Christina <br> Mr Lau Chee Seng | [tanpohjoo@moe.edu.sg](mailto:tanpohjoo@moe.edu.sg) <br> [chewpangjuan@moe.edu.sg](mailto:chewpangjuan@moe.edu.sg) <br> [laucheeseng@moe.edu.sg](mailto:laucheeseng@moe.edu.sg) |
+|  4 HOPE | Ms Chai Ming Rong <br> Mdm Hor Hui Lin Katherine | [mingrongchai@moe.edu.sg](mailto:mingrongchai@moe.edu.sg) <br> [horhuilinkatherine@moe.edu.sg](mailto:horhuilinkatherine@moe.edu.sg) |
+| 5 FAITH | Mr Nalpon Walter Edgar  | [nalponwalteredgar@moe.edu.sg](mailto:nalponwalteredgar@moe.edu.sg)  |
+| 5 LOVE | Mr Lin Weiding  | [linweiding@moe.edu.sg](mailto:linweiding@moe.edu.sg)  |
+|  School Counsellor | Ms Mary Neo  | [neomary@moe.edu.sg](mailto:neomary@moe.edu.sg)  |
+| AED<br> (Learning &<br> Behavioural Support) | Ms Nina S Kalyani | [skalyani@moe.edu.sg](mailto:skalyani@moe.edu.sg) |
+|**

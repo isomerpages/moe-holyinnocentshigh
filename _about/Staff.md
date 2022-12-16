@@ -60,11 +60,11 @@ description: ""
 |  2 LOVE | Mdm Chin Mei San, Agnes<br> Mrs Seah Poh Ling, Valerie | [chin_mei_san_agnes@moe.edu.sg](mailto:chin_mei_san_agnes@moe.edu.sg) <br><br> [ng_poh_ling_valerie@moe.edu.sg](mailto:ng_poh_ling_valerie@moe.edu.sg) |
 | 2 RESPECT | Miss Lim Lay Yong <br> Mrs Tay Ching Yee Geraldine| [lim_lay_yong@moe.edu.sg](mailto:lim_lay_yong@moe.edu.sg) <br> [geraldine_leong_ching_yee@moe.edu.sg](mailto:geraldine_leong_ching_yee@moe.edu.sg) |
 |  3 CHARITY | Ms Ng I-Ling Violet  | [ng_i-_ling_violet@moe.edu.sg](mailto:ng_i-_ling_violet@moe.edu.sg)  |
-| 3 COURAGE | Mr Eldwen Ong | [ong_eldwen@moe.edu.sg](mailto:ong_eldwen@moe.edu.sg)  |
-|  3 HUMILITY | Mr Lai Mun Guan | [lai_mun_guan@moe.edu.sg](mailto:lai_mun_guan@moe.edu.sg) |
+|  3 COURAGE | Mr Lai Mun Guan | [lai_mun_guan@moe.edu.sg](mailto:lai_mun_guan@moe.edu.sg) |
+| 3 HUMILITY | Mr Eldwen Ong | [ong_eldwen@moe.edu.sg](mailto:ong_eldwen@moe.edu.sg)  |
 | 3 INTEGRITY | Ms Lee Wan Jing Melodie | [lee_wan_jing@moe.edu.sg](mailto:lee_wan_jing@moe.edu.sg) |
 | 3 RESPECT | Miss Chai Ming Rong | [ming_rong_chai@moe.edu.sg](mailto:ming_rong_chai@moe.edu.sg) |
-| 3 FAITH | Mr Nalpon Walter Edgar <br> Ms Pan Jiaqi Bernice | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br><br> [pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
+| 3 FAITH | Mr Nalpon Walter Edgar <br> Ms Pan Jiaqi Bernice | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br>[pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
 | 3 LOVE | Miss Zhang Jiexin <br> Miss Chew Pang Juan Christina | [zhang_jiexin@moe.edu.sg](mailto:zhang_jiexin@moe.edu.sg) <br> [chew_pang_juan@moe.edu.sg](mailto:chew_pang_juan@moe.edu.sg) |
 | 3 HOPE | Mr Lin Weiding <br> Ms Gladys Seow Yi Ling | [lin_weiding@moe.edu.sg](mailto:lin_weiding@moe.edu.sg) <br> [gladys_seow_yi_ling@moe.edu.sg](mailto:gladys_seow_yi_ling@moe.edu.sg) |
 | 4 CHARITY | Miss Tan Mei Ling Gwendolynn | [tan_mei_ling_gwendolynn@moe.edu.sg](mailto:tan_mei_ling_gwendolynn@moe.edu.sg) |

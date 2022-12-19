@@ -43,4 +43,4 @@ third_nav_title: Departments
 * c. In any given situation, I have a choice to exercise **moral courage,** guided by **truth, justice** and **integrity.**
 
 # School Rules
-Please refer to the school rules and consequences [here](https://drive.google.com/file/d/1_64DXXYqCuRCI3C66SOS4lKN9TzBqWjV/view?usp=share_link).
+Please refer to the school rules and consequences [here](https://drive.google.com/file/d/1Ia8ikxUweHQllt3xp2IQwrQrBwV0C1NS/view?usp=share_link).

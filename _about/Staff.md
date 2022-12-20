@@ -64,8 +64,8 @@ description: ""
 | 3 HUMILITY | Mr Eldwen Ong | [ong_eldwen@moe.edu.sg](mailto:ong_eldwen@moe.edu.sg)  |
 | 3 INTEGRITY | Ms Lee Wan Jing Melodie | [lee_wan_jing@moe.edu.sg](mailto:lee_wan_jing@moe.edu.sg) |
 | 3 RESPECT | Miss Chai Ming Rong | [ming_rong_chai@moe.edu.sg](mailto:ming_rong_chai@moe.edu.sg) |
-| 3 FAITH | Mr Nalpon Walter Edgar <br> Ms Pan Jiaqi Bernice | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br>[pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
-| 3 LOVE | Miss Zhang Jiexin <br> Miss Chew Pang Juan Christina | [zhang_jiexin@moe.edu.sg](mailto:zhang_jiexin@moe.edu.sg) <br> [chew_pang_juan@moe.edu.sg](mailto:chew_pang_juan@moe.edu.sg) |
+| 3 FAITH | Mr Nalpon Walter Edgar <br> Miss Chew Pang Juan Christina | [nalpon_walter_edgar@moe.edu.sg](mailto:nalpon_walter_edgar@moe.edu.sg) <br>[chew_pang_juan@moe.edu.sg](mailto:chew_pang_juan@moe.edu.sg) |
+| 3 LOVE | Miss Zhang Jiexin <br> Ms Pan Jiaqi Bernice | [zhang_jiexin@moe.edu.sg](mailto:zhang_jiexin@moe.edu.sg) <br> [pan_jiaqi_bernice@moe.edu.sg](mailto:pan_jiaqi_bernice@moe.edu.sg) |
 | 3 HOPE | Mr Lin Weiding <br> Ms Gladys Seow Yi Ling | [lin_weiding@moe.edu.sg](mailto:lin_weiding@moe.edu.sg) <br> [gladys_seow_yi_ling@moe.edu.sg](mailto:gladys_seow_yi_ling@moe.edu.sg) |
 | 4 CHARITY | Miss Tan Mei Ling Gwendolynn | [tan_mei_ling_gwendolynn@moe.edu.sg](mailto:tan_mei_ling_gwendolynn@moe.edu.sg) |
 | 4 COURAGE | Mr Ng Kai Siong Zoel | [kai_siong_zoel_ng@moe.edu.sg](mailto:kai_siong_zoel_ng@moe.edu.sg) |

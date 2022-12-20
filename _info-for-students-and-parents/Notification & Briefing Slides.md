@@ -7,8 +7,10 @@ description: ""
 
 #### **Year 2022**
 
+* [2022 N Level Result Release (19 Dec 2022)](https://drive.google.com/file/d/1Wx-90wfdvPI8vPSCligA7jMCeynTP46A/view?usp=sharing) - **\*(New)**
 
-* [2022 Sec 2 Subject Selection Ex briefing for students (25 Oct 2022)](https://drive.google.com/file/d/16nmV6zCaE5NAsCoZeER0QEIMly2oO_A1/view?usp=sharing) - **\*(New)**
+
+* [2022 Sec 2 Subject Selection Ex briefing for students (25 Oct 2022)](https://drive.google.com/file/d/16nmV6zCaE5NAsCoZeER0QEIMly2oO_A1/view?usp=sharing) 
 
 
 * [Letter to Parents PAT OYES 2023 (10 October 2022)](https://drive.google.com/file/d/1WVwBw4bqqnybhYb5oMPdRPTdkmqhDOsV/view?usp=sharing) 

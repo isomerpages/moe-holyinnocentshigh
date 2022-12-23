@@ -26,8 +26,8 @@ To engage parents in partnership with HIHS to nurture students holistically.
 
 | Organizational Structure |
 |---|
-| Chairperson:Ms Rachel Tan|
-| Vice Chairperson: Ms Esther Goh |
+| Chairperson: Ms Bernadette Ngiam|
+| Vice Chairperson: Ms Jiny Yeong & Irene Tan |
 | Treasurer: Ms Bridget Teng |
 |
 

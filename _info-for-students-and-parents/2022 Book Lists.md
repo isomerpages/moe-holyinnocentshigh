@@ -3,7 +3,6 @@ title: 2022 Book Lists
 permalink: /about/Info-for-Students-and-Parents/2022-book-list/
 description: ""
 ---
+### **2023 Book Lists**
 
-### **2022 Book Lists**
-
-click [here](https://holyinnocentshigh.moe.edu.sg/about/information-for-students-and-parents/2022-book-lists) for more information
+click [here](https://drive.google.com/drive/folders/1AvB9ScR1BEX-Fm1mXFXMobchbNXHJffs?usp=share_link) for more information

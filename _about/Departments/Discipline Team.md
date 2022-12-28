@@ -14,7 +14,7 @@ third_nav_title: Departments
 | Secondary 2 Level Discipline Master (LDM)    | Mr Jeremy Khoo |
 |Secondary 3 Level Discipline Mistress (LDM)  | Ms Gladys Seow |
 |Secondary 4 and 5 Level Discipline Mistress (LDM) | Ms Chen Xinyi |
-  
+|Upper Sec Level Coordinating Discipline Mistress | Miss Siti Aisyah |  
 
 **Philosophy**
 <br> In Holy Innocents' High School, our **Identity,Relationships** and **Choices** are shaped by our values and closely guided by the **Good Samaritan ethos.**

@@ -20,7 +20,7 @@ At the same time, the department also focusses on building a strong foundation a
 | **Head Of Department (HOD/EL)** | Ms Hazel Lee |
 |  **Subject Head (EL)** | Ms Alexis Koh |
 | **Senior Teacher (EL)**  |  Mrs Esther Tan |
-| **Teachers** | Ms Lim Lee Lian (Assistant Year Head, Upper Sec) <br>Ms Siti Aisyah (Assistant Year Head, Lower Sec) <br> Ms Lynn Quan (Subject Head, CCE)<br>Mr Dominic Tan (AED)<br>Ms Agnes Chin<br>Ms Amitra Ilangovan<br>Ms Divya Rahma<br>Ms Gwendolynn Chrissie Tan<br>Mr Jeremy Khoo<br>Ms Lim Lay Yong<br>Ms Lee Wan Jing Melodie<br>Ms Perng Jiawei<br>Mr Simranpal Singh<br>Mrs Susanne Ng<br>Ms Tan Choon Heok<br>Ms Vanessa Hew<br>Ms Violet Ng I-Ling<br>Ms Yvonne Teo<br>Mr Quek Bufeng|
+| **Teachers** | Ms Lim Lee Lian (Assistant Year Head, Upper Sec) <br>Ms Siti Aisyah (Assistant Year Head, Lower Sec) <br> Ms Lynn Quan (Subject Head, CCE)<br>Mr Dominic Tan (AED)<br>Ms Agnes Chin<br>Ms Amitra Ilangovan<br>Ms Divya Raman<br>Ms Gwendolynn Chrissie Tan<br>Mr Jeremy Khoo<br>Ms Lim Lay Yong<br>Ms Lee Wan Jing Melodie<br>Ms Perng Jiawei<br>Mr Simranpal Singh<br>Mrs Susanne Ng<br>Ms Tan Choon Heok<br>Ms Vanessa Hew<br>Ms Violet Ng I-Ling<br>Ms Yvonne Teo<br>Mr Quek Bufeng|
 |
 
 #### **Programmes / Projects / Competitions in 2020**

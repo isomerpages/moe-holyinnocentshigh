@@ -49,10 +49,10 @@ b.    Character and Citizenship Education (CCE)
 
 ##### **Secondary 1**<br> Respectful Relationships & Safety
 
-| LESSONS / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| LESSONS TITLE / DURATION | Lesson Objectives<br> At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|
-| <br><br><br><br><br>1 (60 mins) | ·Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br><br>·Recognise that there are different forms of love<br> (e.g. familial, platonic, romantic love)<br><br>·Recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br><br>·Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | <br><br><br><br>Term 3 <br>Week 2 |
-| 2 (60 mins) | ·Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 <br>Week 2 |
+| <br><br><br><br><br>Steady or Not Lesson 1 <br> (60 mins) | ·Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles <br><br>·Recognise that there are different forms of love<br> (e.g. familial, platonic, romantic love)<br><br>·Recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br><br>·Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | <br><br><br><br>Term 3 <br>Week 2 |
+| Being Aware, Being Safe Lesson 2<br> (60 mins) | ·Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 <br>Week 2 |
 | <br><br>3 (60 mins) | ·Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br> ·Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | <br><br>Term 3<br> Week 3 |
 |
 

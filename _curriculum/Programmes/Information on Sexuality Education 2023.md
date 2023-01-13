@@ -49,8 +49,8 @@ b.    Character and Citizenship Education (CCE)
 
 |  |  |
 |---|---|
-| **UNIT**| 
-| **Lesson Title / Duration** |
+|**UNIT**| **Lesson Title / Duration**|**Lesson Overview**|
+|
 
 
 

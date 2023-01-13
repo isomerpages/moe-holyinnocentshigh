@@ -93,7 +93,7 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 
 ##### **At Holy Innocents’ High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-| **Topics/Lessons | Programme Learning Objectives | Time Period (e.g. Term 3 Week 9)** |
+| **Topics/Lessons** | **Programme Learning Objectives** | **Time Period (e.g. Term 3 Week 9)** |
 |---|---|---|
 | <br><br>Mass Talk by HPB appointed vendor | ·Awareness of the different STIs and HIV/AIDS <br><br>·Modes of transmission <br><br>·Modes of protection, specifically on how the condom is used <br><br>·Consequences and impact of STIs/HIV   | <br><br>Term 2<br> Week 10 |
 | Classroom-based Lesson | ·Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making   | Term 2<br> Week 10 |

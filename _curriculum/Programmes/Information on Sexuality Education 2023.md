@@ -48,7 +48,6 @@ b.    Character and Citizenship Education (CCE)
 #### **At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in 2023:**
 
 
-![2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 ](/images/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.jpeg)
 
 
 

@@ -55,7 +55,8 @@ b.    Character and Citizenship Education (CCE)
 |**Lesson Objectives** <br><br> At the end of the lesson, students will be able to: | - recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br> - recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>- recognise the importance and understand what builds healthy and supportive relationships, both online and offline understand what dating is, and recognise that the readiness and interest in dating vary among individuals </br></br> - understand that physical and psychological abuse from others, especially those we know and trust, can  have strong negative effects on a person’s self-concept.
 | **Time Period** </br></br>**(e.g. Term 1 Week 2)**| Term 3 Week 2
 
-![2034 Sexuality Education](/images/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.jpeg)
+![2023 SEXUALITY EDUCATION LESSONS](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20PNG%20File.png)
+
 	
 
 

@@ -71,20 +71,6 @@ b.    Character and Citizenship Education (CCE)
 
 ![2023 SEXUALITY EDUCATION LESSONS For Secondary 5](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%205.png)
 
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
 #### **eTeens Programme**
 
 _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.

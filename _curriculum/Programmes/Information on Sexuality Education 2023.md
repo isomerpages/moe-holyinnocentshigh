@@ -73,25 +73,24 @@ b.    Character and Citizenship Education (CCE)
 
 #### **eTeens Programme**
 
-_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 ##### **At Holy Innocents’ High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 | **Topics/Lessons** | **Programme Learning Objectives** | **Time Period <br>(e.g. Term 3 Week 9)** |
 |---|---|---|
-| <br><br>Mass Talk by HPB appointed vendor | · Awareness of the different STIs and HIV/AIDS <br><br>· Modes of transmission <br><br>· Modes of protection, specifically on how the condom is used <br><br>· Consequences and impact of STIs/HIV   | <br><br>Term 2<br> Week 10 |
-| Classroom-based Lesson | · Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making   | Term 2<br> Week 10 |
+| <br><br>Mass Talk by HPB appointed vendor | · Awareness of the different STIs and HIV/AIDS <br><br>· Modes of transmission <br><br>· Modes of protection, specifically on how the condom is used <br><br>· Consequences and impact of STIs/HIV   | <br><br>Term 2<br> Week 7 |
+| Classroom-based Lesson | · Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making   | Term 2<br> Week 8 |
 |
 #### **Information for Parents**
 
-1\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by 04/02/2022.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by **25/01/2023**.
 
-3\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by 04/03/2022.
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by **25/01/2023**
 
-4\. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+13\. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-5\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.

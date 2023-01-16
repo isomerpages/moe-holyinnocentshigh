@@ -40,10 +40,10 @@ You may click [here]((https://www.moe.gov.sg/education-in-sg/our-programmes/sex
  
 #### **Sexuality Education Lessons**
 
-6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+6.  The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
 
-7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 #### **At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in 2023:**
 
@@ -73,9 +73,9 @@ You may click [here]((https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 #### **eTeens Programme**
 
-8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 ##### **At Holy Innocents’ High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
@@ -84,10 +84,10 @@ You may click [here]((https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 #### **Information for Parents**
 
-10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by **25/01/2023**.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by **25/01/2023**.
 
-12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by **25/01/2023**
+12. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by **25/01/2023**
 
-13\. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+13. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.

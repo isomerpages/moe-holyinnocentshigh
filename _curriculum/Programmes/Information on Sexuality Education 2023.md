@@ -84,10 +84,10 @@ You may click [here]((https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 #### **Information for Parents**
 
-10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+1. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by **25/01/2023**.
+2. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex A](https://drive.google.com/file/d/1eOPqzaOZDIOtF95C-Kj0UEs1Bcm62oGR/view?usp=sharing) The completed form is to be submitted by **25/01/2023**.
 
-12. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by **25/01/2023**
+3. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable via the link titled [Annex B](https://drive.google.com/file/d/1nqEXQ67hjUGIh9MKR6x4-To7-CxenJLk/view?usp=sharing)  The completed form is to be submitted by **25/01/2023**
 
-13. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+4. Parents can contact the school at 62833381 or [hihs@moe.edu.sg](mailto:hihs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.

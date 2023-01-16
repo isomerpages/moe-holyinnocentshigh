@@ -79,11 +79,9 @@ b.    Character and Citizenship Education (CCE)
 
 ##### **At Holy Innocents’ High School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-| **Topics/Lessons** | **Programme Learning Objectives** | **Time Period <br>(e.g. Term 3 Week 9)** |
-|---|---|---|
-| <br><br>Mass Talk by HPB appointed vendor | · Awareness of the different STIs and HIV/AIDS <br><br>· Modes of transmission <br><br>· Modes of protection, specifically on how the condom is used <br><br>· Consequences and impact of STIs/HIV   | <br><br>Term 2<br> Week 7 |
-| Classroom-based Lesson | · Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making   | Term 2<br> Week 8 |
-|
+![](/images/school%20website%20table.jpg)
+
+
 #### **Information for Parents**
 
 10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.

@@ -5,6 +5,12 @@ description: ""
 ---
 ### **Notification & Briefing Slides**
 
+#### **Year 2023**
+
+* [[Letter to Parents for PDLP Procurement with Annexes (17 Jan 2023)](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=sharing)] - **\*(New)**
+
+* [NDLP - Briefing for Parents HIHS (17 Jan 2023)](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=sharing) - **\*(New)**
+
 #### **Year 2022**
 
 * [2022 N Level Result Release (19 Dec 2022)](https://drive.google.com/file/d/1Wx-90wfdvPI8vPSCligA7jMCeynTP46A/view?usp=sharing) - **\*(New)**

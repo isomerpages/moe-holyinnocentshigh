@@ -16,5 +16,3 @@ Please refer to the files for more information.
 [NDLP - Briefing for Parents](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=share_link)  **\*New**  
   
 [Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=share_link)  **\*New**  
-  
-[PDLP Briefing Video](https://drive.google.com/file/d/1YGs4lxkaK5PZdSUoGQ_cq_oOwezhZp_m/view?usp=sharing)

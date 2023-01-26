@@ -5,6 +5,7 @@ description: ""
 ---
 ### **Personalised Digital Learning Programme (PDLP)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FKftVAU4eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Please refer to the files for more information.
@@ -15,4 +16,4 @@ Please refer to the files for more information.
   
 [NDLP - Briefing for Parents](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=share_link)  **\*New**  
   
-[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=share_link)  **\*New**  
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=share_link)  **\*New**

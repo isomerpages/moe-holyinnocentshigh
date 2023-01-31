@@ -9,7 +9,7 @@ description: ""
 
 The Ministry of Education provides financial assistance to needy Singaporean students from Government and Government-Aided Schools.
 
-Application Form is available [here](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)
+Application Form is available [here](https://drive.google.com/file/d/1czqWXcPSt1VD3rLtp36-7Y2MJYG061YQ/view?usp=sharing)
 
 #### **School Based Financial Scheme (FAS)**
 

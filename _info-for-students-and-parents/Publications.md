@@ -3,8 +3,19 @@ title: Publications
 permalink: /about/Info-for-Students-and-Parents/publications/
 description: ""
 ---
-
 ### **Publications**
+
+#### **2022 Issues**
+[Annual Magazine 2022](https://drive.google.com/file/d/14TePQVlqO9-C9ziRfFQufAl9CxXFEC7k/view?usp=share_link)
+
+
+#### **2021 Issues**
+[Annual Magazine 2021](https://drive.google.com/file/d/1fu_qVvV-IU1gXiWTWji2-Ck9yfeYkO7H/view?usp=share_link)
+
+
+#### **2020 Issues**
+[Annual Magazine 2020](https://drive.google.com/file/d/13T9TeIFSRnkkJjCVwkEnpBvXESjNPSAA/view?usp=share_link)
+
 
 #### **2019 Issues**
 [Annual Magazine 2019](https://drive.google.com/open?id=1dL_uGaYCuFyRcyJLE5T2AvDgpVvKprFM)

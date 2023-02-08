@@ -6,8 +6,7 @@ description: ""
 ### **Schemes of Work**
 
 [English](https://drive.google.com/drive/folders/1JfpIodJZkar-5qayN3z88_sGI6v1n09o?usp=share_link) & [Literature](https://drive.google.com/drive/folders/1JfpIodJZkar-5qayN3z88_sGI6v1n09o?usp=share_link)  
-[Mother Tongue – Chinese](https://drive.google.com/drive/folders/1xzxztgjoQPYA6DQdJG-hd-reOeHou6vE?usp=sharing)  
-[Mother Tongue – Malay](https://drive.google.com/drive/folders/1TtbpYJbmFhPxhkVmmlJNUYflLr9aVi3-?usp=sharing)  
+[Mother Tongue](https://drive.google.com/drive/folders/1JJEQuYhIQGo7m9GlsNExXyZ692lLM7Ud?usp=share_link)  
 [Mathematics](https://drive.google.com/drive/folders/195xVvsc6xEmRdm55gqww5aYZJ1dsqSKY?usp=share_link)  
 [EBS](https://drive.google.com/open?id=1Iiw5ZamJ46wavzsvXy8yG7oGL1zNLH-t) & [POA](https://drive.google.com/drive/folders/1OOiUUFDLoUuj-9pOHkl64pWP7587AQmm?usp=sharing)  
 [Science](https://drive.google.com/drive/folders/19qgwdfEoi4u9Rc1brI1-K2GvlT5Y3n0o?usp=sharing)  

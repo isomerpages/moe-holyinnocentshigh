@@ -5,7 +5,7 @@ description: ""
 ---
 ### **School Management Committee**
 
-###### **Rev Fr Frederick Quek Eng Wah**
+##### **Rev Fr Frederick Quek Eng Wah**
 Chairman & School Chaplain
 
 ##### **Dr Tan Sun Teck Joseph**

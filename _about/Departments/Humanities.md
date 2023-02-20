@@ -44,27 +44,25 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 
 |  |  |
 |---|---|
-| **Head Of Department** | Mr Clement Chua |
+| **Head Of Department** | To be announced |
 | **Subject Head (Geography)** | Ms Chen Huifeng Adely |
 | **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
-| **Geography Teachers**  | Ms Zhang Jiexin<br>Ms Siti Aisyah<br>Mr Lawrence Koh (Year Head, Upper Secondary)  |
+| **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Natalie Soong|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
-|  **History Teachers** | Mr Er Swee Long Gerry <br> Ms Vanessa Hew|
+|  **History Teachers** | Ms Cherlyn Ng<br> Ms Vanessa Hew|
 |   **Lead Teacher (Social Studies)** | Mrs Renuka Krishnah |
-|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Perng Jia Wei Ms Yvonne Teo Ms Cherlyn Ng|
+|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Yvonne Teo<br>Ms Cherlyn Ng|
 |
 
-#### **Programmes / Projects / Competitions in 2019**
+#### **Programmes / Projects / Competitions in 2023**
 
-1. Geographical Investigation (Lower Secondary)
-2. Geography Fieldwork (Upper Secondary)
-3. NUS Geography Challenge
-4. Historical Investigation (Lower Secondary)
-5. History-Literature Learning Journey
-6. Inter-school War & Diplomacy History Card Challenge
-7. Issues Investigation for Social Studies
-8. River Valley Model United Nations
-9. Visit to NeWater Plant
+1. Geographical Investigation
+2. NUS Geography Challenge
+3. Historical Investigation (Lower Secondary)
+4. History-Literature Learning Journey
+5. Inter-school War & Diplomacy History Card Challenge
+6. Issues Investigation for Social Studies
+7. Model United Nations
 
 #### **Photos**
 

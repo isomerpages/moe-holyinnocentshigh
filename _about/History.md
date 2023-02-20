@@ -36,4 +36,5 @@ description: ""
 | **2014** | Established our Learning for Life Programme (LLP) and Applied Learning Programme (ALP) |
 | **2017**   | 125th Anniversary: Celebrating 125 years of serving God and society Completion of Indoor Sports Hall |
 | **2018**  | Mrs Rebecca Chew was appointed Principal in December. |
+| **2022**  | 130th anniversary: Celebrating 130 years of serving God and society |
 |

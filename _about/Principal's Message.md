@@ -10,7 +10,7 @@ description: ""
 <img src="/images/principal.jpg" style="width:35%;margin-right:15px;" align = "left">
 It is my privilege to welcome you to Holy Innocents' High School. It is my firm belief that at HIHS, all students and teachers are anchored in a Christ-centred community, where values of integrity, humility, respect and love fill our shared experiences. Our school looks forward to journey with all students in their preparation for an adventure of life, where each will carry away precious memories and lessons from their growing-up years at HIHS, into their career paths.
 
-Our school vision, A Christ-centred community with Courage to Lead and Compassion to Serve, reflects what the school prides itself on, which is developing our students to be Good Samaritans who are commited to serving God and society. The school contines
+Our school vision, A Christ-centred community with Courage to Lead and Compassion to Serve, reflects what the school prides itself on, which is developing our students to be Good Samaritans who are commited to serving God and society. The school continues the work of nuturing our best talents with an education started by the Catholic fathers in the Punggol and Upper Serangoon area. Thanks to the pioneering fathers' and educators' indomitable faith and steadfast vision, many students from diverse backgrounds now have the opportunity to give back in their community efforts, deepening their understanding of reciprocity in a community of care and love.
 <br>
 <br>
 <br>

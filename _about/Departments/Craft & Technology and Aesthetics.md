@@ -14,23 +14,19 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 | | |
 |---|---|
 | **Head of Department** | Ms Tan Ju-Lyn Wendy |
+| **SH (Aesthetics)** | Ms Kwa Yi Ru Grace |
 | **Music Unit** | Senior Teacher <br> Mrs Geraldine Tay |
-| **Design and Technology Unit** | Mrs Geraldine Tay <br> Ms Chen Xinyi |
+| **Design and Technology Unit** | Mr Gary Tan<br> Ms Chen Xinyi |
 |  **Support Staff** | Mr Sim Beng Hwa <br> Mr Ng Khoon Huat |
-| **Subject Head (EL):** | Ms Lee Xin Fang Hazel Michelle |
 | **Music Unit** | Ms Agnes Chin <br> Ms Gladys Seow Yi Ling |
-| **Art Unit** | Ms Jeslyn Lee <br> Ms Colene Lin <br> Ms Waheedah |
-|
-
-| Assistant Year Head:  |  |
-|---|---|
+| **Art Unit** | Ms Jeslyn Lee<br> Ms Waheedah<br>Mr Abdul Hadi Wahib |
 |  **Nutrition & food Science Unit** |  Mrs Haymini Segar <br>Ms Bernice Pan <br> Ms Ong Wen Hui <br> Ms Ernie Abd Rahman |
 |  **Support Staff** | Mdm Kang Hiang Lang |
 | 
 
 #### **Programmes**
 ##### **Art Programme:**
- The Art programme aims to stimulate the love and appreciation of art among our pupils. Through positive learning experiences in art, students develop visual literacy and learn to express their ideas and feelings through their artworks. Through the Art making process, pupils develop their critical and creative thinking and achieve a sense of self-confidence and achievement which equips them to better understand and engage with the world they live in.
+The Art programme aims to stimulate the love and appreciation of art among our pupils. Through positive learning experiences in art, students develop visual literacy and learn to express their ideas and feelings through their artworks. Through the Art making process, pupils develop their critical and creative thinking and achieve a sense of self-confidence and achievement which equips them to better understand and engage with the world they live in.
  
 ##### **Lower Secondary Art Programme**
  
@@ -84,13 +80,13 @@ The Design and Technology programme aims to develop design-thinking among our st
 
 ##### **Lower Secondary Design and Technology Programme:**
 
-Lower secondary programme focuses on design appreciation. Pupils are introduced to basic design skills as well as uses of technology (Electronics, Mechanisms, and Structures) in products and how they are used to meet our everyday needs. They are also taught basic skills in the handling of tools and simple machinery work with the different resistant materials (woods, metals, plastics) to allow them to realise their product designs.
+Lower secondary programme focuses on design appreciation. Students are introduced to basic design skills as well as uses of technology (Electronics, Mechanisms, and Structures) in products and how they are used to meet our everyday needs. They are also taught basic skills in the handling of tools and simple machinery work with the different resistant materials (woods, metals, plastics) to allow them to realise their product designs. The lower secondary programme provides students with practical skills, creativity, and confidence that they can apply in their everyday lives. Through the lower secondary programme's emphasis on design appreciation, students gain essential skills in basic design and technology. They learn to work with tools and machinery confidently, to successfully bring their product designs to life.
 
 ![](/images/art%205.jpg)
 
 ##### **Upper Secondary Design and Technology Programme:**
 
-Upper secondary programme builds on pupils foundational studies in the lower secondary programme. Pupils are also taught in-depth about the design process (Research, Design opportunities, Ideation, Realisation) and technology (Electronics, Mechanisms, and Structures). Pupils are taught drawing, sketching, and rendering skills to help them express their ideas and thoughts about design. Pupils are also exposed to ICT tools like 3D CAD modelling and Electronic Circuit Simulators.
+Upper secondary programme builds on student's foundational studies in the lower secondary programme. Students are also taught in-depth about the design process (Research, Design opportunities, Ideation, Realisation) and technology (Electronics, Mechanisms, and Structures). Students are taught drawing, sketching, and rendering skills to help them express their ideas and thoughts about design. Students are also exposed to ICT tools like 3D CAD modelling and Electronic Circuit Simulators. The upper secondary programme is a continuation of students' foundational studies in the lower secondary program. Students learn to apply the design process - including research, ideation, and realization to identify and solve authentic problems. They also learn about technology, such as electronics, mechanisms, and structures and how they can be applied into their design solutions. Additionally, students hone their drawing, sketching, and rendering skills, allowing them to better communicate their ideas and thoughts about design. With exposure to ICT tools, such as 3D CAD modelling and electronic circuit simulators, students gain practical experience and hands-on knowledge that will serve them well in the future.
 
 <img src="/images/art%206.jpg" 
      style="width:35%">

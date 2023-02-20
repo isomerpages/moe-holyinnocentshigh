@@ -25,16 +25,16 @@ The guiding principles for the CCE curriculum are as follows:
 
 #### **Character & Citizenship Education Department**
 
-| **Head of Department** | Mr Martin Lee Tze Chuen |
+| **Head of Department** | Mr Lawrence Koh |
 |---|---|
 | **Subject Head** | Ms Lynn Quan |
 | 
 
 #### **CCE Curriculum**
 
-CCE includes areas such as Educational Career Guidance (ECG), Sexuality Education (SEd), Cyberwellness, National Education (NE), Kindness Programmes, and other Values-Related experiences.
+CCE includes areas such as Educational Career Guidance, Sexuality Education, Cyberwellness, National Education, Mental Health, Family Education, and other Values-Related experiences.
 
-Supporting the curriculum are the teachers as well as appointed class leaders such as the class support leaders and Cyberwellness ambassadors.
+Supporting the curriculum are the teachers as well as appointed class leaders such as the Peer Support Leaders, National Education Ambassadors and Cyberwellness ambassadors.
 
 ![](/images/cce%201.jpg)
 

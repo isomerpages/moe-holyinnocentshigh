@@ -35,11 +35,11 @@ Our Physical Education Programme aims to develop in our students by the time the
 |  |
 |---|
 | Mr Ricky Han Cheng Kwang (HOD PE & CCA) |
-| Mr Valerie Lau (HOD Discipline (Covering)) |
+| Mr Valerie Lau (HOD Discipline) |
 | Mr Tay Boon Chong Jeffery (SH PE) |
 | Mrs Ku Tin Tin |
 | Mr Jarrod Tan |
-|
+| Ms Viviana Lee |
 
 #### **Annual Key PE Programme**
 

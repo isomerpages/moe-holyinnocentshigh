@@ -7,6 +7,8 @@ description: ""
 
 #### **Year 2023**
 
+* [[Sec 3 Parents Engagement Session (17 Jan 2023)](https://drive.google.com/file/d/1gbtWE6vl3jwXLDGnJCYb1asTDppxKSzH/view?usp=share_link)] - **\*(New)**
+
 * [[Sec 4 & 5 Parents Engagement Session (10 Feb 2023)](https://drive.google.com/file/d/1CGXOw8cqQdbj_AspjVBE_RStpoBJfpqu/view?usp=share_link)] - **\*(New)**
 
 

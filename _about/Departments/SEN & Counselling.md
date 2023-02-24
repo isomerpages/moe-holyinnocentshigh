@@ -4,37 +4,32 @@ permalink: /about/Departments/SEN-Counselling/
 description: ""
 third_nav_title: Departments
 ---
+### **SEN & Counselling**
 
+#### **Mission**
+To develop competent educators, enabling and believing in students to optimise potential & pursue productive and meaningful life. 
 
-### **Student Management**
+#### **Vision**
+Inclusive Culture, Inclusive Education, Opportunities for All
 
-#### **Department Staff**
-The Student Management Committee comprises HOD Student Management, Discipline Teachers and the Form Teachers.
-
+#### **SEN & Counselling Team**
 |  |  |
 |---|---|
-| HOD (Covering) | Ms Lau Sook Yee Valerie |
-| Secondary 1 Discipline Teacher | Ms Soh Sze Chuan Sabrina |
-| Secondary 2 Discipline Teacher | Ms Chen Xinyi |
-| Secondary 3 Discipline Teacher | Ms Hor Hui Lin Katherine |
-| Secondary 4 & 5 Discipline Teacher | Mr Nalpon Walter Edgar |
-|
+| Head of Department (HOD SEN) | Mrs Mok-Koh Yilin Sheryl |
+| Senior School Counsellor (Senior SC)| Mr Seng Wei Jian Justin |
+| Senior SEN Officer (Senior SENO) | Ms Yeo Gek Cheng Anna |
+| SEN Officer (SENO) | Mdm S Kalyani |
+| Teacher Counsellor (TC) | Ms Perng Jia Wei <br> Mr Tan Chai Soon Jarrod|
+| Teacher trained in Special Needs (TSN) | Mdm Lau Mei Tong <br> Mdm Yeong May Kit | 
 
-**The ultimate aim of a school discipline program is to inculcate self-discipline. Our belief is that all HIHS students are capable of maintaining the highest standard of discipline, decorum, punctuality, neatness & responsible behaviour in the classroom, during co-curricular activities of the school and when they are in the public.**
+#### **Principles of SEN Support (WISDOM)**
 
-#### **Philosophy**
-
-At HIHS we believe that respect is the foundation for responsible behaviour. As such, the school cultivates this important value in three domains:
-
-* Respect for **M**y Self
-* Respect for **O**thers
-* Respect for **E**nvironment
+* **W**ork towards independence
+* **I**ntervene based on needs, not diagnosis
+* **S**trive for equity, aim to be inclusive
+* **D**ocument student profile and support plans
+* **O**rganise a community around the child
+* **M**onitor progress regularly
 
 #### **Practice**
-
-The school encourages a whole school approach to discipline where Form and Co-Form teachers with the help of the Class Executive Committee help to maintain class room discipline. When pupils break school rules and are referred to the Student Management Committee, they are counselled and consequences are meted out. The pupils are also asked to reflect on their behaviour and how it has impacted others. This will lead to a more lasting understanding of one’s incorrect actions and help to inculcate greater self-discipline among our young men and ladies.
-
-#### **School Rules**
-
-Please refer to Parents and Students: [School Rule](https://drive.google.com/file/d/1-lKc7QkYmxzQvIVeDmPurmlGlw6cVpbb/view?usp=sharing)
 

@@ -17,7 +17,7 @@ Inclusive Culture, Inclusive Education, Opportunities for All
 
 #### **SEN & Counselling Team**
 
-|  |  |  |
+|  |  |  
 | -------- | -------- | -------- |
 | Head of Department (HOD SEN)    | Mrs Mok-Koh Yilin Sheryl| 
 | Senior School Counsellor (Senior SC) | Mr Seng Wei Jian Justin|

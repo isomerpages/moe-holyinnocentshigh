@@ -31,5 +31,16 @@ Inclusive Culture, Inclusive Education, Opportunities for All
 * **O**rganise a community around the child
 * **M**onitor progress regularly
 
-#### **Practice**
 
+![](/images/SEN.jpeg)
+
+#### **Intervention & Programmes**
+
+* Wellbeing talks and workshops
+* Peer support Leaders training workshops
+* Social Support Group (SSG) sessions
+* Parenting talks and workshops
+* Circle of Friends (peer support intervention)
+* Facing Your Fears (group intervention programme)
+
+![](/images/SEN2.jpg)

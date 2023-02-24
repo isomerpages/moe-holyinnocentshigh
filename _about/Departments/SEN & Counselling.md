@@ -15,12 +15,12 @@ Inclusive Culture, Inclusive Education, Opportunities for All
 #### **SEN & Counselling Team**
 |  |  |
 |---|---|
-| Head of Department (HOD SEN) | Mrs Mok-Koh Yilin Sheryl |
-| Senior School Counsellor (Senior SC)| Mr Seng Wei Jian Justin |
-| Senior SEN Officer (Senior SENO) | Ms Yeo Gek Cheng Anna |
-| SEN Officer (SENO) | Mdm S Kalyani |
+| Head of Department (HOD SEN) | Mrs Mok-Koh Yilin Sheryl|
+| Senior School Counsellor (Senior SC)| Mr Seng Wei Jian Justin|
+| Senior SEN Officer (Senior SENO) | Ms Yeo Gek Cheng Anna|
+| SEN Officer (SENO) | Mdm S Kalyani|
 | Teacher Counsellor (TC) | Ms Perng Jia Wei <br> Mr Tan Chai Soon Jarrod|
-| Teacher trained in Special Needs (TSN) | Mdm Lau Mei Tong <br> Mdm Yeong May Kit | 
+| Teacher trained in Special Needs (TSN) | Mdm Lau Mei Tong <br> Mdm Yeong May Kit| 
 
 #### **Principles of SEN Support (WISDOM)**
 

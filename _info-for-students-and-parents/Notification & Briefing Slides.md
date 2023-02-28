@@ -11,14 +11,14 @@ description: ""
 
 * [[Sec 2 Parents Engagement Session (24 Feb 2023)](https://drive.google.com/file/d/1tKh4te4LEVUcBcOwAycNPphTPPYdxJaR/view?usp=sharing)] - **\*(New)**
 
-* [[Sec 3 Parents Engagement Session (17 Jan 2023)](https://drive.google.com/file/d/1gbtWE6vl3jwXLDGnJCYb1asTDppxKSzH/view?usp=share_link)] - **\*(New)**
+* [[Sec 3 Parents Engagement Session (17 Jan 2023)](https://drive.google.com/file/d/1gbtWE6vl3jwXLDGnJCYb1asTDppxKSzH/view?usp=share_link)]
 
-* [[Sec 4 & 5 Parents Engagement Session (10 Feb 2023)](https://drive.google.com/file/d/1CGXOw8cqQdbj_AspjVBE_RStpoBJfpqu/view?usp=share_link)] - **\*(New)**
+* [[Sec 4 & 5 Parents Engagement Session (10 Feb 2023)](https://drive.google.com/file/d/1CGXOw8cqQdbj_AspjVBE_RStpoBJfpqu/view?usp=share_link)]
 
 
-* [[Letter to Parents for PDLP Procurement with Annexes (17 Jan 2023)](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=sharing)] - **\*(New)**
+* [[Letter to Parents for PDLP Procurement with Annexes (17 Jan 2023)](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=sharing)]
 
-* [NDLP - Briefing for Parents HIHS (17 Jan 2023)](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=sharing) - **\*(New)**
+* [NDLP - Briefing for Parents HIHS (17 Jan 2023)](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=sharing)]
 
 #### **Year 2022**
 

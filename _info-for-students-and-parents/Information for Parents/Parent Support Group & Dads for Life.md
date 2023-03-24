@@ -28,7 +28,7 @@ To engage parents in partnership with HIHS to nurture students holistically.
 |---|
 | Chairperson: Ms Bernadette Ngiam|
 | Vice Chairperson: Ms Jiny Yeong & Irene Tan |
-| Treasurer: Ms Bridget Teng |
+| Treasurer: Ms Jacqueline Ee |
 |
 
 **Connect with us at our [PSG Facebook](https://www.facebook.com/HIPSG) page!**

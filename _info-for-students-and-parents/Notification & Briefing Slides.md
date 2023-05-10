@@ -7,9 +7,11 @@ description: ""
 
 #### **Year 2023**
 
-* [[Sec 1 Parents Engagement Session (27 Jan 2023)](https://drive.google.com/file/d/1BmuzdADmXw_qqvJqM10aiE-DwSQiHQbu/view?usp=sharing)] - **\*(New)**
+* [[Sec 2 Familiarisation Streaming Exercise Briefing Slides](https://drive.google.com/file/d/1zrMMmYGK6N_qV-eZd9JqCztmynvfF8rl/view?usp=share_link)] - **\*(New)**
 
-* [[Sec 2 Parents Engagement Session (24 Feb 2023)](https://drive.google.com/file/d/1tKh4te4LEVUcBcOwAycNPphTPPYdxJaR/view?usp=sharing)] - **\*(New)**
+* [[Sec 1 Parents Engagement Session (27 Jan 2023)](https://drive.google.com/file/d/1BmuzdADmXw_qqvJqM10aiE-DwSQiHQbu/view?usp=sharing)] 
+
+* [[Sec 2 Parents Engagement Session (24 Feb 2023)](https://drive.google.com/file/d/1tKh4te4LEVUcBcOwAycNPphTPPYdxJaR/view?usp=sharing)] 
 
 * [[Sec 3 Parents Engagement Session (17 Jan 2023)](https://drive.google.com/file/d/1gbtWE6vl3jwXLDGnJCYb1asTDppxKSzH/view?usp=share_link)]
 

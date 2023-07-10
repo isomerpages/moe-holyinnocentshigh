@@ -35,9 +35,9 @@ description: School Canteen Advertisement
 **How to get there?**
 
 *   Nearest MRT: Hougang MRT (NE line) – 5 minutes walking distance
-*   The Midtown (Bus Stop Number: 64041): 74, 102, 112, 113, 119, 136, 147, 324 -  
+*   Bus Stop (64041): 74, 102, 112, 113, 119, 136, 147, 324 -  
 2 minutes walking distance
-*   Opposite The Midtown (Bus Stop Number: 64049): 74, 102, 112, 113, 119, 136, 147, 324 - 3 minutes walking distance
+*   Bus Stop (64049): 74, 102, 112, 113, 119, 136, 147, 324 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 
@@ -52,5 +52,4 @@ description: School Canteen Advertisement
 *   Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 *   Possess catering experience or experience operating in a school environment.
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-
 _Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense._

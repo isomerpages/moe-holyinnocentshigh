@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
 ---
-| Type of Stall|Closing Date | Requirements |
+| **Type of Stall**|**Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
 |(Non-Halal) Western/Rice Food Stall|31 July 2023|Rice/Western stalls are acceptable|
 |  |  |

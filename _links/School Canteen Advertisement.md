@@ -21,7 +21,7 @@ description: ""
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 
-**[Canteen Application Form](/files/canteen%20application%20form.pdf)**
+* **[Canteen Application Form](/files/canteen%20application%20form.pdf)**
 	
 	
 	
@@ -35,17 +35,17 @@ description: ""
 
 3. Submit the completed application form and documents by closingdate via email OR to the School’s General Office.
 
-* Address: 1191, Upper Serangoon Road, Singapore 534786
-* Contact No: [+65 6283 3381](tel:+6562833381)
-* Email: [HIHS@moe.edu.sg](mailto:HIHS@moe.edu.sg)
-* Contact Person: Mr Sunny Ong Koon Beng (Operations Manager)
+* Address: **1191, Upper Serangoon Road, Singapore 534786**
+* Contact No: **[+65 6283 3381](tel:+6562833381)**
+* Email: **[HIHS@moe.edu.sg](mailto:HIHS@moe.edu.sg)**
+* Contact Person: **Mr Sunny Ong Koon Beng (Operations Manager)**
 
 **How to get there?**
 
 *   Nearest MRT: Hougang MRT (NE line) – 5 minutes walking distance
 *   The Midtown (Bus Stop Number: 64041): 74, 102, 112, 113, 119, 136, 147, 324 -  
-1 minute walking distance
-*   Opposite The Midtown (Bus Stop Number: 64049): 74, 102, 112, 113, 119, 136, 147, 324 - 5 minute walking distance
+2 minutes walking distance
+*   Opposite The Midtown (Bus Stop Number: 64049): 74, 102, 112, 113, 119, 136, 147, 324 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**
 

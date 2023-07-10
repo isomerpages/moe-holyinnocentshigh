@@ -3,8 +3,9 @@ title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: ""
 ---
-**School Canteen Advertisement**
+#### **School Canteen Advertisement**
 
-| Type of Stall | Closing Date | Requirements |
+|  |  |
+|---|---|
+|**Type of Stall**|**Closing Date**|**Requirements** |
 
-| -------- | -------- | -------- |

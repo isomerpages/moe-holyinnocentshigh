@@ -35,8 +35,7 @@ description: School Canteen Advertisement
 **How to get there?**
 
 *   Nearest MRT: Hougang MRT (NE line) – 5 minutes walking distance
-*   Bus Stop (64041): 74, 102, 112, 113, 119, 136, 147, 324 -  
-2 minutes walking distance
+*   Bus Stop (64041): 74, 102, 112, 113, 119, 136, 147, 324 -  2 minutes walking distance
 *   Bus Stop (64049): 74, 102, 112, 113, 119, 136, 147, 324 - 3 minutes walking distance
 
 **Interest applicants must meet the following criteria:**

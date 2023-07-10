@@ -3,8 +3,6 @@ title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: ""
 ---
-
-
 |  |  |
 |---|---|
 |**Type of Stall**|**Closing Date**|**Requirements** |

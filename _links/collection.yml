@@ -2,7 +2,7 @@ collections:
   links:
     output: true
     order:
-      - School Bus Service.md
-      - School Bus Advertisement.md
       - Parent Gateway Portal.md
       - School Canteen Advertisement.md
+      - School Bus Advertisement.md
+      - School Bus Service.md

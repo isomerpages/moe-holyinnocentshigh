@@ -3,9 +3,6 @@ title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: ""
 ---
-
-
-
 | Type of Stall|Closing Date | Requirements |
 | -------- | -------- | -------- |
 |(Non-Halal) Western/Rice Food Stall|31 July 2023|Rice/Western stalls are acceptable|
@@ -17,7 +14,7 @@ description: ""
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 
-* [Canteen Application Form](/files/canteen%20application%20form.pdf)
+* [Canteen Application Form](/files/holy%20innocent%20high%20school%20canteen%20application%20form.pdf)
 	
 	
 2. Attached the following documents together with the application form:

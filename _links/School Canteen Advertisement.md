@@ -25,7 +25,7 @@ description: School Canteen Advertisement
 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closingdate via email OR to the School’s General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 * Address: 1191, Upper Serangoon Road, Singapore 534786
 * Contact No: [+65 6283 3381](tel:+6562833381)

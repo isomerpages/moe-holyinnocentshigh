@@ -5,7 +5,7 @@ description: School Canteen Advertisement
 ---
 | **Type of Stall**|**Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-|(Non-Halal) Western/Rice Food Stall|31 July 2023|Rice/Western stalls are acceptable|
+|(Non-Halal) Western/Rice Food Stall|31 July 2023|Western or Rice stalls are acceptable|
 |  |  |
 
 

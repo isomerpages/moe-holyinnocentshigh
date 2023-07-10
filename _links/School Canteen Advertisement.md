@@ -11,13 +11,13 @@ description: School Canteen Advertisement
 
 **Application Procedure**
 
-1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
   
 
 * [Canteen Application Form](/files/holy%20innocent%20high%20school%20canteen%20application%20form.pdf)
 
 	
-2. Attached the following documents together with the application form:
+2\. Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)
 
@@ -25,7 +25,7 @@ description: School Canteen Advertisement
 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+3\. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 * Address: 1191, Upper Serangoon Road, Singapore 534786
 * Contact No: [+65 6283 3381](tel:+6562833381)

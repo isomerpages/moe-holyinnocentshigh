@@ -24,7 +24,6 @@ description: ""
 * **[Canteen Application Form](/files/canteen%20application%20form.pdf)**
 	
 	
-	
 2. Attached the following documents together with the application form:
 
 * Photocopy of the NRIC (front and back)

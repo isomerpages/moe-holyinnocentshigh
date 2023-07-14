@@ -44,7 +44,7 @@ description: ""
 | Class | Form Teachers | Email Address |
 |---|---|---|
 | 1 CHARITY  | Ms Siti Salmeah Ameer <br> Ms Natalie Soong Shuyi  | [siti_salmeah_ameer@moe.edu.sg](mailto:siti_salmeah_ameer@moe.edu.sg) <br> [natalie_soong_shuyi@moe.edu.sg](mailto:natalie_soong_shuyi@moe.edu.sg)|
-|   1 COURAGE | Ms Apollonia Riard |  [apollonia_riard@moe.edu.sg](mailto:apollonia_riard@moe.edu.sg) |
+|   1 COURAGE | Ms Apollonia Riard <br> Mr Derrick Lim |  [apollonia_riard@moe.edu.sg](mailto:apollonia_riard@moe.edu.sg) <br> [derrick_lim_en_sheng@moe.edu.sg](mailto:derrick_lim_en_sheng@moe.edu.sg)   |
 |  1 FAITH | Mr Yeo Jian Wen Alvin <br> Miss Jolene Koh Shi Yue | [yeo_jian_wen_alvin@moe.edu.sg](mailto:yeo_jian_wen_alvin@moe.edu.sg) <br>[jolene_koh_shi_yue@moe.edu.sg](mailto:jolene_koh_shi_yue@moe.edu.sg) |
 |  1 HOPE | Ms Hor Hui Lin Katherine <br> Ms Esther Heng Chun Wei | [hor_hui_lin_katherine@moe.edu.sg](mailto:hor_hui_lin_katherine@moe.edu.sg) <br><br> [esther_heng_chun_wei@moe.edu.sg](mailto:esther_heng_chun_wei@moe.edu.sg)|
 |  1 HUMILITY | Mrs Ong Lian Gek Cindy <br> Mr Ho Seng Chuan | [teo_lian_gek_cindy@moe.edu.sg](mailto:teo_lian_gek_cindy@moe.edu.sg) <br> [seng_chuan_ho@moe.edu.sg](mailto:seng_chuan_ho@moe.edu.sg) |

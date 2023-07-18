@@ -7,7 +7,7 @@ description: ""
 
 2023 O Level Prelims Exam Timetable (Updated as of 26 June 2023) <br> View [Here](https://drive.google.com/file/d/1XC2bo7gvAoDK7XEuozBlMG1qnWWLsU-P/view?usp=drive_link)
 
-2023 N &amp; NT Level Prelims Exam Timetable (Updated as of 22 June 2023) <br> View [Here](https://drive.google.com/file/d/1M4VjzsAv1FBEIte2Ag_jDY1b8EPzXaGg/view?usp=drive_link)
+2023 N &amp; NT Level Prelims Exam Timetable (Updated as of 18 July 2023) <br> View [Here](https://drive.google.com/file/d/1du4tVn4eefmt4r6NfvH-LagosjMiYBP8/view?usp=drive_link)
 
 
 2023 Semester 1 Sec 1 Timetable (Updated as of 6 Feb 2023) <br>

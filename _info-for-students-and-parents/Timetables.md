@@ -8,7 +8,7 @@ description: ""
 2023 Semester 2 Sec 2 EOY Exam Timetable (Updated as of 28 Aug 2023)<br> View
 [Here](https://drive.google.com/file/d/1J8fGY9-NMCK1tZcirlB0kA7pzxmGxssM/view?usp=drive_link)
 
-2023 Semester 3 Sec 2 EOY Exam Timetable (Updated as of 28 Aug 2023)<br> View
+2023 Semester 2 Sec 3 EOY Exam Timetable (Updated as of 28 Aug 2023)<br> View
 [Here](https://drive.google.com/file/d/1neq6IGMKyMI4WS-D2KLBs22YAVXv4gRJ/view?usp=drive_link)
 
 

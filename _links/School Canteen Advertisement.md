@@ -5,7 +5,7 @@ description: School Canteen Advertisement
 ---
 | **Type of Stall**|**Closing Date** | **Requirements** |
 | -------- | -------- | -------- |
-|(Halal or Non Halal) Western Food Stall|31 July 2023|Western stalls are acceptable|
+|(Halal or Non-Halal) Noodles Stall|6 September 2023|For Non-Halal Noodles Stall (fishball noodles, minced meat noodles, sliced fish noodles, yong tau foo noodles, fried hokkien noodles and tom yum noodles)|
 |  |  |
 
 

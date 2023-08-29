@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
 ---
-| **Type of Stall**|**Closing Date** |**Requirements** |
+| **Type of Stall**|**Closing Date**|**Requirements** |
 | -------- | -------- | -------- |
 |Halal Stall Noodles OR Non-Halal Noodles|6 September 2023|Food to be sold for Non-Halal Noodles Stall include fishball noodles, minced meat noodles, sliced fish noodles, yong tau foo noodles, fried hokkien noodles and tom yum noodles|
 |  |  |

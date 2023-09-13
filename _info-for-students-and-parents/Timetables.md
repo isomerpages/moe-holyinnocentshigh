@@ -5,11 +5,11 @@ description: ""
 ---
 ### **Timetables**
 
-2023 Semester 2 Sec 2 EOY Exam Timetable (Updated as of 28 Aug 2023)<br> View
-[Here](https://drive.google.com/file/d/1J8fGY9-NMCK1tZcirlB0kA7pzxmGxssM/view?usp=drive_link)
+2023 Semester 2 Sec 2 EOY Exam Timetable (Updated as of 13 Sep 2023)<br> View
+[Here](https://drive.google.com/file/d/1yYoxlrzVh-P7VhK6j6lLcrWHUCSwjDJ1/view?usp=drive_link)
 
-2023 Semester 2 Sec 3 EOY Exam Timetable (Updated as of 28 Aug 2023)<br> View
-[Here](https://drive.google.com/file/d/1neq6IGMKyMI4WS-D2KLBs22YAVXv4gRJ/view?usp=drive_link)
+2023 Semester 2 Sec 3 EOY Exam Timetable (Updated as of 12 Sep 2023)<br> View
+[Here](https://drive.google.com/file/d/1ikRzeVw2MsQ1vOtYhZs6CRAkzwI1QIBd/view?usp=drive_link)
 
 
 2023 O Level Prelims Exam Timetable (Updated as of 26 June 2023) <br> View [Here](https://drive.google.com/file/d/1XC2bo7gvAoDK7XEuozBlMG1qnWWLsU-P/view?usp=drive_link)

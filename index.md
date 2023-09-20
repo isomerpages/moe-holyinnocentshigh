@@ -12,9 +12,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Download HIHS130 Whatsapp Stickers!
+        - title: Useful Links for Teachers
           description: Click here
-          url: https://sites.google.com/moe.edu.sg/hihs130whatsappstickers/home
+          url: ""
         - title: School Based Financial Assistance
           description: "& Opportunity Fund Application"
           url: https://holyinnocentshigh.moe.edu.sg/contact-us/quick-guide/school-based-financial-assistance-and-opportunity-fund-application

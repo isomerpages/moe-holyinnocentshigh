@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Useful Links for Teachers
           description: Click here
-          url: ""
+          url: /usefullinkforstaff/
         - title: School Based Financial Assistance
           description: "& Opportunity Fund Application"
           url: https://holyinnocentshigh.moe.edu.sg/contact-us/quick-guide/school-based-financial-assistance-and-opportunity-fund-application

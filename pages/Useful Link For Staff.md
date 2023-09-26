@@ -9,7 +9,6 @@ description: ""
 *   **[iCart (Gebiz DA eCatalogues ](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)**
 *   **[MIMS Portal](https://mims.moe.gov.sg/)**
 *   **[iExams](https://iexams.seab.gov.sg/)**
-*   **[OPAL 2.0](https://opal2.moe.edu.sg/)**
 *   **[HR Online](http://intranet.moe.gov.sg/hr_online/)**
 
 
@@ -20,3 +19,4 @@ description: ""
 * **[SC Mobile](https://scmobile.moe.edu.sg/login)**
 * **[Parents Gateway (PG)](https://pg.moe.edu.sg/)**
 * **[HR & Payroll (HRP) Portal](https://www.hrp.gov.sg/)**
+* **[OPAL 2.0](https://opal2.moe.edu.sg/)**

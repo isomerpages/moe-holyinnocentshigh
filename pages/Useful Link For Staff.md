@@ -8,7 +8,7 @@ description: ""
 *   **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 *   **[iCart (Gebiz DA eCatalogues ](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)**
 *   **[MIMS Portal](https://mims.moe.gov.sg/)**
-*   **[iExams](https://iexams.seab.gov.sg/)**
+*   **[iExams2](https://iexams.seab.gov.sg/)**
 *   **[HR Online](http://intranet.moe.gov.sg/hr_online/)**
 
 

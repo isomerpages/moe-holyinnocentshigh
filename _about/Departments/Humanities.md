@@ -46,7 +46,7 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 | **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
 | **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Zhang Jiexin <br>Ms Natalie Soong|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
-|  **History Teachers** |Mr Chua Chong Wen Clement (YH) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew<br>Mis Gladys Seow Yi Ling|
+|  **History Teachers** |Mr Chua Chong Wen Clement (YH) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew<br>Miss Gladys Seow Yi Ling|
 |   **Lead Teacher (Social Studies)** | Mrs Renuka Krishnah |
 |  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Yvonne Teo<br>Ms Cherlyn Ng<br>Ms Perng Jia Wei|
 |

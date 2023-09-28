@@ -1,5 +1,5 @@
 ---
-title: Useful Link For Staff
+title: Useful Links For Teachers
 permalink: /usefullinkforstaff/
 description: ""
 ---

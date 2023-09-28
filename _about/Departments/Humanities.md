@@ -12,13 +12,13 @@ The study of the 3 disciplines within the Humanities helps each student of Holy 
 
 ##### **Geography**
 
-Origin: Greek;  _geogaphia –_  _ge_ ‘earth’ + _\-graphia_ ‘writing’
+Origin: Greek; &nbsp;_geogaphia –_&nbsp;&nbsp;_ge_&nbsp;‘earth’ +&nbsp;_\-graphia_&nbsp;‘writing’
 
 The study of Geography begins as a compulsory subject at Sec 1. Students learn about the earth and how Mankind understands and lives in his environment. The highlight of learning Geography is the authenticity of learning through Geographical Investigation, which allows students to undergo the inquiry process that Geographers adopt to learn the important concepts and skills in Geography. At Upper Secondary, students are able to offer Elective Geography (as part of the Combined Humanities subject) as well as Core Geography.
 
 ##### **History**
 
-_“History is a people’s memory, and without a memory, a man is demoted to the lower animals.” –_ Malcom X
+_“History is a people’s memory, and without a memory, a man is demoted to the lower animals.” –_&nbsp;Malcom X
 
 The study of History also begins at Sec 1, where students learn to interrogate sources to reconstruct the Past and to appreciate the different arguments and perspectives that continue to persist about important historical events in the story of Mankind. A key element in the learning of History is through Historical Investigation, where students experience the work of a historian through analysing both primary and secondary sources to reconstruct an understanding of past events. Core History will be offered in 2016 to the Secondary 3 students for the first time so as to cater to the interests of those who desire to deepen their knowledge, understanding and skills in History.
 
@@ -30,15 +30,12 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 
 #### **Pictorial Representation of Framework** 
 
-<img src="/images/humanities%20framework.png" 
-     style="width:65%">
-<img src="/images/humanities%202.png" 
-     style="width:85%">
+<img src="/images/humanities%20framework.png" style="width:65%">
+<img src="/images/humanities%202.png" style="width:85%">
 
 #### **Philosophy of Social Studies Curriculum**
 
-<img src="/images/hum3.jpg" 
-     style="width:65%">
+<img src="/images/hum3.jpg" style="width:65%">
 
 #### **Teaching Team**
 
@@ -47,11 +44,11 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 | **Head Of Department** | To be announced |
 | **Subject Head (Geography)** | Ms Chen Huifeng Adely |
 | **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
-| **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Natalie Soong|
+| **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Zhang Jiexin <br>Ms Natalie Soong|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
-|  **History Teachers** | Ms Cherlyn Ng<br> Ms Vanessa Hew|
+|  **History Teachers** |Mr Chua Chong Wen Clement (YH) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew<br>Mis Gladys Seow Yi Ling|
 |   **Lead Teacher (Social Studies)** | Mrs Renuka Krishnah |
-|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Yvonne Teo<br>Ms Cherlyn Ng|
+|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Yvonne Teo<br>Ms Cherlyn Ng<br>Ms Perng Jia Wei|
 |
 
 #### **Programmes / Projects / Competitions in 2023**
@@ -60,7 +57,7 @@ Social Studies is studied primarily at Upper Secondary as part of the compulsory
 2. NUS Geography Challenge
 3. Historical Investigation (Lower Secondary)
 4. History-Literature Learning Journey
-5. Inter-school War & Diplomacy History Card Challenge
+5. Inter-school War &amp; Diplomacy History Card Challenge
 6. Issues Investigation for Social Studies
 7. Model United Nations
 

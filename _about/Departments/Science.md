@@ -65,7 +65,7 @@ Goh Benedict (4 Cha)
 
 **<u>2021 Singapore Youth Science Fair</u>**<br>
 Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the
-Engineering Sciences & Environment Category. 2 teams were awarded the commendation &
+Engineering Sciences &amp; Environment Category. 2 teams were awarded the commendation &amp;
 accomplishment award for their research efforts. We are proud of their hard work, and the spirit
 of resilience and teamwork they have demonstrated in research and experimentation.<br>
 ![](/images/Science%20Department/9%20youth%20science%20fair.png)<br>

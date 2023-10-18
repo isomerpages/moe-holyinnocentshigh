@@ -78,3 +78,8 @@ brainstorming tools, and creating prototypes to solve these problems.
 |How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int|<br>
 
 <u>**Ignite Skills Challenge 2023**</u><br>
+In this competition organised by ITE, students formed groups to take part in categories such as mobile robots, X-Bots, creative maquillage and data escape room. One team from data escape room managed to get to the Finals while the rest of the teams receive certificates of participation.<br>
+1. Keith Teo Shao Jie – 4 Love <br>
+2. Ong Kai Peng – 4 Love<br>
+3. Chole Tang – 4 Love<br>
+

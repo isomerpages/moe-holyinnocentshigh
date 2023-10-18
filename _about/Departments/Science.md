@@ -37,31 +37,10 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 
 
 #### **Science Research Programme and Competitions**
-**<u>Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021</u><br>**
 
-A group of Secondary 2 students designed an infographic poster based on the theme of
-“Gene-editing and GMOs”. The group had decided to work on Golden Rice, which is a GMO created
-with more Vitamin A content to counter Vitamin A deficiency. Their poster has been sent as an
-entry in an inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge
-2021, as part of GMAC’s ongoing efforts in educating the public on GM-related issues. It was a steep
-learning curve for the 4 students but they took on this challenge with passion and enthusiasm.<br>
 
-![](/images/Science%20Department/7%20Arthur,%20Samuel,yu%20en.png)
 
-**<u>10th International Biomedical Quiz 2021</u><br>**
-The 10th International Biomedical Quiz 2021, organised by Anglo-Chinese Junior College (ACJC)
-Science and Mathematics Council, is an online quiz which provides a platform for secondary and
-pre-university students to develop their aptitude and potential in the biomedical disciplines. The
-competition provides opportunities for both independent work and applying critical thinking to
-solve authentic medical challenges.
-![](/images/Science%20Department/8%20Low%20Xin,%20ng%20yong%20Jun.png)<br>
-The other participants were:<br>
-Nathali Li (4 Res) Merit award<br>
-Mabel Chan (4 Cha)<br>
-Zane Chong (4 Cha)<br>
-Dominic Then (4 Cha)<br>
-Lamadrid Jared (4 Cha)<br>
-Goh Benedict (4 Cha)
+
 
 **<u>2021 Singapore Youth Science Fair</u>**<br>
 Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the

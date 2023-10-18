@@ -68,7 +68,6 @@ changemakers by identifying problems in their everyday lives, applying different
 brainstorming tools, and creating prototypes to solve these problems.
 
 6 teams have been selected for external mentorship:<br>
-
 |**Project** | **Students** | 
 | -------- | -------- | 
 |How might we make an easy system to reduce and repurpose food waste? |1. Ewe Zhong Wei – 3 Cou <br>2. Beatrice Ngoei Wen Yue – 3 Cou <br>3. Adrial Chua Kai Rui – 3 Cou  |

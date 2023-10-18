@@ -77,4 +77,4 @@ brainstorming tools, and creating prototypes to solve these problems.
 |How do we get singapore citizens to be aware ofhow their actions leads to overall food wastage?”| 1. Clarestsa Oh Feng Yi – 3 Int<br> 2. Lim En Yu – 3 Cou<br>3. Lim Rui Yi – 3 Cha|
 |How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int|<br>
 
-**Ignite Skills Challenge 2023**<br>
+<u>**Ignite Skills Challenge 2023**</u><br>

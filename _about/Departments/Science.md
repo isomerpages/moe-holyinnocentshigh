@@ -75,11 +75,10 @@ brainstorming tools, and creating prototypes to solve these problems.
 |How might we help people with vertigo problems to reduce the risk of falling when they go out.|1. Zachary Chang – 2 Lov <br> 2. Kaelen – 2 Fai|
 |How might we help students who suffer from a lot of school related stress or anxiety and are too shy to seek help or have no one to turn to?| 1. Lukas Krombass – 2 Res <br> 2. Clyde Lim – 2 Res|
 |How do we get singapore citizens to be aware ofhow their actions leads to overall food wastage?”| 1. Clarestsa Oh Feng Yi – 3 Int<br> 2. Lim En Yu – 3 Cou<br>3. Lim Rui Yi – 3 Cha|
-|How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int|<br>
+|How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int<br>| | |
 
 <u>**Ignite Skills Challenge 2023**</u><br>
 In this competition organised by ITE, students formed groups to take part in categories such as mobile robots, X-Bots, creative maquillage and data escape room. One team from data escape room managed to get to the Finals while the rest of the teams receive certificates of participation.<br>
 1. Keith Teo Shao Jie – 4 Love <br>
 2. Ong Kai Peng – 4 Love<br>
 3. Chole Tang – 4 Love<br>
-

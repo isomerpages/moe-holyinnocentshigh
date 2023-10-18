@@ -38,41 +38,37 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 
 #### **Science Research Programme and Competitions**
 
+Unity Scientific Innovation Challenge with SP &amp; ERI@N 2023
+This is a competition organized by Unity Secondary School (Singapore) in collaboration
+with Singapore Polytechnic and ERI@N that encourages and ignite Secondary school
+students' curiosity and creativity in applying scientific principles to develop smart
+solutions for a better future. A team of four students from HIHS won the Silver Award.
+The title of their research is “An integrative approach to microalgae farming as a
+sustainable, resilient and alternative food source”.
+1. Toh Shuan, Jomin, 3 Int
+2. Rayna Chiew Si Min, 3 Cha
+3. Sam Shi Qi, 3 Cou
+4. Chong Min Qi, Angelina, 3 Int
 
+**Singapore Amazing Flying Machine Competition 2023 (SAFMC 2023)**<br>
+In this competition, students formed groups to design, build and fly their unpowered
+glider. They are graded on the design of the glider, the distance travelled by the glider
+as well as their presentation skills. HIHS sent out 5 teams with 1 team achieving the
+Merit award while the other teams achieve the certificate of participation.
+1. Koh Lyn Shi, Ariel – 4 Hum
+2. Sze Kai Kee, Jordan – 4 Hum
+3. Caleb Low Jia Le – 4 Hum
+4. Oer Liang Liang, Moon – 4 Hum
+5. Jerlyn Tan Siying – 4 Hum
 
+**Innovation Programme 2023 (IVP 2023)**<br>
+This is an initiative by MOE which aims to provide students a unique opportunity to
+develop their problem-solving and critical thinking skills. Students learn to be empathetic
+changemakers by identifying problems in their everyday lives, applying different
+brainstorming tools, and creating prototypes to solve these problems.
 
-
-**<u>2021 Singapore Youth Science Fair</u>**<br>
-Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the
-Engineering Sciences &amp; Environment Category. 2 teams were awarded the commendation &amp;
-accomplishment award for their research efforts. We are proud of their hard work, and the spirit
-of resilience and teamwork they have demonstrated in research and experimentation.<br>
-![](/images/Science%20Department/9%20youth%20science%20fair.png)<br>
-![](/images/Science%20Department/10%20youth%20science%20fair.png)<br>
-**<u>Project SaVE (Sustain and Vitalise Environment)</u>**<br>
-In Project SaVE, students apply thinking skills to study science concepts that address environmental
-and sustainability issues. They have the hands-on experience of growing their own crops through
-soil-based planting, hydroponics and aeroponics, experimenting with new ways to ensure that the
-ecosystems thrive in the school.<br>
-
-![](/images/Science%20Department/11.png)
-![](/images/Science%20Department/12.png)
-
-**<u>Community in Bloom 2021</u>**<br>
-The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community
-groups. HIHS achieved the Gold award in 2021 for her efforts in community gardening, which
-includes promoting biodiversity in the school, and sustainability efforts by the school community.
-Much of the efforts were spearheaded by 2 Hope (2021) over a span of 2 years. They have invested
-tremendous time and effort, and used their harvest to be a blessing to the school community. In
-2021, students researched and submitted an inquiry report on their comparison between
-hydroponic and soil systems for growing vegetables and were recognized at the Singapore Science
-Youth Fair.<br>
-
-![](/images/Science%20Department/13.png)
-![](/images/Science%20Department/14.png)<br>
-**<u>Upcoming Programmes in 2022</u>**<br>
-● ENT Biomedical Quiz 2022 ( To be confirmed )<br>
-● Elementz and IgnITE 2022 ( To be confirmed )<br>
-● Innovation Programme (Secondary) 2022<br>
-● STEM Programme<br>
-● Interdisciplinary Learning
+6 teams have been selected for external mentorship.<br>
+| **Project**| **Students** | 
+| -------- | -------- |
+|How might we make an easy system to reduce and repurpose food waste? |1.Ewe Zhong Wei – 3 Cou <br>2. Beatrice Ngoei Wen Yue – 3 Cou <br>3. Adrial Chua Kai Rui – 3 Cou  |
+| -------- | -------- |

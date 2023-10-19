@@ -65,7 +65,7 @@ Merit award while the other teams achieve the certificate of participation.
 This is an initiative by MOE which aims to provide students a unique opportunity to
 develop their problem-solving and critical thinking skills. Students learn to be empathetic
 changemakers by identifying problems in their everyday lives, applying different
-brainstorming tools, and creating prototypes to solve these problems.
+brainstorming tools, and creating prototypes to solve these problems.<br>
 
 6 teams have been selected for external mentorship:<br>
 |**Project** | **Students** | 

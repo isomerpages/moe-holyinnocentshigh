@@ -60,13 +60,13 @@ brainstorming tools, and creating prototypes to solve these problems.<br>
 6 teams have been selected for external mentorship:<br>
 |  |  |
 |---|---|
-|**Project**|**Students** <br>| 
-|How might we make an easy system to reduce and repurpose food waste? | 1. Ewe Zhong Wei – 3 Cou<br> 2. Beatrice Ngoei Wen Yue – 3 Cou<br> 3. Adrial Chua Kai Rui – 3 Cou<br>|
-|How might we help elderly with mobility problems so that they can walk from a shop to their houses with their heavy groceries?|1. Lim Li Wen – 2 Res<br> 2. Shania Do Sivabalan – 2 Res <br>|
+|**Project**|**Students**| 
+|How might we make an easy system to reduce and repurpose food waste? | 1. Ewe Zhong Wei – 3 Cou<br> 2. Beatrice Ngoei Wen Yue – 3 Cou<br> 3. Adrial Chua Kai Rui – 3 Cou|
+|How might we help elderly with mobility problems so that they can walk from a shop to their houses with their heavy groceries?|1. Lim Li Wen – 2 Res<br> 2. Shania Do Sivabalan – 2 Res |
 |How might we help people with vertigo problems to reduce the risk of falling when they go out.|1. Zachary Chang – 2 Lov <br> 2. Kaelen – 2 Fai<br>|
-|How might we help students who suffer from a lot of school related stress or anxiety and are too shy to seek help or have no one to turn to?|1. Lukas Krombass – 2 Res <br> 2. Clyde Lim – 2 Res<br>|
-|How do we get singapore citizens to be aware of how their actions leads to overall food wastage?”| 1. Clarestsa Oh Feng Yi – 3 Int<br> 2. Lim En Yu – 3 Cou<br>3. Lim Rui Yi – 3 Cha<br>|
-|How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int<br>|  |  
+|How might we help students who suffer from a lot of school related stress or anxiety and are too shy to seek help or have no one to turn to?|1. Lukas Krombass – 2 Res <br> 2. Clyde Lim – 2 Res|
+|How do we get singapore citizens to be aware of how their actions leads to overall food wastage?”| 1. Clarestsa Oh Feng Yi – 3 Int<br> 2. Lim En Yu – 3 Cou<br>3. Lim Rui Yi – 3 Cha|
+|How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int|  |  
 |
 
 **<u>Ignite Skills Challenge 2023</u>**<br>

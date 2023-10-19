@@ -70,7 +70,7 @@ brainstorming tools, and creating prototypes to solve these problems.<br>
 6 teams have been selected for external mentorship:<br>
 |  |  |
 |---|---|
-|**Project** | **Students** | 
+|**Project** | **Students** <br>| 
 |How might we make an easy system to reduce and repurpose food waste? |1. Ewe Zhong Wei – 3 Cou <br>2. Beatrice Ngoei Wen Yue – 3 Cou <br>3. Adrial Chua Kai Rui – 3 Cou |
 |How might we help elderly with mobility problems so that they can walk from a shop to their houses with their heavy groceries?|1. Lim Li Wen – 2 Res<br> 2. Shania Do Sivabalan – 2 Res <br>|
 |How might we help people with vertigo problems to reduce the risk of falling when they go out.|1. Zachary Chang – 2 Lov <br> 2. Kaelen – 2 Fai|

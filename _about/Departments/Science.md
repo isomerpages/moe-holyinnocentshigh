@@ -38,7 +38,7 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 
 #### **Science Research Programme and Competitions**
 
-<u>**Unity Scientific Innovation Challenge with SP &amp; ERI@N 2023**</u><br>
+**<u>Unity Scientific Innovation Challenge with SP &amp; ERI@N 2023</u>**<br>
 This is a competition organized by Unity Secondary School (Singapore) in collaboration
 with Singapore Polytechnic and ERI@N that encourages and ignite Secondary school
 students' curiosity and creativity in applying scientific principles to develop smart
@@ -50,7 +50,7 @@ sustainable, resilient and alternative food source”.
 3. Sam Shi Qi, 3 Cou<br>
 4. Chong Min Qi, Angelina, 3 Int<br>
 
-<u>**Singapore Amazing Flying Machine Competition 2023 (SAFMC 2023)**</u><br>
+**<u>Singapore Amazing Flying Machine Competition 2023 (SAFMC 2023)</u>**<br>
 In this competition, students formed groups to design, build and fly their unpowered
 glider. They are graded on the design of the glider, the distance travelled by the glider
 as well as their presentation skills. HIHS sent out 5 teams with 1 team achieving the
@@ -61,7 +61,7 @@ Merit award while the other teams achieve the certificate of participation.
 4. Oer Liang Liang, Moon – 4 Hum<br>
 5. Jerlyn Tan Siying – 4 Hum<br>
 
-<u>**Innovation Programme 2023 (IVP 2023)**</u><br>
+**<u>Innovation Programme 2023 (IVP 2023)</u>**<br>
 This is an initiative by MOE which aims to provide students a unique opportunity to
 develop their problem-solving and critical thinking skills. Students learn to be empathetic
 changemakers by identifying problems in their everyday lives, applying different
@@ -78,7 +78,7 @@ brainstorming tools, and creating prototypes to solve these problems.
 |How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int<br>| |
 |
 
-<u>**Ignite Skills Challenge 2023**</u><br>
+**<u>Ignite Skills Challenge 2023</u>**<br>
 In this competition organised by ITE, students formed groups to take part in categories such as mobile robots, X-Bots, creative maquillage and data escape room. One team from data escape room managed to get to the Finals while the rest of the teams receive certificates of participation.<br>
 1. Keith Teo Shao Jie – 4 Love <br>
 2. Ong Kai Peng – 4 Love<br>

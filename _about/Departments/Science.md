@@ -34,66 +34,44 @@ The learning of Science in HIHS encompasses lived experiences within and outside
 ![](/images/Science%20Department/Sec%202%20Students%20Reseaching%20collaboratively%20on%20Solar%20energy.png)<br>
 ![](/images/Science%20Department/Devices%20raised%20to%20capture%20interesting%20points.png)<br>
 ![](/images/Science%20Department/Sec%201%20Students%20prototyping%20a%20water%20filtration.png)<br>
-![](/images/Science%20Department/Students%20Embarked%20on%20the%20task%20to%20evaluate%20the%20efficacy.png)
+
 
 #### **Science Research Programme and Competitions**
-**<u>Inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge 2021</u><br>**
 
-A group of Secondary 2 students designed an infographic poster based on the theme of
-“Gene-editing and GMOs”. The group had decided to work on Golden Rice, which is a GMO created
-with more Vitamin A content to counter Vitamin A deficiency. Their poster has been sent as an
-entry in an inter-school Genetic Modification Advisory Committee (GMAC) Students Challenge
-2021, as part of GMAC’s ongoing efforts in educating the public on GM-related issues. It was a steep
-learning curve for the 4 students but they took on this challenge with passion and enthusiasm.<br>
+**<u>Unity Scientific Innovation Challenge with SP &amp; ERI@N 2023</u>**<br>
+This is a competition organized by Unity Secondary School (Singapore) in collaboration with Singapore Polytechnic and ERI@N that encourages and ignite Secondary school students' curiosity and creativity in applying scientific principles to develop smart solutions for a better future. A team of four students from HIHS won the Silver Award. The title of their research is “An integrative approach to microalgae farming as a sustainable, resilient and alternative food source”.
+1. Toh Shuan, Jomin, 3 Int<br>
+2. Rayna Chiew Si Min, 3 Cha<br>
+3. Sam Shi Qi, 3 Cou<br>
+4. Chong Min Qi, Angelina, 3 Int<br>
 
-![](/images/Science%20Department/7%20Arthur,%20Samuel,yu%20en.png)
+**<u>Singapore Amazing Flying Machine Competition 2023 (SAFMC 2023)</u>**<br>
+In this competition, students formed groups to design, build and fly their unpowered glider. They are graded on the design of the glider, the distance travelled by the glider as well as their presentation skills. HIHS sent out 5 teams with 1 team achieving the Merit award while the other teams achieve the certificate of participation.
+1. Koh Lyn Shi, Ariel – 4 Hum<br>
+2. Sze Kai Kee, Jordan – 4 Hum<br>
+3. Caleb Low Jia Le – 4 Hum<br>
+4. Oer Liang Liang, Moon – 4 Hum<br>
+5. Jerlyn Tan Siying – 4 Hum<br>
 
-**<u>10th International Biomedical Quiz 2021</u><br>**
-The 10th International Biomedical Quiz 2021, organised by Anglo-Chinese Junior College (ACJC)
-Science and Mathematics Council, is an online quiz which provides a platform for secondary and
-pre-university students to develop their aptitude and potential in the biomedical disciplines. The
-competition provides opportunities for both independent work and applying critical thinking to
-solve authentic medical challenges.
-![](/images/Science%20Department/8%20Low%20Xin,%20ng%20yong%20Jun.png)<br>
-The other participants were:<br>
-Nathali Li (4 Res) Merit award<br>
-Mabel Chan (4 Cha)<br>
-Zane Chong (4 Cha)<br>
-Dominic Then (4 Cha)<br>
-Lamadrid Jared (4 Cha)<br>
-Goh Benedict (4 Cha)
+**<u>Innovation Programme 2023 (IVP 2023)</u>**<br>
+This is an initiative by MOE which aims to provide students a unique opportunity to develop their problem-solving and critical thinking skills. Students learn to be empathetic change makers by identifying problems in their everyday lives, applying different
+brainstorming tools, and creating prototypes to solve these problems.<br>
 
-**<u>2021 Singapore Youth Science Fair</u>**<br>
-Our lower secondary students participated in the 2021 Singapore Youth Science Fair, in the
-Engineering Sciences & Environment Category. 2 teams were awarded the commendation &
-accomplishment award for their research efforts. We are proud of their hard work, and the spirit
-of resilience and teamwork they have demonstrated in research and experimentation.<br>
-![](/images/Science%20Department/9%20youth%20science%20fair.png)<br>
-![](/images/Science%20Department/10%20youth%20science%20fair.png)<br>
-**<u>Project SaVE (Sustain and Vitalise Environment)</u>**<br>
-In Project SaVE, students apply thinking skills to study science concepts that address environmental
-and sustainability issues. They have the hands-on experience of growing their own crops through
-soil-based planting, hydroponics and aeroponics, experimenting with new ways to ensure that the
-ecosystems thrive in the school.<br>
+6 teams have been selected for external mentorship:<br>
 
-![](/images/Science%20Department/11.png)
-![](/images/Science%20Department/12.png)
+|  |  |
+|---|---|
+|**Project**|**Students**| 
+|How might we make an easy system to reduce and repurpose food waste? | 1. Ewe Zhong Wei – 3 Cou<br> 2. Beatrice Ngoei Wen Yue – 3 Cou<br> 3. Adrial Chua Kai Rui – 3 Cou|
+|How might we help elderly with mobility problems so that they can walk from a shop to their houses with their heavy groceries?|1. Lim Li Wen – 2 Res<br> 2. Shania Do Sivabalan – 2 Res |
+|How might we help people with vertigo problems to reduce the risk of falling when they go out.|1. Zachary Chang – 2 Lov <br> 2. Kaelen – 2 Fai<br>|
+|How might we help students who suffer from a lot of school related stress or anxiety and are too shy to seek help or have no one to turn to?|1. Lukas Krombass – 2 Res <br> 2. Clyde Lim – 2 Res|
+|How do we get singapore citizens to be aware of how their actions leads to overall food wastage?”| 1. Clarestsa Oh Feng Yi – 3 Int<br> 2. Lim En Yu – 3 Cou<br>3. Lim Rui Yi – 3 Cha|
+|How might we use single-use plastic sustainably?|1. Veanne Leong – 3 Int<br> 2. Wong Yu Ting Priscilla – 3 Int|  |  
+|
 
-**<u>Community in Bloom 2021</u>**<br>
-The Community in Bloom (CIB) Awards recognises excellence in gardening efforts by community
-groups. HIHS achieved the Gold award in 2021 for her efforts in community gardening, which
-includes promoting biodiversity in the school, and sustainability efforts by the school community.
-Much of the efforts were spearheaded by 2 Hope (2021) over a span of 2 years. They have invested
-tremendous time and effort, and used their harvest to be a blessing to the school community. In
-2021, students researched and submitted an inquiry report on their comparison between
-hydroponic and soil systems for growing vegetables and were recognized at the Singapore Science
-Youth Fair.<br>
-
-![](/images/Science%20Department/13.png)
-![](/images/Science%20Department/14.png)<br>
-**<u>Upcoming Programmes in 2022</u>**<br>
-● ENT Biomedical Quiz 2022 ( To be confirmed )<br>
-● Elementz and IgnITE 2022 ( To be confirmed )<br>
-● Innovation Programme (Secondary) 2022<br>
-● STEM Programme<br>
-● Interdisciplinary Learning
+**<u>Ignite Skills Challenge 2023</u>**<br>
+In this competition organised by ITE, students formed groups to take part in categories such as mobile robots, X-Bots, creative maquillage and data escape room. One team from data escape room managed to get to the Finals while the rest of the teams receive certificates of participation.<br>
+1. Keith Teo Shao Jie – 4 Love <br> 
+2. Ong Kai Peng – 4 Love<br>
+3. Chole Tang – 4 Love<br>

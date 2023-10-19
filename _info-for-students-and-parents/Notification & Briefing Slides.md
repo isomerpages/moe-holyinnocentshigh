@@ -7,7 +7,9 @@ description: ""
 
 #### **Year 2023**
 
-* [[Sec 2 Familiarisation Streaming Exercise Briefing Slides](https://drive.google.com/file/d/1zrMMmYGK6N_qV-eZd9JqCztmynvfF8rl/view?usp=share_link)] - **\*(New)**
+* [[Sec 2 Streaming Exercise Briefing Slides](https://drive.google.com/file/d/17MpJQu55yIcwWFZeKgPzQ55BbrQrW22X/view?usp=share_link)] - **\*(New)**
+
+* [[Sec 2 Familiarisation Streaming Exercise Briefing Slides](https://drive.google.com/file/d/1zrMMmYGK6N_qV-eZd9JqCztmynvfF8rl/view?usp=share_link)]
 
 * [[Sec 1 Parents Engagement Session (27 Jan 2023)](https://drive.google.com/file/d/1BmuzdADmXw_qqvJqM10aiE-DwSQiHQbu/view?usp=sharing)] 
 

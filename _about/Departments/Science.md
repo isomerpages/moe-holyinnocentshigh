@@ -58,6 +58,7 @@ This is an initiative by MOE which aims to provide students a unique opportunity
 brainstorming tools, and creating prototypes to solve these problems.<br>
 
 6 teams have been selected for external mentorship:<br>
+
 |  |  |
 |---|---|
 |**Project**|**Students**| 

@@ -34,15 +34,15 @@ variant: markdown
 **For 2023** <br>
 Dates: 27, 28, 29 November 2023, <br>
             4, 5, 6, 11, 12, 21, 22, 26, 27, 28 December 2023 <br>
-Time of sales: Weekday: 9am to 3pm (Lunch Break 12noon - 1pm) <br>
+**Time of sales**: Weekday: 9am to 3pm (Lunch Break 12noon - 1pm) <br>
 
 For convenience, you may also like to order online as follow: <br>
 
 Jeep Sing Fashion: <br>
-https://jeepsinguniform.com/ <br>
+[ Click Here](https://jeepsinguniform.com/) <br>
 
 Pacific Bookstore: <br>
-https://www.pacificbookstores.com/ <br>
+[Click Here](https://www.pacificbookstores.com/ )<br>
 
 Please feel free to contact the school should you need to provide feedback or further clarification at hihs@moe.edu.sg or call 6283 3381.
 

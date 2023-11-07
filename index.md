@@ -22,10 +22,10 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
-      title: Secondary 1 Registration 2023
+      title: Open House 2023
       button: Click here for more information
-      url: https://sites.google.com/moe.edu.sg/hihssec1reg2023cohort/home
-      image: /images/Sec 1 Registration 2023 Cohort - Pop-up Banner.jpg
+      url: https://sites.google.com/hihs.edu.sg/hiopenhouse2023/home
+      image: /images/hihs-poster2023-instagram-1080w.jpg
       alt: Image alt text
   - infopic:
       title: LLP

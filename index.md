@@ -17,7 +17,7 @@ sections:
           url: /usefullinkforstaff/
         - title: School Based Financial Assistance
           description: MOE FAS
-          url: /about/Info-for-Students-and-Parents/school-rules/
+          url: /about/info-for-students-and-parents/moe-fas-and-sb-fas/
         - title: Direct School Admission
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/

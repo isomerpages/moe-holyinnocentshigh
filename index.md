@@ -17,7 +17,7 @@ sections:
           url: /usefullinkforstaff/
         - title: School Based Financial Assistance
           description: MOE FAS
-          url: https://holyinnocentshigh.moe.edu.sg/contact-us/quick-guide/school-based-financial-assistance-and-opportunity-fund-application
+          url: /about/Info-for-Students-and-Parents/school-rules/
         - title: Direct School Admission
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/

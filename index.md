@@ -16,7 +16,7 @@ sections:
           description: Click here
           url: /usefullinkforstaff/
         - title: School Based Financial Assistance
-          description: "& Opportunity Fund Application"
+          description: MOE FAS
           url: https://holyinnocentshigh.moe.edu.sg/contact-us/quick-guide/school-based-financial-assistance-and-opportunity-fund-application
         - title: Direct School Admission
           description: Click here

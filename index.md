@@ -15,8 +15,8 @@ sections:
         - title: Useful Links for Teachers
           description: Click here
           url: /usefullinkforstaff/
-        - title: School Based Financial Assistance
-          description: MOE FAS
+        - title: MOE Financial Assistance Scheme (FAS)
+          description: Click here
           url: /about/info-for-students-and-parents/moe-fas-and-sb-fas/
         - title: Direct School Admission
           description: Click here

@@ -15,6 +15,6 @@ For application, you can either:
 
 1.  Apply [online](https://form.gov.sg/64e2f8f73f582600139f54ac);
 2.  Download the [MOE FAS Application Form](https://drive.google.com/file/d/1OorlFCTwmDKUWCJkpc1YxyGt6IYoan5x/view?usp=drive_link); or
-3.  Collect a copy of the form from General Office – _(\*available from Monday to Friday,  8am to 3pm)_
+3.  Collect a copy of the form from General Office – _(\*available from Monday to Friday,  8am to 3pm)
 
 \*General office will be closed on public holidays and 17 November 2023.

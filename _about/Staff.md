@@ -2,19 +2,20 @@
 title: Staff
 permalink: /about/staff/
 description: ""
+variant: markdown
 ---
 ### **Staff**
 
 | Planning Committee | Name | Email  Address |
 |---|---|---|
 | Principal    | Mrs Chew-Ng Pek Yum Rebecca|[rebecca_ng@schools.gov.sg](mailto:rebecca_ng@schools.gov.sg) |
-| Vice-Principal | Mr Ng Cheng Song Jeremy | [jeremy_ng@schools.gov.sg](mailto:jeremy_ng@schools.gov.sg) |
+| Vice-Principal | Ms Carol Ann Martin | [carol_ann_martin@schools.gov.sg](mailto:carol_ann_martin@schools.gov.sg) |
 | Vice-Principal | Mr Chia Keng Hwee | [chia_keng_hwee@schools.gov.sg](mailto:chia_keng_hwee@schools.gov.sg) |
 | Vice-Principal (Admin)  | Ms Ong Lee Lee  | [ong_lee_lee@schools.gov.sg](mailto:ong_lee_lee@schools.gov.sg)  |
 | HOD/ Character &amp; Citizenship Education| Mr Koh Chee Kiang Lawrence| [koh_chee_kiang_lawrence@moe.edu.sg](mailto:koh_chee_kiang_lawrence@moe.edu.sg) |
-| HOD/ Craft &amp; Technology | Ms Tan Ju-Lyn Wendy | [Tan_ju_lyn_wendy@moe.edu.sg](mailto:Tan_ju_lyn_wendy@moe.edu.sg) |
 | HOD/ Discipline | Ms Lau Sook Yee Valerie | [lau_sook_yee_valerie@moe.edu.sg](mailto:lau_sook_yee_valerie@moe.edu.sg) |
 | HOD/ English &amp; Literature | Ms Lee Xin Fang, Hazel Michelle |[hazel_lee@moe.edu.sg](mailto:hazel_lee@moe.edu.sg) |
+| HOD/ Humanities | Mr Leuar Woan Keng | [woan_keng_leuar@moe.edu.sg](mailto:woan_keng_leuar@moe.edu.sg) |
 | HOD/ Info-Communication Technology | Mr Lim Thiam Kwee Arthur | [lim_thiam_kwee_arthur@moe.edu.sg](mailto:lim_thiam_kwee_arthur@moe.edu.sg) |
 | HOD/ Mathematics | Mr Ian Sim Tsi Tang | [sim_tsi_tang_ian@moe.edu.sg](mailto:sim_tsi_tang_ian@moe.edu.sg) |
 | HOD/ Mother Tongue Languages | Mdm Foo Ling Shui | [foo_ling_shui_a@moe.edu.sg](mailto:foo_ling_shui_a@moe.edu.sg) |
@@ -28,16 +29,18 @@ description: ""
 | Assistant Year Head | Miss Siti Aisyah Safiyuddin  | [siti_aisyah_safiyuddin@moe.edu.sg](mailto:siti_aisyah_safiyuddin@moe.edu.sg)   |
 | SH/ Aesthetics |  Ms Kwa Yi Ru Grace | [kwa_yi_ru_grace@moe.edu.sg](mailto:kwa_yi_ru_grace@moe.edu.sg)   |
 | SH/ Character &amp; Citizenship Education  | Ms Quan Liqin Lynn  | [quan_liqin@moe.edu.sg](mailto:quan_liqin@moe.edu.sg)  |
+| SH/ Chinese Language | Ms Lim Xuan Han | [lim_xuan_han@moe.edu.sg](mailto:lim_xuan_han@moe.edu.sg) |
 |  SH/ Educational Support | Mr Shahrom Asmani  | [muhammad_shahrom_asmani@moe.edu.sg](mailto:muhammad_shahrom_asmani@moe.edu.sg)  |
 | SH/ English Language | Ms Koh Lee Ling Alexis | [koh_lee_ling@moe.edu.sg](mailto:koh_lee_ling@moe.edu.sg) |
 | SH/ English Literature | Ms Divya Raman | [divya_raman@moe.edu.sg](mailto:divya_raman@moe.edu.sg) |
 | SH/ Geography | Ms Chen Huifeng Adely | [chen_huifeng@moe.edu.sg](mailto:chen_huifeng@moe.edu.sg) |
+| SH/ ICT | Ms Khoo Xiang Yun | [khoo_xiang_yun@moe.edu.sg](mailto:khoo_xiang_yun@moe.edu.sg) |
 | SH/ Mathematics | Ms Toh Su Yi | [toh_su_yi@moe.edu.sg](mailto:toh_su_yi@moe.edu.sg) |
 | SH/ Physical Education | Mr Tay Boon Chong Jeffrey  | [tay_b_c_jeffrey@moe.edu.sg](mailto:tay_b_c_jeffrey@moe.edu.sg)  |
 | SH/ Science | Ms Woo Wei Shan | [woo_wei_shan@moe.edu.sg](mailto:woo_wei_shan@moe.edu.sg) |
 | LT/ Social Studies  | Mrs Renuka Krishnah  | [renuka_thankak_krishnah@moe.edu.sg](mailto:renuka_thankak_krishnah@moe.edu.sg)  |
 | Senior School Counsellor | Mr Seng Wei Jian Justin | [seng_wei_jian_justin@moe.edu.sg](mailto:seng_wei_jian_justin@moe.edu.sg)  |
-|
+| Senior Special Educational Needs Officer | Ms Yeo Gek Cheng Anna |[yeo_gek_cheng_anna@moe.edu.sg](mailto:yeo_gek_cheng_anna@moe.edu.sg)  |
 
 <br>
 

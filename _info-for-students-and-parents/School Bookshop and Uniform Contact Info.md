@@ -44,11 +44,11 @@ variant: markdown
 |   |  
 
 
-**Time of sales**: <br>
+**Time of sales** <br>
 Weekday: 2 to 4 pm<br>
 For convenience, you may also like to order online as follow: <br>
 
-Jeep Sing Fashion: <br>
+**Jeep Sing Fashion**<br>
 [ Click Here](https://jeepsinguniform.com/) <br>
 
 

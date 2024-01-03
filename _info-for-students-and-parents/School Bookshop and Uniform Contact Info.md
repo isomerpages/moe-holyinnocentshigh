@@ -31,20 +31,22 @@ variant: markdown
 |         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:auto; mso-font-signature:0 0 0 0 0 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} a:link, span.MsoHyperlink {mso-style-priority:99; color:#0563C1; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> With effect from 15th October 2022, an appointment needs to be made for visits to retail outlet, at least 2 days in advance. Please refer to the web link here: [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking) and instructions are also attached in this link on how to go about booking an appointment.
 
 #### **Sales of School Uniform and PE Attire**
-**For 2023** <br>
-Dates: 27, 28, 29 November 2023, <br>
-            4, 5, 6, 11, 12, 21, 22, 26, 27, 28 December 2023 <br>
-**Time of sales**: Weekday: 9am to 3pm (Lunch Break 12noon - 1pm) <br>
+
+| **For Dates in 2024**  | <br>
+| -------- | -------- | 
+| **January**    | 4th-5th January, 18th January    | 
+| **February**  | 1st February, 22nd February    | 
+| **March**       | 7th March, 28th March    | 
+| **April**          | 11st April, 25th April   | 
+| **August**      | 1st August, 15th August  | 
+| **September**      | 12th September, 26th September  | 
+| **October**      | 3rd October, 17th October  | 
+
 
 For convenience, you may also like to order online as follow: <br>
 
 Jeep Sing Fashion: <br>
 [ Click Here](https://jeepsinguniform.com/) <br>
 
-Pacific Bookstore: <br>
-[Click Here](https://www.pacificbookstores.com/ )<br>
 
 Please feel free to contact the school should you need to provide feedback or further clarification at hihs@moe.edu.sg or call 6283 3381.
-
-
-

@@ -43,6 +43,7 @@ variant: markdown
 | **October**      | 3rd October, 17th October  | 
 
 
+**Time of sales**: Weekday: 2 to 4 pm<br>
 For convenience, you may also like to order online as follow: <br>
 
 Jeep Sing Fashion: <br>

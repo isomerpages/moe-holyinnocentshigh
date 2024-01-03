@@ -34,12 +34,12 @@ variant: markdown
 
 | **For Dates in 2024**  | <br>
 | -------- | -------- | 
-| **January**    | 4th-5th January and 18th January    | 
-| **February**  | 1st February and 22nd February    | 
-| **March**       | 7th March and 28th March    | 
-| **April**          | 11st April and  25th April   | 
-| **August**      | 1st August and 15th August  | 
-| **September**      | 12th September and 26th September  | 
+| **January**      | 4th-5th January and 18th January    | 
+| **February**    | 1st February and 22nd February    | 
+| **March**         | 7th March and 28th March    | 
+| **April**            | 11st April and  25th April   | 
+| **August**        | 1st August and 15th August  | 
+| **September** | 12th September and 26th September  | 
 | **October**      | 3rd October and 17th October  | 
 
 

@@ -41,6 +41,7 @@ variant: markdown
 | **August**        | 1st August and 15th August  | 
 | **September** | 12th September and 26th September  | 
 | **October**      | 3rd October and 17th October  | 
+|   |  
 
 
 **Time of sales**: <br>

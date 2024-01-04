@@ -4,10 +4,16 @@ permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
 variant: markdown
 ---
-
-
-
 **Application Procedure**
+
+
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| The Chinese stall 4 - Fishball Noodle  | Text     | Text     |
+| | |
+
+
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
   

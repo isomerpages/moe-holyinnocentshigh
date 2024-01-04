@@ -2,6 +2,7 @@
 title: Links
 permalink: /Links/
 description: ""
+variant: markdown
 ---
 ### **Links**
 
@@ -16,3 +17,4 @@ description: ""
 * [SLS Support for Home Based Learning](https://drive.google.com/file/d/1WYwjgtV1GizomfSAawp3OKi8zoiAmPk4/view)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [OPAC](https://schoolibrary.moe.edu.sg/holyinnocentshigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+* [School Canteen Advertisement](/links/schoolcanteenadvertisement/)

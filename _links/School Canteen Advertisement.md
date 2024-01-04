@@ -4,7 +4,7 @@ permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
 variant: markdown
 ---
-**Application Procedure**
+
 
 
 
@@ -13,6 +13,7 @@ variant: markdown
 | Halal Stall Noodles OR Non-Halal Noodles  | 31st Jan 2024    | Food to be sold for Non-Halal Noodles Stall include fishball noodles, minced meat noodles, sliced fish noodles, yong tau foo noodles, fried hokkien noodles and tom yum noodles    |
 | | |
 
+**Application Procedure**<br>
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
   
 
@@ -44,7 +45,7 @@ variant: markdown
 
 *   Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 *   Able to provide good service and quality food with prices determined in consultation with the school.
-*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see [Link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+*   Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see&nbsp;[Link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 *   Able to maintain high standard of food safety and personal hygiene.
 *   Healthy and fit to operate the stall.
 

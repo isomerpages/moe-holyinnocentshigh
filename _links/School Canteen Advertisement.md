@@ -4,10 +4,14 @@ permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
 variant: markdown
 ---
-
-
-
 **Application Procedure**
+
+
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Halal Stall Noodles OR Non-Halal Noodles  | 31st Jan 2024    | Food to be sold for Non-Halal Noodles Stall include fishball noodles, minced meat noodles, sliced fish noodles, yong tau foo noodles, fried hokkien noodles and tom yum noodles    |
+| | |
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
   

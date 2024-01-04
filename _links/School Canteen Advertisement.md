@@ -10,10 +10,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| The Chinese stall 4 - Fishball Noodle  | Text     | Text     |
+| Halal Stall Noodles OR Non-Halal Noodles  | 31st Jan 2024    | Food to be sold for Non-Halal Noodles Stall include fishball noodles, minced meat noodles, sliced fish noodles, yong tau foo noodles, fried hokkien noodles and tom yum noodles    |
 | | |
-
-
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
   

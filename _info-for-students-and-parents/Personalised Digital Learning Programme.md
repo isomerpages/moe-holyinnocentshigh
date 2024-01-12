@@ -13,10 +13,12 @@ Please refer to the files for more information.
 
 [Student Device Information Kit](https://drive.google.com/file/d/1ojFp_xdtasjXfEQlAwtFfMCa9890vzZ1/view?usp=sharing)  
   
-[Parents Handbook on 1 to 1 learning](https://drive.google.com/file/d/1g2MX_BpA0l57d9N1KUrbmNvAiCa5kJnA/view?usp=sharing)  
+[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1hxKEl0iYWxRcR3771TWKmPM8wn_pT4FN/view?usp=drive_link) 
+
+[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1LKeGVWkAuGzF7nvMqb8c8r0Yix1lnQJB/view?usp=drive_link) 
   
-[NDLP - Briefing for Parents](https://drive.google.com/file/d/10q6HEpvRTubQQg1X2imYsKy31DFnGp76/view?usp=share_link)&nbsp;&nbsp;
+[NDLP - Briefing for Parents](https://drive.google.com/file/d/13sEAY1EmQd6vjeBe5HF1tN74y_jKKHhY/view?usp=drive_link)&nbsp;&nbsp;
   
-[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/14TlXRnBbBN41REJQK6ETAwbc7CvmBiBX/view?usp=share_link)
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1y-q-SYgvWaPMZO1gayAVpbbojNJq-P7P/view?usp=drive_link)
 
 [DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdmaoptions)  **\*New**

@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **School Rules**
 
-click [here](https://drive.google.com/file/d/1rGT4MV3-D5E1FHwd6iyYYcUmWgFh48oL/view?usp=share_link) for more information<br>
+click [here](https://drive.google.com/file/d/10YzqIPunbICWaR0WSZUF1nJiWjIMwDyt/view?usp=drive_link) for more information

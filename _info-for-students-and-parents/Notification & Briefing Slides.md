@@ -2,8 +2,12 @@
 title: Notification & Briefing Slides
 permalink: /about/Info-for-Students-and-Parents/notification-and-briefing-slides/
 description: ""
+variant: markdown
 ---
 ### **Notification & Briefing Slides**
+
+#### **Year 2024**
+
 
 #### **Year 2023**
 

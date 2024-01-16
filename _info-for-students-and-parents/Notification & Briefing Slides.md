@@ -2,12 +2,16 @@
 title: Notification & Briefing Slides
 permalink: /about/Info-for-Students-and-Parents/notification-and-briefing-slides/
 description: ""
+variant: markdown
 ---
 ### **Notification & Briefing Slides**
 
+#### **Year 2024**
+* [[Sec 4 & 5 Parents Engagement Session (10 Jan 2024)]](https://drive.google.com/file/d/1D0SP_ew59Yubw_N4c-eJWf36iqzziRF-/view?usp=drive_link) **(New)**\*
+
 #### **Year 2023**
 
-* [[Sec 2 Streaming Exercise Briefing Slides](https://drive.google.com/file/d/17MpJQu55yIcwWFZeKgPzQ55BbrQrW22X/view?usp=share_link)] - **\*(New)**
+* [[Sec 2 Streaming Exercise Briefing Slides](https://drive.google.com/file/d/17MpJQu55yIcwWFZeKgPzQ55BbrQrW22X/view?usp=share_link)] 
 
 * [[Sec 2 Familiarisation Streaming Exercise Briefing Slides](https://drive.google.com/file/d/1zrMMmYGK6N_qV-eZd9JqCztmynvfF8rl/view?usp=share_link)]
 

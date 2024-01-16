@@ -7,7 +7,7 @@ variant: markdown
 ### **Notification & Briefing Slides**
 
 #### **Year 2024**
-* [[Sec 4 & 5 Parents Engagement Session (10 Jan 2024)]]() **(New)**\*
+* [[Sec 4 & 5 Parents Engagement Session (10 Jan 2024)]](https://drive.google.com/file/d/1D0SP_ew59Yubw_N4c-eJWf36iqzziRF-/view?usp=drive_link) **(New)**\*
 
 #### **Year 2023**
 

@@ -48,29 +48,27 @@ You may click&nbsp;[here]((https://www.moe.gov.sg/education-in-sg/our-programmes
 
 #### **At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
-![2024 SEXUALITY EDUCATION LESSONS](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20PNG%20File.png)
+![2024 SEXUALITY EDUCATION LESSONS](![](/images/Sec_1.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20PNG%20File%20(2).png)
+![](![](/images/Sec_1_2.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20PNG%20File%20(3).png) 
+![2023 Sexuality Education Lessons for Secondary 2](/images/sec_2.jpg)
 
-![2023 Sexuality Education Lessons for Secondary 2](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%202.png)
+![](![](/images/sec_2_1.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%202%20(2).png)
+![](![](/images/sec_2_2.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%202%20(3).png)
+![2023 Sexuality Education Lessons for Secondary 3](![](/images/sec_3.jpg))
 
-![2023 Sexuality Education Lessons for Secondary 3](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%203.png)
+![](![](/images/sec_3_1.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/sex%20education%202023%20for%20sec%203%20updated.JPG)
+![2023 SEXUALITY EDUCATION LESSONS For Secondary 4 ](![](/images/sec_4.jpg))
 
-![2023 SEXUALITY EDUCATION LESSONS For Secondary 4 ](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%204.png)
+![](![](/images/sec_4_1.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%204%20(2).png)
+![](![](/images/sec_4_2.jpg))
 
-![](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%204%20(3).png)
-
-![2023 SEXUALITY EDUCATION LESSONS For Secondary 5](/images/2023%20SEXUALITY%20EDUCATION/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021%20Secondary%205.png)
+![2023 SEXUALITY EDUCATION LESSONS For Secondary 5](![](/images/sec_5.jpg))
 
 #### **eTeens Programme**
 

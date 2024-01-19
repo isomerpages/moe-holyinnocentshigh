@@ -22,12 +22,6 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
-      title: Sec 1 Registration 2024
-      button: Click here for more information
-      url: " https://sites.google.com/moe.edu.sg/hihs-sec1reg-dec2023/"
-      image: /images/Sec_1_Registration_2024_Cohort___Pop_up_Banner__1_.JPG
-      alt: Image alt text
-  - infopic:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme

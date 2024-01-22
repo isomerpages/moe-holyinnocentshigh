@@ -2,7 +2,7 @@
 title: Craft & Technology and Aesthetics
 permalink: /about/departments/craft-and-tech-and-aesthetics/
 description: ""
-third_nav_title: Department 2024
+third_nav_title: Department
 variant: markdown
 ---
 ### **Craft &amp; Technology and Aesthetics**

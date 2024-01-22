@@ -2,7 +2,7 @@
 title: SEN & Counselling
 permalink: /about/departments/sen-counselling/
 description: ""
-third_nav_title: Department 2024
+third_nav_title: Department
 variant: tiptap
 ---
 ### **SEN &amp; Counselling**

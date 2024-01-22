@@ -1,10 +1,11 @@
 ---
 title: Physical Education & Holistic Health Department
-permalink: /about/Departments/pe-and-holistic-health-department/
+permalink: /about/departments/pe-and-holistic-health-department/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-### **Physical Education & Holistic Health Department**
+### **Physical Education &amp; Holistic Health Department**
 
 #### **Mission:**
 To nurture students who possess a healthy state of being
@@ -34,7 +35,7 @@ Our Physical Education Programme aims to develop in our students by the time the
 
 |  |
 |---|
-| Mr Ricky Han Cheng Kwang (HOD PE & CCA) |
+| Mr Ricky Han Cheng Kwang (HOD PE &amp; CCA) |
 | Mr Valerie Lau (HOD Discipline) |
 | Mr Tay Boon Chong Jeffery (SH PE) |
 | Mrs Ku Tin Tin |
@@ -57,9 +58,9 @@ Students will be assessed based on the following domains and components:
 
 | Domains | Components | Description |
 |---|---|---|
-|  |<br><br> Game Skills & Concepts | The student is able to demonstrate in a modified game setting: <br>- understanding of the rules for successful team play <br>- good positional sense and game awareness <br>- execute the skills taught by the PE Teacher <br>- understand and apply the games concept taught by the PE Teacher |
+|  |<br><br> Game Skills &amp; Concepts | The student is able to demonstrate in a modified game setting: <br>- understanding of the rules for successful team play <br>- good positional sense and game awareness <br>- execute the skills taught by the PE Teacher <br>- understand and apply the games concept taught by the PE Teacher |
 | Cognitive and Physical | <br>Outdoor Education (Sec 1 and 2) | The student is able to demonstrate appropriate outdoor skills through physical activities while cultivating an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others. |
-|  | <br><br>NAPFA Test (Sec 2, 4 and 5) | The student is able to perform for the 6 components of the NAPFA Test: Muscular endurance (sit ups), muscular power (Standing Broad Jump), Flexibility (Sit & Reach), Muscular strength/endurance (Inclined pull-ups / Pull-ups), Speed & agility (Shuttle Run) and Cardiovascular endurance (2.4km Run/Walk). |
+|  | <br><br>NAPFA Test (Sec 2, 4 and 5) | The student is able to perform for the 6 components of the NAPFA Test: Muscular endurance (sit ups), muscular power (Standing Broad Jump), Flexibility (Sit &amp; Reach), Muscular strength/endurance (Inclined pull-ups / Pull-ups), Speed &amp; agility (Shuttle Run) and Cardiovascular endurance (2.4km Run/Walk). |
 |  | Active Participation | The student is able to demonstrate effort, responsibility, pro-activeness and participation. |
 | Affective | <br>Sportsmanship | The student is able to demonstrate the values of integrity, respect, teamwork that enhance communication, collaboration and relationship with others. |
 |  | Conduct and Attire | The student is able to attend PE lessons in appropriate PE attire, follow instructions from PE Teachers and display a high level of safety awareness. |
@@ -69,31 +70,23 @@ Students will be assessed based on the following domains and components:
 
 **HI Active Youth Day**
 
-<img src="/images/pe%201.jpg" 
-     style="width:49%" align=left>
-<img src="/images/pe%202.jpg" 
-     style="width:49%" align=right>
+<img src="/images/pe%201.jpg" style="width:49%" align="left">
+<img src="/images/pe%202.jpg" style="width:49%" align="right">
 <br><br><br><br>
 <br><br><br><br>
 **Road Run**
 
-<img src="/images/pe%203.jpg" 
-     style="width:49%" align=left>
-<img src="/images/pe%204.jpg" 
-     style="width:49%" align=right>
+<img src="/images/pe%203.jpg" style="width:49%" align="left">
+<img src="/images/pe%204.jpg" style="width:49%" align="right">
 <br><br><br><br>
 <br><br><br><br>
 **Sports Elective Program**
 
-<img src="/images/pe%205.jpg" 
-     style="width:49%" align=left>
-<img src="/images/pe%206.jpg" 
-     style="width:49%" align=right>
+<img src="/images/pe%205.jpg" style="width:49%" align="left">
+<img src="/images/pe%206.jpg" style="width:49%" align="right">
 <br><br><br><br>
 <br><br><br><br>
 **ACES Day**
 
-<img src="/images/pe%207.jpg" 
-     style="width:49%" align=left>
-<img src="/images/pe%208.jpg" 
-     style="width:49%" align=right>
+<img src="/images/pe%207.jpg" style="width:49%" align="left">
+<img src="/images/pe%208.jpg" style="width:49%" align="right">

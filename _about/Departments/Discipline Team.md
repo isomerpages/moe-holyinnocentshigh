@@ -1,8 +1,9 @@
 ---
 title: Discipline Team
-permalink: /about/Departments/discipline-team/
+permalink: /about/departments/discipline-team/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
 ### **Discipline Team**
 
@@ -20,21 +21,20 @@ third_nav_title: Departments
 <br> In Holy Innocents' High School, our **Identity,Relationships** and **Choices** are shaped by our values and closely guided by the **Good Samaritan ethos.**
 
 
-<img src="/images/discipline4.jpg" 
-     style="width:%" align=left>
+<img src="/images/discipline4.jpg" style="width:%" align="left">
 		 
 
 **Identity**
 <br> Together with others in our school and the wider community, I believe we can become our best selves and contribute to a greater good as a HI Good Samaritan. <br>
 * Be **respectful** to others.
 * **Conduct** ourselves with **integrity** and **humility**
-* Everyone is **unique** and we can be **purposeful & resilient** in our lives and work towards our goals and dreams. 
+* Everyone is **unique** and we can be **purposeful &amp; resilient** in our lives and work towards our goals and dreams. 
 
 **Relationships**
-<br> Let the relationships that I build be meaningful and filled with empathy & positivity. May i learn to build trust and be human-centred at work and play.
+<br> Let the relationships that I build be meaningful and filled with empathy &amp; positivity. May i learn to build trust and be human-centred at work and play.
 * a. Let me be guided by **respect** and **love** and **take responsibility for my own words and actions** in both online and offline.
 * b. Let us give one another the time and space to develop at our own pace.
-* c. May I learn to be **inclusive of others** and recognize & celebrate exemplary behaviour.
+* c. May I learn to be **inclusive of others** and recognize &amp; celebrate exemplary behaviour.
 
 **Choices**
 <br> I have the power to mae responsible choices, I can choose to respond with humility, integrity, respect and love in my daily interactions with others. In doing so, I will learn and grow into a HI Good Samaritan.

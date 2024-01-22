@@ -1,10 +1,11 @@
 ---
 title: Character & Citizenship Education
-permalink: /about/Departments/cce/
+permalink: /about/departments/cce/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-### **Character & Citizenship Education**
+### **Character &amp; Citizenship Education**
 #### **Aim**
 CCE aims to develop students’ character in three aspects, performance, ethics and service. CCE plays a central role in providing the curriculum foundation of nurturing good values, socio-emotional skills and citizenship competencies.
 
@@ -23,7 +24,7 @@ The guiding principles for the CCE curriculum are as follows:
 * Prepare and equip students for workforce, and future living
 * Emphasis on building strength of character
 
-#### **Character & Citizenship Education Department**
+#### **Character &amp; Citizenship Education Department**
 
 | **Head of Department** | Mr Lawrence Koh |
 |---|---|
@@ -57,10 +58,8 @@ The Cyberwellness curriculum include lessons and learning experiences including 
 
 **Cyberwellness Advocacy**
 
-<img src="/images/cce%203.jpg" 
-     style="width:65%">
-<img src="/images/cce4.jpg" 
-     style="width:85%">
+<img src="/images/cce%203.jpg" style="width:65%">
+<img src="/images/cce4.jpg" style="width:85%">
 		 
 #### **National Education**
 

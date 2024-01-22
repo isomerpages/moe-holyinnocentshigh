@@ -1,21 +1,22 @@
 ---
 title: SEN & Counselling
-permalink: /about/Departments/SEN-Counselling/
+permalink: /about/departments/sen-counselling/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-### **SEN & Counselling**
+### **SEN &amp; Counselling**
 
 
 #### **Mission**
-To develop competent educators, enabling and believing in students to optimise potential & pursue productive and meaningful life. 
+To develop competent educators, enabling and believing in students to optimise potential &amp; pursue productive and meaningful life. 
 
 
 #### **Vision**
 Inclusive Culture, Inclusive Education, Opportunities for All
 
 
-#### **SEN & Counselling Team**
+#### **SEN &amp; Counselling Team**
 
 |  |  |  
 | -------- | -------- | -------- |
@@ -39,7 +40,7 @@ Inclusive Culture, Inclusive Education, Opportunities for All
 
 ![](/images/SEN.jpeg)
 
-#### **Intervention & Programmes**
+#### **Intervention &amp; Programmes**
 
 * Wellbeing talks and workshops
 * Peer support Leaders training workshops

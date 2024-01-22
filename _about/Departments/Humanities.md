@@ -42,25 +42,24 @@ Students learn about the Singaporean society and how Singapore interacts with th
 
 |  |  |
 |---|---|
-| **Head Of Department** | To be announced |
+| **Head Of Department** | Mr Leuar Woan Keng |
 | **Subject Head (Geography)** | Ms Chen Huifeng Adely |
 | **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
 | **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Zhang Jiexin <br>Ms Natalie Soong|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
-|  **History Teachers** |Mr Chua Chong Wen Clement (YH) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew<br>Miss Gladys Seow Yi Ling|
+|  **History Teachers** |Mr Chua Chong Wen Clement (Year Head) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew|
 |   **Lead Teacher (Social Studies)** | Mrs Renuka Krishnah |
-|  **Social Studies Teachers** | Ms Liang Meiyi<br> Ms Yvonne Teo<br>Ms Cherlyn Ng<br>Ms Perng Jia Wei|
+|   **Senior Teacher (Social Studies)** | Ms Liang Meiyi |
+|  **Social Studies Teachers** | Ms Perng Jia Wei<br> Ms Yvonne Teo<br>Ms Cherlyn Ng|
 |
 
-#### **Programmes / Projects / Competitions in 2023**
+#### **Programmes / Projects / Competitions in 2024**
 
 1. Geographical Investigation
 2. NUS Geography Challenge
 3. Historical Investigation (Lower Secondary)
-4. History-Literature Learning Journey
-5. Inter-school War &amp; Diplomacy History Card Challenge
-6. Issues Investigation for Social Studies
-7. Model United Nations
+4. Social Studies Issues Investigation
+5. Model United Nations
 
 #### **Photos**
 

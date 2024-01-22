@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Department 2024/Mathematics.md
       - Department 2024/Mother Tongue.md
       - Department 2024/English Language & Literature Department.md
       - Department 2024/.keep

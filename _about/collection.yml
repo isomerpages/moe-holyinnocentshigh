@@ -2,14 +2,14 @@ collections:
   about:
     output: true
     order:
-      - School Management Committee.md
-      - Department/.keep
       - Partners.md
       - Principal's Message.md
       - History.md
       - HIHS Heartbeat.md
       - School Song and Creed.md
       - Honour Roll.md
+      - School Management Committee.md
+      - Department/.keep
       - Department 2024/.keep
       - Department 2024/English Language & Literature Department.md
       - Department 2024/Mother Tongue.md

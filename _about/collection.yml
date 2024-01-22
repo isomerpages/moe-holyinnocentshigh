@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Department 2024/Character & Citizenship Education.md
       - Department 2024/SEN & Counselling.md
       - Department 2024/Discipline Team.md
       - Department 2024/Physical Education & Holistic Health Department.md

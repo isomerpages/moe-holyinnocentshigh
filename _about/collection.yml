@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Department 2024/Craft & Technology and Aesthetics.md
       - Department 2024/Humanities.md
       - Department 2024/Science.md
       - Department 2024/Mathematics.md

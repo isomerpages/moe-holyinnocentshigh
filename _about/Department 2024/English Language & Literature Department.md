@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature Department
-permalink: /about/departments/english-language-and-literature-department/
+permalink: /about/departments2024/english-language-and-literature-department/
 description: ""
 third_nav_title: Department 2024
 variant: markdown

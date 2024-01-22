@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Department.md
       - Partners.md
       - Principal's Message.md
       - History.md

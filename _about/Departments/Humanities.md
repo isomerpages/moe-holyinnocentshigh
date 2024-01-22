@@ -2,7 +2,7 @@
 title: Humanities
 permalink: /about/departments/humanities/
 description: ""
-third_nav_title: Department
+third_nav_title: Departments
 variant: markdown
 ---
 ### **Humanities**

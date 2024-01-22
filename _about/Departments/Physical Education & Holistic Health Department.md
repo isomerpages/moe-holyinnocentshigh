@@ -2,7 +2,7 @@
 title: Physical Education & Holistic Health Department
 permalink: /about/departments/pe-and-holistic-health-department/
 description: ""
-third_nav_title: Department
+third_nav_title: Departments
 variant: tiptap
 ---
 ### **Physical Education &amp; Holistic Health Department**

@@ -2,7 +2,7 @@
 title: Character & Citizenship Education
 permalink: /about/departments/cce/
 description: ""
-third_nav_title: Department 2024
+third_nav_title: Departments
 variant: tiptap
 ---
 ### **Character &amp; Citizenship Education**

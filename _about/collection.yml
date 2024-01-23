@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Departments.md
       - Partners.md
       - Principal's Message.md
       - History.md
@@ -10,6 +9,7 @@ collections:
       - School Song and Creed.md
       - Honour Roll.md
       - School Management Committee.md
+      - Departments.md
       - Departments/.keep
       - Departments/English Language & Literature Department.md
       - Departments/Mother Tongue.md

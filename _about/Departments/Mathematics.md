@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /about/departments2024/mathematics/
+permalink: /about/departments/mathematics/
 description: ""
 third_nav_title: Departments
 variant: tiptap

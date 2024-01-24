@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /about/departments2024/mother-tongue/
+permalink: /about/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 variant: markdown

@@ -1,0 +1,75 @@
+logo: /images/sch logo.jpg
+links:
+  - title: About
+    url: /about/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about/principals-message/
+      - title: History
+        url: /about/history/
+      - title: HIHS Heartbeat
+        url: /about/hihs-heartbeat/
+      - title: School Song and Creed
+        url: /about/school-song-and-creed/
+      - title: Honour Roll
+        url: /about/honour-roll/
+      - title: School Management Committee
+        url: /about/school-management-committee/
+      - title: Departments
+        url: /about/departments/english-language-and-literature-departmente/
+      - title: Partners
+        url: /about/partners/
+      - title: Staff
+        url: /about/staff/
+      - title: Info for Students & Parents
+        url: /about/Info-for-Students-and-Parents/school-rules/
+  - title: Curriculum
+    url: /curriculum/programmes/dsa/
+    sublinks:
+      - title: Programmes
+        url: /curriculum/programmes/dsa/
+      - title: Co-Curricular Activities
+        url: /curriculum/cca/
+      - title: Leap 2.0
+        url: https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit?resourcekey=0-IhOPNGKY3kIMx0F_Zt5gDg
+  - title: Ethos
+    url: /ethos/teachers-creed/
+    sublinks:
+      - title: Teachers' Creed
+        url: /ethos/teachers-creed/
+      - title: Teachers' Pledge
+        url: /ethos/teachers-pledge/
+      - title: Teachers' Vision
+        url: /ethos/teachers-vision/
+      - title: Our Catholic Light
+        url: https://youtu.be/lbdx9vjSwqA
+      - title: Teaching Ethos
+        url: /ethos/teaching-ethos/
+  - title: Links
+    url: /Links/
+    sublinks:
+      - title: HIHS Facebook
+        url: https://www.facebook.com/holyinnocentshighschool
+      - title: Parent Support Group Facebook
+        url: https://www.facebook.com/HIPSG/
+      - title: iCON Email
+        url: https://icon.moe.edu.sg
+      - title: MySkillsFuture
+        url: https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
+      - title: ACE Learning
+        url: https://www.ace-learning.com/
+      - title: Parent Gateway Portal
+        url: /links/ParentsGatewayPortal/
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg/login
+      - title: Home-Based Learning (SLS)
+        url: https://drive.google.com/file/d/1WYwjgtV1GizomfSAawp3OKi8zoiAmPk4/view
+      - title: OPAC
+        url: https://schoolibrary.moe.edu.sg/holyinnocentshigh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: School Canteen Advertisement
+        url: /links/schoolcanteenadvertisement/
+  - title: Contact Us
+    url: /FAQ/
+    sublinks:
+      - title: FAQ
+        url: /FAQ/

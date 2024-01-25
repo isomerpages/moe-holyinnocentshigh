@@ -1,0 +1,24 @@
+---
+title: Personalised Digital Learning Programme
+permalink: /about/info-for-students-and-parents/pdlp/
+description: ""
+variant: markdown
+---
+### **Personalised Digital Learning Programme (PDLP)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3FKftVAU4eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+
+Please refer to the files for more information.
+
+[Student Device Information Kit](https://drive.google.com/file/d/1ojFp_xdtasjXfEQlAwtFfMCa9890vzZ1/view?usp=sharing)  
+  
+[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1hxKEl0iYWxRcR3771TWKmPM8wn_pT4FN/view?usp=drive_link) 
+
+[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1LKeGVWkAuGzF7nvMqb8c8r0Yix1lnQJB/view?usp=drive_link) 
+  
+[NDLP - Briefing for Parents](https://drive.google.com/file/d/13sEAY1EmQd6vjeBe5HF1tN74y_jKKHhY/view?usp=drive_link)&nbsp;&nbsp;
+  
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1y-q-SYgvWaPMZO1gayAVpbbojNJq-P7P/view?usp=drive_link)
+
+[DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdmaoptions)  **\*New**

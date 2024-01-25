@@ -1,0 +1,6 @@
+collections:
+  links:
+    output: true
+    order:
+      - Parent Gateway Portal.md
+      - School Canteen Advertisement.md

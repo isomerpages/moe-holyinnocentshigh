@@ -1,0 +1,22 @@
+collections:
+  info-for-students-and-parents:
+    output: true
+    order:
+      - School Rules.md
+      - Timetables.md
+      - Notification & Briefing Slides.md
+      - 2024 Book Lists.md
+      - Schemes of Work.md
+      - School Events Calender.md
+      - Rewards & Recognition/.keep
+      - Rewards & Recognition/Honours Scroll (Character & Citizenship).md
+      - Rewards & Recognition/Edusave Awards and Scholarships.md
+      - Rewards & Recognition/EAGLES & ECHA.md
+      - Home School Collaboration Protocol.md
+      - Publications.md
+      - Information for Parents/.keep
+      - Information for Parents/Parenting Programmes.md
+      - Information for Parents/Parent Support Group & Dads for Life.md
+      - School Bookshop and Uniform Contact Info.md
+      - MOE FAS.md
+      - Personalised Digital Learning Programme.md

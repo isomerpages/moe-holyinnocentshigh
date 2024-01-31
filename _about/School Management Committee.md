@@ -18,6 +18,9 @@ Secretary
 Principal - Holy Innocents' Primary School
 
 ##### **Mr Tan Jee Meng**
+Vice-Chairman & Supervisor
+
+##### **A/P Sylvia Chong**
 Treasurer
 
 ##### **Mr Tan Heng Meng**

@@ -3,12 +3,17 @@ title: Learning Support Programme
 permalink: /curriculum/programmes/learning-support-programme/
 description: ""
 third_nav_title: Programmes
+variant: markdown
 ---
 ### **Learning Support Programme**
 
 #### **Learning Support Programme (LSP)**
 
-Learning Support Programme (LSP) at Holy Innocents’ High School has been designed to help academically at-risk students nurture a positive learning attitude and develop core self-directed learning skills through coaching and guidance by teachers and peer-tutors.
+Learning Support Programme (LSP) at Holy Innocents’ High School has been designed to help academically at-risk students nurture a positive learning attitude and develop core self-directed learning skills. 
+
+Through coaching and guidance by teachers, identified students are given additional support for core subjects (EL, Math and Science) via bite-sized sessions to cope with their academic learning. Students in LSP work closely with teacher coaches, who monitor the progress of their academic subjects and facilitate their reflections. Student reflection is an integral part of the programme because it allows the students to take stock and internalise their learning for each week as well as over the entire programme duration. Useful habits of self-regulation are also part of the reflection process.
+
+Selected students will be called up every term to attend study sessions that prepare them academically for the rigors of written examinations and equip them with important life skills such as goal-setting, time management and study habits. They will also receive Education and Career Guidance (ECG) to develop a growth mindset and a purpose in life.
 
 #### **Sec 1 to 3 Express and Normal (Academic)**
 

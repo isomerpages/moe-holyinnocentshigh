@@ -2,12 +2,11 @@
 title: Partners
 permalink: /about/partners/
 description: ""
+variant: markdown
 ---
-
-
 ### **Partners**
 
-* [Parent Support Group](https://holyinnocentshigh.moe.edu.sg/about/partners/parent-support-group)
+* [Parent Support Group](https://www.facebook.com/HI.psg/)
 * [Alumni](https://m.facebook.com/hialumni/)
 
 #### **Stakeholders**

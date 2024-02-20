@@ -54,3 +54,24 @@ student may be enrolled</p>
 <p></p>
 <p>There are 3 types of ApLM:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied learning Modules/APLM_Image_1_png.jpg">
+</div>
+<h4><strong>Examples of ApLM @ ITE</strong>:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Build a Robotic Gripper for a Claw Game</p>
+</li>
+<li>
+<p>My First Investment</p>
+</li>
+<li>
+<p>Fun with Electronics</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">
+</div>
+<p></p>
+<p></p>

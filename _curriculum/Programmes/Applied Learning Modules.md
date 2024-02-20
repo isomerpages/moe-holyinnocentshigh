@@ -73,5 +73,6 @@ student may be enrolled</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">
 </div>
+<p>Learning from the lecturers in Fun with Electronics @ ITE</p>
 <p></p>
 <p></p>

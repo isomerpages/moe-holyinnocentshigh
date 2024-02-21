@@ -104,3 +104,19 @@ student may be enrolled</p>
 <img style="width: 100%" height="auto" width="100%" alt="Working on a Data Analytics project @ Polythenic" src="/images/Applied learning Modules/APLM_Image_5_png.jpg">
 </div>
 <p>Working on a Data Analytics project @ Polythenic</p>
+<h4><strong>The school also engages private vendors to run ApLM for students during post examination period.</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Presentation @ School" src="/images/Applied learning Modules/APLM_Image_6_png.jpg">
+</div>
+<p>Aeronautical Engineering Presentation @ School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Showcase @ School" src="/images/Applied learning Modules/APLM_Image_7_png.jpg">
+</div>
+<p>Aeronautical Engineering Showcase @ School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Aeronutical Engineering Model Airplanes @ School" src="/images/Applied learning Modules/APLM_Image_8_png.jpg">
+</div>
+<p>Aeronutical Engineering Model Airplanes @ School</p>

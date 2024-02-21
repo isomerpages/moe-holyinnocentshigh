@@ -89,11 +89,9 @@ student may be enrolled</p>
 </li>
 <li>
 <p>Introduction to Analytics &amp; AI</p>
-<p></p>
-<p></p>
-<h4>Introduction to Data Analytics Lecture @ Polythenic</h4>
 </li>
 </ul>
+<h4>Introduction to Data Analytics Lecture @ Polythenic</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introduction to Data Analytics Lecture @ Poly" src="/images/Applied learning Modules/APLM_Image_4_png.jpg">
 </div>

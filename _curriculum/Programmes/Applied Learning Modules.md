@@ -73,7 +73,6 @@ student may be enrolled</p>
 <img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">
 </div>
 <h4>Learning from the lecturers in Fun with Electronics @ ITE</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Having Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_3_png.jpg">
 </div>
@@ -93,12 +92,10 @@ student may be enrolled</p>
 <p>Introduction to Analytics &amp; AI</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Introduction to Data Analytics Lecture @ Poly" src="/images/Applied learning Modules/APLM_Image_4_png.jpg">
 </div>
 <h4>Introduction to Data Analytics Lecture @ Polythenic</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Working on a Data Analytics project @ Polythenic" src="/images/Applied learning Modules/APLM_Image_5_png.jpg">
 </div>
@@ -109,27 +106,22 @@ student may be enrolled</p>
 <img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Presentation @ School" src="/images/Applied learning Modules/APLM_Image_6_png.jpg">
 </div>
 <h4>Aeronautical Engineering Presentation @ School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Showcase @ School" src="/images/Applied learning Modules/APLM_Image_7_png.jpg">
 </div>
 <h4>Aeronautical Engineering Showcase @ School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aeronutical Engineering Model Airplanes @ School" src="/images/Applied learning Modules/APLM_Image_8_png.jpg">
 </div>
 <h4>Aeronutical Engineering Model Airplanes @ School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Learning Journey @ School" src="/images/Applied learning Modules/APLM_Image_9_png.jpg">
 </div>
 <h4>Culinary Cuisine Learning Journey @ School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Practical Session @ School" src="/images/Applied learning Modules/APLM_Image_10_png.jpg">
 </div>
 <h4>Culinary Cuisine Practical Session @ School</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Purchasing of Ingredients @ School" src="/images/Applied learning Modules/APLM_Image_11_png.jpg">
 </div>

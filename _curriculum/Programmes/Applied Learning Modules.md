@@ -120,3 +120,18 @@ student may be enrolled</p>
 <img style="width: 100%" height="auto" width="100%" alt="Aeronutical Engineering Model Airplanes @ School" src="/images/Applied learning Modules/APLM_Image_8_png.jpg">
 </div>
 <p>Aeronutical Engineering Model Airplanes @ School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Learning Journey @ School" src="/images/Applied learning Modules/APLM_Image_9_png.jpg">
+</div>
+<p>Culinary Cuisine Learning Journey @ School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Practical Session @ School" src="/images/Applied learning Modules/APLM_Image_10_png.jpg">
+</div>
+<p>Culinary Cuisine Practical Session @ School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Purchasing of Ingredients @ School" src="/images/Applied learning Modules/APLM_Image_11_png.jpg">
+</div>
+<p>Culinary Cuisine Purchasing of Ingredients @ School</p>

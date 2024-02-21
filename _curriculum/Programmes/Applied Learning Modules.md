@@ -75,4 +75,32 @@ student may be enrolled</p>
 </div>
 <p>Learning from the lecturers in Fun with Electronics @ ITE</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Having Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_3_png.jpg">
+</div>
+<p>Having Fun with Electronics @ ITE</p>
+<h4><strong>Examples of ApLM @ Polytechnics</strong>:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Electronics in Healthcare Applications</p>
+</li>
+<li>
+<p>Electronic Design and Development</p>
+</li>
+<li>
+<p>Understanding Consumer Research</p>
+</li>
+<li>
+<p>Introduction to Analytics &amp; AI</p>
+</li>
+</ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Introduction to Data Analytics Lecture @ Poly" src="/images/Applied learning Modules/APLM_Image_4_png.jpg">
+</div>
+<p>Introduction to Data Analytics Lecture @ Polythenic</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Working on a Data Analytics project @ Polythenic" src="/images/Applied learning Modules/APLM_Image_5_png.jpg">
+</div>
+<p>Working on a Data Analytics project @ Polythenic</p>

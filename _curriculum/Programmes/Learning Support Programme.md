@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Programmes
 variant: markdown
 ---
-### **Learning Support Programme**
 
 #### **Learning Support Programme (LSP)**
 

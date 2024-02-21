@@ -126,5 +126,4 @@ student may be enrolled</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Culinary Cuisine Purchasing of Ingredients @ School" src="/images/Applied learning Modules/APLM_Image_11_png.jpg">
 </div>
-<h4></h4>
 <p></p>

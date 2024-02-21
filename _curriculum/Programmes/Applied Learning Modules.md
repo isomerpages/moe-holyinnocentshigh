@@ -53,7 +53,6 @@ student may be enrolled</p>
 <p>in up to three ApLM throughout their secondary school years.</p>
 <p></p>
 <p>There are 3 types of ApLM:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied learning Modules/APLM_Image_1_png.jpg">
 </div>
@@ -73,7 +72,7 @@ student may be enrolled</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">
 </div>
-<p>Learning from the lecturers in Fun with Electronics @ ITE</p>
+<h4>Learning from the lecturers in Fun with Electronics @ ITE</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Having Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_3_png.jpg">

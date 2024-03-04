@@ -47,13 +47,11 @@ in real-world contexts.</p>
 dedicated teachers.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ALP Learning Experiences at Holy Innocents’ High School" src="/images/Applied Learning Programme /ALP_2.jpg">
 </div>
 <p><strong>ALP Learning Experiences at Holy Innocents’ High School</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Foundational Learning for All Students" src="/images/Applied Learning Programme /ALP_3.jpg">
 </div>
@@ -82,16 +80,18 @@ storytelling through visual media.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Advanced Learning and Leadership Opportunities for Interested and Talented Students" src="/images/Applied Learning Programme /ALP_4.jpg">
 </div>
+<p></p>
 <p><strong>Tier 2: Advanced Learning and Leadership Opportunities for Interested and Talented Students</strong>
 </p>
 <p>For those who demonstrate a deeper interest or talent in the ALP areas,
 Tier 2 offers opportunities to further their learning and apply skills
 in real-world settings.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Advanced Learning</strong>
 </p>
 <p>Opportunities to participate in workshops, competitions as well as lead
 in school-based activities, such as:</p>
+<p></p>
 </li>
 <li>
 <p>Digital illustration Workshops</p>

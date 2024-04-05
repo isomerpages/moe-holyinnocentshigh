@@ -17,7 +17,7 @@ Principal - Holy Innocents' High School
 Secretary
 Principal - Holy Innocents' Primary School
 
-##### **Mr Tan Jee Meng**
+##### **Mr Tan Jee Ming**
 Vice-Chairman & Supervisor
 
 ##### **A/P Sylvia Chong**

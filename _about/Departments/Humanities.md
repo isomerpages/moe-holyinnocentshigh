@@ -44,7 +44,7 @@ Students learn about the Singaporean society and how Singapore interacts with th
 |---|---|
 | **Head Of Department** | Mr Leuar Woan Keng |
 | **Subject Head (Geography)** | Ms Chen Huifeng Adely |
-| **Senior Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
+| **Lead Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
 | **Geography Teachers**  | Mr Lawrence Koh (HOD / CCE)<br>Ms Zhang Jiexin <br>Ms Natalie Soong|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
 |  **History Teachers** |Mr Chua Chong Wen Clement (Year Head) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew|

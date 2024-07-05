@@ -14,16 +14,13 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 
 | | |
 |---|---|
-| **Head of Department** |  |
-| **SH (Aesthetics)** | Ms Kwa Yi Ru Grace |
-| **Music Unit** | Senior Teacher <br> Mrs Geraldine Tay |
-| **Design and Technology Unit** | Mr Gary Tan<br> Ms Chen Xinyi |
-|  **Support Staff** | Mr Sim Beng Hwa <br> Mr Ng Khoon Huat |
-| **Music Unit** | Ms Agnes Chin <br> Ms Gladys Seow Yi Ling |
-| **Art Unit** | Ms Jeslyn Lee<br>Mr Abdul Hadi Wahib |
+| **Head of Department** | Ms Kwa Yi Ru Grace |
+| **Music Unit** | Mrs Geraldine Tay (ST/ Music) <br>Ms Agnes Chin<br>Ms Gladys Seow Yi Ling |
+| **Design and Technology Unit** | Mr Gary Tan (Year Head, Upper Sec)<br> Ms Chen Xinyi |
+| **Art Unit** | Mr Abdul Hadi Wahib (ST/ Art)<br>Ms Jeslyn Lee |
 |  **Nutrition &amp; food Science Unit** |  Mrs Haymini Segar <br>Ms Bernice Pan <br> Ms Ernie Abd Rahman |
-|  **Support Staff** | |
-| 
+|  **Support Staff** | Mr Sim Beng Hwa <br> Mr Ng Khoon Huat |
+
 
 #### **Programmes**
 ##### **Art Programme:**

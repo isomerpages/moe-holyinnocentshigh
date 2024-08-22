@@ -2,7 +2,7 @@
 title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -37,8 +37,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food Stall (Halal) <strong>
-<u>OR</u></strong>
+<p>Western Food Stall (Halal) <strong><u>OR</u></strong>
 </p>
 <p>Western Food Stall (Non-Halal)</p>
 </td>

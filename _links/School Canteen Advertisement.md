@@ -37,7 +37,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food Stall (Halal) <strong><u>OR</u></strong>
+<p>Western Food Stall (Halal) <strong>
+<u>OR</u></strong>
 </p>
 <p>Western Food Stall (Non-Halal)</p>
 </td>

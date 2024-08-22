@@ -2,7 +2,7 @@
 title: School Canteen Advertisement
 permalink: /links/schoolcanteenadvertisement/
 description: School Canteen Advertisement
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>

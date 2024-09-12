@@ -29,7 +29,7 @@ variant: tiptap
 <p>Fusion Food Stall - Rice (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31st December 2024</p>
+<p>31<sup>st</sup> December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese/ Korean Food are acceptable</p>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Western Food Stall (Non-Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31st December 2024</p>
+<p>31<sup>st</sup> December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>

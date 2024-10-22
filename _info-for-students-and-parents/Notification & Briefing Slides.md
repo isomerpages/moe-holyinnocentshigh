@@ -8,8 +8,9 @@ variant: markdown
 
 #### **Year 2024**
 
-* [[HIHS Assessment Weightages 2024)]](https://drive.google.com/file/d/1FhYaXivFyOoP-9XHNkc-FzVtXEgLlwFd/view?usp=drive_link) **
+* [[Sec 2 Streaming Exercise Briefing 2024)]](https://drive.google.com/file/d/1hpMs3n2xAzZRa9lVxYHqM8_HIVqfrI-g/view?usp=sharing) **
 (New)**\*
+* [[HIHS Assessment Weightages 2024)]](https://drive.google.com/file/d/1FhYaXivFyOoP-9XHNkc-FzVtXEgLlwFd/view?usp=drive_link)
 * [[Sec 2 2024 Familiarization of Subject Combination Portal - Students' Briefing)]](https://drive.google.com/file/d/1cQKR6ys1tIHaEjppgTKc5KB00emOKMVs/view?usp=sharing) 
 * [[Sec 3 Parents Engagement Session (26 Jan 2024)]](https://drive.google.com/file/d/1R9cIp96TgYrhq7FmC7cdrUSBYwQuCyqY/view?usp=drive_link) 
 * [[Sec 2 Parents Engagement Session (23 Jan 2024)]](https://drive.google.com/file/d/1spRRN5DmPiccmze_eFHd_zrWBYg2OwYd/view?usp=drive_link) 

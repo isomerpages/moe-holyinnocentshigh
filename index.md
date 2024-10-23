@@ -31,6 +31,15 @@ sections:
       image: /images/PAT2024.jpg
       alt: Image alt text
   - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: Nomination is now Open!
+      id: infopic
+      description: "Closing Date: 10 Jan 2025"
+      button: click here to read more
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA2024.jpg
+      alt: Image alt text
+  - infopic:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme

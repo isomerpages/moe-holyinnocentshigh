@@ -22,6 +22,24 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
+      title: President's Award for Teachers 2025
+      subtitle: Nomination is Now Open!
+      id: infopic
+      description: "Closing Date: 10 Jan 2025"
+      button: click here to read more
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: Nomination is now Open!
+      id: infopic
+      description: "Closing Date: 10 Jan 2025"
+      button: click here to read more
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA2024.jpg
+      alt: Image alt text
+  - infopic:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme

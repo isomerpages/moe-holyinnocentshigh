@@ -26,7 +26,7 @@ sections:
       subtitle: Nomination is Now Open!
       id: infopic
       description: "Closing Date: 10 Jan 2025"
-      button: Click here for more
+      button: click here to read more
       url: https://go.gov.sg/pat2025
       image: /images/PAT2024.jpg
       alt: Image alt text

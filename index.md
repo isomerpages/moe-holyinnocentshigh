@@ -23,10 +23,10 @@ sections:
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
       title: President's Award for Teachers 2025
-      subtitle: Add an image and text
+      subtitle: Nomination is Now Open!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Closing Date: 10 Jan 2025"
+      button: Click here for more
       url: https://go.gov.sg/pat2025
       image: /images/PAT2024.jpg
       alt: Image alt text

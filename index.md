@@ -22,6 +22,15 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
+      title: President's Award for Teachers 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT2024.jpg
+      alt: Image alt text
+  - infopic:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme

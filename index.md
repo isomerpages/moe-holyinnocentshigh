@@ -29,6 +29,7 @@ sections:
       url: https://go.gov.sg/pat2025
       image: /images/Sch_Website_Banner.jpg
       alt: Open House 2024
+      subtitle: Join Us!!!
   - infopic:
       title: President's Award for Teachers 2025
       subtitle: Nomination is Now Open!

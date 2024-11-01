@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Open House 2024
       id: infopic
-      description: Join us for out Holy Innocents' High School Open House 2024!
+      description: Join us for our Holy Innocents' High School Open House 2024!
       button: click here to read more
       url: https://go.gov.sg/pat2025
       image: /images/Sch_Website_Banner_5.jpg

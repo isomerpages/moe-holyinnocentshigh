@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Join us at Holy Innocents' High School Open House 2024!
       button: click here to read more
-      url: /links/open-house-2024/
+      url: /links/hihs-open-house-2024/
       image: /images/Sch_Website_Banner_6.jpg
       alt: HIHS Open House 2024
       subtitle: Discover our campus!

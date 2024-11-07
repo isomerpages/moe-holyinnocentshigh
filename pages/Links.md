@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Links**
 
-* [Open House 2024](https://www.holyinnocentshigh.moe.edu.sg/links/open-house-2024/)
+* [HIHS Open House 2024](https://www.holyinnocentshigh.moe.edu.sg/links/open-house-2024/)
 * [HIHS Facebook](https://www.facebook.com/holyinnocentshighschool)
 * [Parent Support Group Facebook](https://www.facebook.com/HIPSG/)
 * [iCON Email](https://icon.moe.edu.sg)

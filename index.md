@@ -22,6 +22,15 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
+      title: Open House 2024
+      id: infopic
+      description: Join us at Holy Innocents' High School Open House 2024!
+      button: click here to read more
+      url: /links/open-house-2024/
+      image: /images/Sch_Website_Banner_6.jpg
+      alt: Open House 2024
+      subtitle: Discover our campus!
+  - infopic:
       title: President's Award for Teachers 2025
       subtitle: Nomination is Now Open!
       id: infopic

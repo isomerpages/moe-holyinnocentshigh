@@ -1,5 +1,5 @@
 ---
-title: Useful Links For Teachers
+title: Useful Links For Staff
 permalink: /usefullinkforstaff/
 description: ""
 variant: markdown
@@ -8,7 +8,6 @@ variant: markdown
 
 *   **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 *   **[iCart (Gebiz DA eCatalogues) ](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)**
-*   **[MIMS Portal](https://mims.moe.gov.sg/)**
 *   **[iExams 2](https://iexams.seab.gov.sg/)**
 *   **[HR Online](http://intranet.moe.gov.sg/hr_online/)**
 *   **[Transforming Education through Technology Masterplan 2030](https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/default.aspx)**
@@ -24,3 +23,7 @@ variant: markdown
 * **[OPAL 2.0](https://opal2.moe.edu.sg/)**
 * **[FormSG](https://form.gov.sg/#!/)**
 * **[Teacher Growth Model](https://go.gov.sg/tgm)**
+* **[MIMS Portal](https://mims.moe.gov.sg/)**
+* **[All Ears Form Builder](https://forms.moe.edu.sg/)**
+* **[FormSG](https://form.gov.sg/#!/)**
+* **[SC Mobile & FlexiLink](https://scmobile.moe.edu.sg/login)**

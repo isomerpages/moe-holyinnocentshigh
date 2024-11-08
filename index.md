@@ -12,7 +12,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Useful Links for Teachers
+        - title: Useful Links
           description: Click here
           url: /usefullinkforstaff/
         - title: MOE Financial Assistance Scheme (FAS)

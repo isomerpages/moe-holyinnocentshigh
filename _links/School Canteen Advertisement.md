@@ -24,28 +24,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fusion Food Stall - Rice (Halal) <strong><u>OR</u></strong>
-</p>
-<p>Fusion Food Stall - Rice (Non-Halal)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31<sup>st</sup> December 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese/ Korean Food are acceptable</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food Stall (Halal) <strong><u>OR</u></strong>
-</p>
-<p>Western Food Stall (Non-Halal)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31<sup>st</sup> December 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil</p>
+<p></p>
 </td>
 </tr>
 </tbody>

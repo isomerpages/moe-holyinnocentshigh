@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Currently no stalls are available</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

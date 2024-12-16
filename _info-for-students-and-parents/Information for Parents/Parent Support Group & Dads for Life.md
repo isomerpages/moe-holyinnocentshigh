@@ -26,10 +26,10 @@ To engage parents in partnership with HIHS to nurture students holistically.
 
 | Organizational Structure |
 |---|
-| Chairperson: Ms Bernadette Ngiam|
-| Vice Chairperson: Mr Chng Hak Dee  &amp; Ms Jaslynn Sim |
-| Secretary: Ms Irene Tan|
-| Treasurer: Ms Jacqueline Ee |
+| Chairperson: Mr Chng Hak Dee|
+| Vice Chairperson: Ms Jaslynn Sim |
+| Secretary: Ms Anna Wu|
+| Treasurer: Ms Pauline Chen |
 |
 
 **Connect with us at our [PSG Facebook](https://www.facebook.com/HIPSG) page!**

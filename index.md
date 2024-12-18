@@ -22,12 +22,12 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
-      title: HIHS Open House 2024
+      title: HIHS Sec 1 Registration 2025
       id: infopic
-      description: Join us at Holy Innocents' High School Open House 2024!
+      description: Registration Details for Sec 1 2025
       button: click here to read more
-      url: /links/hihs-open-house-2024/
-      image: /images/Sch_Website_Banner_6.jpg
+      url: https://sites.google.com/moe.edu.sg/hihs-sec1reg-dec2024/home
+      image: /images/Sec_1_Registration_2025_Cohort___Pop_up_Banner.jpg
       alt: HIHS Open House 2024
       subtitle: Discover our campus!
   - infopic:

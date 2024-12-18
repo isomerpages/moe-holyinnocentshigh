@@ -52,10 +52,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Keng Hwee</p>
+<p>Mr Dennis Teo Han Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_keng_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_keng_hwee@schools.gov.sg</a>
+<p><a href="mailto:chia_keng_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dennis_teo@schools.gov.sg</a>
 </p>
 </td>
 </tr>

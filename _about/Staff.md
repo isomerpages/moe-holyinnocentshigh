@@ -76,10 +76,10 @@ variant: tiptap
 <p>HOD/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chee Kiang Lawrence</p>
+<p>Mr Damien Joash Poon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_chee_kiang_lawrence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chee_kiang_lawrence@moe.edu.sg</a>
+<p><a href="mailto:koh_chee_kiang_lawrence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damien_joash_poon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -209,10 +209,10 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Kum Weng Daniel</p>
+<p>Ms Khoo Xiang Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kum_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kum_weng@moe.edu.sg</a>
+<p><a href="mailto:lau_kum_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiang_yun_khoo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ variant: tiptap
 <p>SH/ ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Xiang Yun</p>
+<p>Ms Li Jianmin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_xiang_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_xiang_yun@moe.edu.sg</a>
@@ -365,10 +365,10 @@ variant: tiptap
 <p>SH/ Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Boon Chong Jeffrey</p>
+<p>Mr Taranpal Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_b_c_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_b_c_jeffrey@moe.edu.sg</a>
+<p><a href="mailto:tay_b_c_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taranpal_singh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -377,22 +377,10 @@ variant: tiptap
 <p>SH/ Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woo Wei Shan</p>
+<p>Mr Mohamed Farhan Bin Abdul Latiff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_wei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT/ Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Renuka Krishnah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:renuka_thankak_krishnah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renuka_thankak_krishnah@moe.edu.sg</a>
+<p><a href="mailto:woo_wei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_farhan_abdul_latiff@moe.edu.sg</a>
 </p>
 </td>
 </tr>

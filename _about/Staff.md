@@ -254,6 +254,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Jia Ren Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_jia_ren_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_jia_ren_jeremy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Jian Wei Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_jian_wen_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jian_wen_alvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH/ Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,7 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ Physical Education</p>
+<p>SH/ PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Taranpal Singh</p>
@@ -375,6 +399,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>SH/ Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Woo Wei Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:woo_wei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_wei_shan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Farhan Bin Abdul Latiff</p>
@@ -393,18 +429,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seng_wei_jian_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_wei_jian_justin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Gek Cheng Anna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_gek_cheng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gek_cheng_anna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -463,7 +487,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gladys Seow Yi Ling</p>
-<p></p>
 <p>Ms Tan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -479,7 +502,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Jolene Koh Shi Yue</p>
-<p></p>
 <p>Mr Lai Mun Guan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -944,6 +966,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_jiexin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_jiexin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Gek Cheng Anna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_gek_cheng_anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gek_cheng_anna@moe.edu.sg</a>
 </p>
 </td>
 </tr>

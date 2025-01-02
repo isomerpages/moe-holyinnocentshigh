@@ -52,6 +52,22 @@ variant: tiptap
 <p>Mr Taranpal Singh</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Intervention and Support Programme (Gear-Up)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Lau (OIC) &amp; Mrs Goh Ai Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Philosophy</strong> 

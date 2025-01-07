@@ -21,4 +21,4 @@ Please refer to the files for more information.
   
 [Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1y-q-SYgvWaPMZO1gayAVpbbojNJq-P7P/view?usp=drive_link)
 
-[DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdmaoptions)  **\*New**
+[DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdma)  **\*New**

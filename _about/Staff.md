@@ -813,7 +813,7 @@ variant: tiptap
 <p>Ms Lim Xuan Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:apollonia_riard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">apollonia_riard@moe.edu.sg</a>
+<p><a href="mailto:soon_apollonia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soon_apollonia@moe.edu.sg</a>
 </p>
 <p><a href="mailto:lim_xuan_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xuan_han@moe.edu.sg</a>
 </p>

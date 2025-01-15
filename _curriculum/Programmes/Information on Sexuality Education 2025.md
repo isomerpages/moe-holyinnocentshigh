@@ -44,8 +44,8 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click&nbsp;<a href="(https://go.gov.sg/moe-sexuality-education)" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
+more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Holy Innocents’ High School’s Sexuality Education Programme for 2025</strong></h4>
 <ol start="4">
 <li>
@@ -53,8 +53,8 @@ information on MOE Sexuality Education.</p>
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
 main themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="(https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
-in the school curriculum.</p>
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a>for more information on the scope of Sexuality Education in the
+school curriculum.</p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:

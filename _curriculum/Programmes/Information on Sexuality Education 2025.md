@@ -139,7 +139,7 @@ desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<h5><strong>At Holy Innocents’ High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong></h5>
+<h5><strong>At Holy Innocents’ High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sex_edu_2024.png">
 </div>

@@ -91,32 +91,45 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_1_2025.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_1.jpg">
-</div>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_1_20252.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_2_2025.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_2_20252.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_2_20253.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_3_2025.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_3_20252.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_4_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_4_2025.jpg">
 </div>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_4_20252.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_4_20253.jpg">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_5_2025.jpg">
 </div>
 <h4><strong>eTeens Programme</strong></h4>
 <ol start="8">

@@ -89,16 +89,13 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </ol>
 <h4><strong>At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 SEXUALITY EDUCATION/sec1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_1_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_1_20252.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_2_2.jpg">

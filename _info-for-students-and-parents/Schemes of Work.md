@@ -11,7 +11,7 @@ variant: markdown
 [Mathematics & POA & EBS](https://drive.google.com/drive/folders/1aTlpSminD8twfGHprr4TBw0oeC_l6c08?usp=drive_link)  
 [Science](https://drive.google.com/drive/folders/1zPPL0Yn3cGSK8vFrBewPWml6aXR-r7cB?usp=sharing)  
 [Craft & Tech & NFS](https://drive.google.com/drive/folders/1ArZb3giE7XSBXM30lJTBwMh-HrZFHDBc?usp=drive_link)  
-[Humanities](https://drive.google.com/drive/folders/1Aun7_hk2BEq4N_Kj5Pf5B9tqVIxthmR-?usp=drive_link)  
+[Humanities](https://drive.google.com/drive/folders/15JvlNGkf66Lsy_n2QPH551xnznekAuJn?usp=drive_link)  
 
 
 _\* – To be uploaded soon_

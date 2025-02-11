@@ -17,8 +17,8 @@ Please refer to the files for more information.
 
 [Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1LKeGVWkAuGzF7nvMqb8c8r0Yix1lnQJB/view?usp=drive_link) 
   
-[NDLP - Briefing for Parents](https://drive.google.com/file/d/1QwvftSHMTIc-p4uBbNt1C2hxziPHZasV/view?usp=drive_link)&nbsp;&nbsp;
+[NDLP - Briefing for Parents](https://drive.google.com/file/d/1LoHqDaqu1s-Rf-IN3c1PMaPkfmMj3_CR/view?usp=drive_link)&nbsp;&nbsp;
   
-[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1bOdtzeZvKiYM1-9nJPCNOu96D_QDjLRE/view?usp=drive_link)
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1h2DbaK_L_x8fGEwPblIINPawpQoVI_2j/view?usp=drive_link)
 
 [DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdma)  **\*New**

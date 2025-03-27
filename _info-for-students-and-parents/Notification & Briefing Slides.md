@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Notification & Briefing Slides**
 
-#### **Year 2024**
+#### **Year 2025**
 
 * [[Sec 2 Streaming Exercise Briefing 2024)]](https://drive.google.com/file/d/1hpMs3n2xAzZRa9lVxYHqM8_HIVqfrI-g/view?usp=sharing) **
 (New)**\*

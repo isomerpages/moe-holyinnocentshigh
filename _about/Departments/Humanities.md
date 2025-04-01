@@ -47,7 +47,7 @@ Students learn about the Singaporean society and how Singapore interacts with th
 | **Lead Teacher  (Geography)** | Mr Yeo Jian Wen Alvin  |
 | **Geography Teachers**  | Ms Zhang Jiexin|
 | **Senior Teacher (History)** | Mr Elamaran Natarajan |
-|  **History Teachers** |Mr Chua Chong Wen Clement (Year Head) <br> Ms Cherlyn Ng<br> Ms Vanessa Hew|
+|  **History Teachers** |Mr Chua Chong Wen Clement (Year Head) <br> Ms Li Jianmin (SH/ICT) <br>Ms Cherlyn Ng<br> Ms Vanessa Hew<br> Mr Kenneth Peh|
 |   **Senior Teacher (Social Studies)** | Ms Liang Meiyi |
 |  **Social Studies Teachers** | Ms Perng Jia Wei<br>Ms Cherlyn Ng|
 |

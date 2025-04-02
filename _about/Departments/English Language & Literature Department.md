@@ -3,7 +3,7 @@ title: English Language & Literature Department
 permalink: /about/departments/english-language-and-literature-departmente/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>English Language &amp; Literature Department</strong></h3>
 <h4><strong>Mission</strong></h4>
@@ -75,9 +75,9 @@ and navigate the roles they may embody in the future.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Damien Poon (HOD, CCE)</p>
-<p>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)</p>
-<p>Ms Siti Aisyah (Subject Head, Student Well-Being)
+<p>Mr Damien Poon (HOD, CCE)
+<br>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)
+<br>Ms Siti Aisyah (Subject Head, Student Well-Being)
 <br>Ms Lynn Quan (Subject Head, CCE)
 <br>Ms Agnes Chin
 <br>Mr Jeremy Khoo

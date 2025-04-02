@@ -15,6 +15,7 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 | | |
 |---|---|
 | **Head of Department** | Ms Kwa Yi Ru Grace |
+| **SH (Aesthetics)** | Ms Chen Xin Yi |
 | **Music Unit** | Mrs Geraldine Tay (ST/ Music) <br>Ms Agnes Chin<br>Ms Gladys Seow Yi Ling |
 | **Design and Technology Unit** | Mr Gary Tan (Year Head, Upper Sec)<br> Ms Chen Xinyi |
 | **Art Unit** | Mr Abdul Hadi Wahib (ST/ Art)<br>Ms Jeslyn Lee |

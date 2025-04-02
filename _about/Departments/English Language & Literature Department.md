@@ -75,8 +75,8 @@ and navigate the roles they may embody in the future.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Damien Poon (HOD,CCE)</p>
-<p>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)
+<p>Mr Damien Poon (HOD, CCE)
+<br>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)
 <br>Ms Siti Aisyah (Subject Head, Student Well-Being)
 <br>Ms Lynn Quan (Subject Head, CCE)
 <br>Ms Agnes Chin
@@ -87,8 +87,8 @@ and navigate the roles they may embody in the future.</p>
 <br>Mrs Susanne Ng
 <br>Ms Vanessa Hew
 <br>Ms Nicole Wong
-<br>Mr Quek Bu Feng</p>
-<p>Mdm Aiyavoo Sugumari</p>
+<br>Mr Quek Bu Feng
+<br>Mdm Aiyavoo Sugumari</p>
 </td>
 </tr>
 <tr>

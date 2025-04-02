@@ -66,7 +66,7 @@ and navigate the roles they may embody in the future.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Tan (Sec 2 EL Coordinator)</p>
+<p>Mrs Esther Tan</p>
 </td>
 </tr>
 <tr>
@@ -75,23 +75,20 @@ and navigate the roles they may embody in the future.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Damien Poon (HOD,CCE)</p>
 <p>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)
 <br>Ms Siti Aisyah (Subject Head, Student Well-Being)
 <br>Ms Lynn Quan (Subject Head, CCE)
 <br>Ms Agnes Chin
-<br>Ms Gwendolynn Chrissie Tan
-<br>Mr Jeremy Khoo (Sec 2 Lit Coordinator)
+<br>Mr Jeremy Khoo
 <br>Ms Lim Lay Yong
-<br>Ms Lee Wan Jing Melodie (Sec 3 EL Coordinator)
+<br>Ms Lee Wan Jing Melodie
 <br>Ms Perng Jiawei
-<br>Mrs Susanne Ng (Sec 1 EL Coordinator)
-<br>Ms Vanessa Hew (Sec 1 Lit Coordinator)
-<br>Ms Violet Ng I-Ling (Sec 4 EL Coordinator)
-<br>Ms Yvonne Teo
+<br>Mrs Susanne Ng
+<br>Ms Vanessa Hew
 <br>Ms Nicole Wong
-<br>Mr Jeffrey Chua
-<br>Ms Natalie Soong
-<br>Ms Apollonia Riard</p>
+<br>Mr Quek Bu Feng</p>
+<p>Mdm Aiyavoo Sugumari</p>
 </td>
 </tr>
 <tr>

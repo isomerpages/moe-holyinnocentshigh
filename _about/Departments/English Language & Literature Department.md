@@ -87,8 +87,8 @@ and navigate the roles they may embody in the future.</p>
 <br>Mrs Susanne Ng
 <br>Ms Vanessa Hew
 <br>Ms Nicole Wong
-<br>Mr Quek Bu Feng</p>
-<p>Mdm Aiyavoo Sugumari</p>
+<br>Mr Quek Bu Feng
+<br>Mdm Aiyavoo Sugumari</p>
 </td>
 </tr>
 <tr>

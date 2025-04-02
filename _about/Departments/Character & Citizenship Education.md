@@ -96,7 +96,7 @@ global economy and to lead meaningful and productive lives in continual
 service towards God and society, notably by having a moral and good work
 ethic, and performing to the best of one’s ability. HIHS seeks to nurture
 students who can make decisions guided by school values.</p>
-<p>The HIHS ECG curriculum include sharing sessions by industry practitioners
+<p>The HIHS ECG curriculum includes sharing sessions by industry practitioners
 and post-secondary educational institutions; work experiences/attachments
 with industry partners; learning journeys to various industries, ECG MOE
 and school-based lessons, and counselling.</p>
@@ -106,14 +106,13 @@ and school-based lessons, and counselling.</p>
 <p><strong>Exploring career options @ Lifelong learning insitute</strong>
 </p>
 <h4><strong>Cyberwellness</strong></h4>
-<p>The Cyberwellness programmes aims to guide students in taking responsibility
+<p>The Cyberwellness programmes aims to guide students to take responsibility
 for their own well-being in cyberspace. The three principles, ‘Respect
 for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’
-when adhered to will help our students in cyberspace as they will then
-be able to make careful and well-considered decisions. The HIHS continual
-emphasis is on making decisions guided by the school values.</p>
-<p>The Cyberwellness curriculum include lessons and learning experiences
-including roadshows and assembly programmes on cyber well-being, Cyberwellness
+when adhered to will help our students to make careful and well-considered
+decisions in cyberspace.</p>
+<p>The Cyberwellness curriculum includes lessons and learning experiences,
+such as: roadshows and assembly programmes on cyber well-being, a Cyberwellness
 advocacy movement by students, and customised training to equip our students
 with the necessary skills to adopt healthy cyber habits.</p>
 <p><strong>Cyberwellness Advocacy</strong>
@@ -125,12 +124,14 @@ with the necessary skills to adopt healthy cyber habits.</p>
 <img style="width:85%" height="auto" width="100%" src="/images/cce4.jpg">
 </div>
 <h4><strong>National Education</strong></h4>
-<p>National Education plays an important role in the school’s overall CCE
-efforts. Besides commemorating the four NE events, students have the opportunity
-to learn about various cultures and religions through learning journeys,
-assembly programmes, and customised activities held as part of the formal
-CCE curriculum. In the process, they also deepen their understanding of
-the role they play as active citizens in Singapore.</p>
+<p>NE plays an important role in developing students' understanding of Singapore
+and their national identity. Besides commemorating the four NE events (Total
+Defence Day, International Friendship Day, Racial Harmony Day, and National
+Day), students have opportunities to learn about various cultures and religions
+through learning journeys, assembly programmes, and customised activities
+held as part of the regular CCE curriculum. In the process, they will also
+have the chance to deepen their understanding of their role as active citizens
+in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce%205.jpg">
 </div>

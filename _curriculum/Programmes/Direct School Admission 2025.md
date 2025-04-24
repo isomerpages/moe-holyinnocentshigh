@@ -5,4 +5,5 @@ description: ""
 third_nav_title: Programmes
 variant: tiptap
 ---
-Click [**here**](https://sites.google.com/hihs.edu.sg/hihs-dsa/) for Direct School Admission 2023
+<p>Click <strong><a href="https://sites.google.com/hihs.edu.sg/hihs-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+Direct School Admission 2025</p>

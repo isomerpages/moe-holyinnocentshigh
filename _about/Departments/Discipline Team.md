@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3 Level Discipline Mistress (LDM)</p>
+<p>Secondary 3 Level Discipline Master (LDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Seng Chuan</p>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4 and 5 Level Discipline Mistress (LDM)</p>
+<p>Secondary 4 and 5 Level Discipline Master (LDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Taranpal Singh</p>

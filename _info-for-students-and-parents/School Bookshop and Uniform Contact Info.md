@@ -135,8 +135,7 @@ an appointment.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>For Dates in 2025</strong>
-</p>
+<p>Date in School</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time

@@ -146,8 +146,7 @@ an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 January 2025 and 3 January 2025</strong>
-</p>
+<p>2 January 2025 and 3 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:45 PM to 2:45 PM</p>
@@ -155,8 +154,7 @@ an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>16 January 2025</strong>
-</p>
+<p>16 January 2025</p>
 </td>
 <td rowspan="6" colspan="1">
 <p></p>
@@ -168,32 +166,35 @@ an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13 February 2025 and 27 February 2025</strong>
-</p>
+<p>13 February 2025 and 27 February 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13 March 2025 and 27 March 2025</strong>
-</p>
+<p>13 March 2025 and 27 March 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10 April 2025 and 24 April 2025</strong>
-</p>
+<p>10 April 2025 and 24 April 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>14 August 2025 and 28 August 2025</strong>
-</p>
+<p>14 August 2025 and 28 August 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 September 2025 and 25 September 2025</strong>
-</p>
+<p>4 September 2025 and 25 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

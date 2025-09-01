@@ -3,6 +3,7 @@ title: EAGLES & ECHA
 permalink: /info-for-students-and-parents/Rewards-and-Recognition/eagles-n-echa/
 description: ""
 third_nav_title: Rewards & Recognition
+variant: markdown
 ---
 ### **EAGLES & ECHA**
 
@@ -32,8 +33,8 @@ The award is given to 2% of the school population (Singapore Citizens only). ECH
 
 **Criteria for ECHA**
 
-The student must satisfy ALL of the following:
+The student must have a:
 
-*   Singapore citizen
-*   Excellent conduct grade
-*   Nominated for ‘Student of the Month’ award
+*   Singapore Citizenship
+*   Conduct grade of ‘Excellent’
+*   Nomination by staff / peers

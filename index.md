@@ -31,13 +31,14 @@ sections:
       alt: HIHS Open House 2024
       subtitle: Discover our campus!
   - infopic:
-      title: President's Award for Teachers 2025
+      title: Caring Teacher Awards 2026
       subtitle: Nomination is Now Open!
       id: infopic
-      description: "Closing Date: 10 Jan 2025"
+      description: "Nomination is now open!  Caring Teacher Awards 2026 Closing Date:
+        31 Dec 2025"
       button: click here to read more
-      url: https://go.gov.sg/pat2025
-      image: /images/PAT2024.jpg
+      url: https://go.gov.sg/hihs-cta2026
+      image: /images/6E3D4164_76EC_41A3_B39E_F8C6F2045BD3_.png
       alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award

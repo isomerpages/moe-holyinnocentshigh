@@ -34,7 +34,7 @@ sections:
       title: Caring Teacher Awards 2026
       subtitle: Nomination is Now Open!
       id: infopic
-      description: "Nomination is now open! Caring Teacher Awards 2026 Closing Date:
+      description: "Nomination is now open!  Caring Teacher Awards 2026 Closing Date:
         31 Dec 2025"
       button: click here to read more
       url: https://go.gov.sg/hihs-cta2026

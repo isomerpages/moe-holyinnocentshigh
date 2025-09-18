@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mrs Chew-Ng Pek Yum Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edusg</a>
+<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Ms Carol Ann Martin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edusg</a>
+<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Ms Ong Lee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edusg</a>
+<p><a href="mailto:HIHS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hihs@moe.edu.sg</a>
 </p>
 </td>
 </tr>

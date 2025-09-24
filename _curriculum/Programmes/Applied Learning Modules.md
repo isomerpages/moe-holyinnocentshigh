@@ -65,17 +65,9 @@ or opportunities</p>
 <img style="width: 100%" height="auto" width="100%" alt="ApLM" src="/images/8FC9A4EF_44DB_4415_B0DC_30E836803053_.png">
 </div>
 <h4><strong>Examples of ApLM @ ITE</strong>:</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>Beauty Artistry</p>
-</li>
-<li>
 <p>Digital Modelling for Architecture</p>
-</li>
-<li>
 <p>Introduction to Restaurant Services</p>
-</li>
-</ul>
 <h4>Learning from the lecturers in Fun with Electronics @ ITE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">
@@ -115,12 +107,12 @@ or opportunities</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Conducting a Laboratory Experiment" src="/images/F27FF577_A178_4857_BB4E_E9006B2E61D0_.png">
 </div>
-<h4><strong><u>The school also engages private vendors to run ApLM for students.</u></strong></h4>
-<h4>Aeronautical Engineering Presentation @ School</h4>
+<h3><strong><u>The school also engages private vendors to run ApLM for students.</u></strong></h3>
+<h4>Aeronautical Engineering Presentation @ Schools</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Presentation @ School" src="/images/Applied learning Modules/APLM_Image_6_png.jpg">
 </div>
-<h4>Aeronautical Engineering Showcase @ School</h4>
+<h4>Aeronautical Engineering Showcase @ Schools</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Aeronautical Engineering Showcase @ School" src="/images/Applied learning Modules/APLM_Image_7_png.jpg">
 </div>
@@ -147,6 +139,10 @@ or opportunities</p>
 <h4>Fundamentals of Sports Business @ Schools</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fundamentals of Sports Business" src="/images/0862A821_E7B3_48EB_BA05_9509D8D068F3_.png">
+</div>
+<h4>Wire Art Workshop @ Schools</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wire Art Workshop" src="/images/91BD7905_758B_413A_B94E_183D79264B0A_.png">
 </div>
 <p>Please contact <a href="muhammad_shahrom_asmani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Shahrom</a> if
 you are interested in signing up for any of these exciting Applied Learning

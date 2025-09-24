@@ -30,7 +30,7 @@ and study habits. They will also receive Education and Career Guidance
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students go through hands-on activities as part of their Education and Career Guidance" src="/images/517B10AA_E596_45C7_AF41_8AB362ACC848_.png">
 </div>
-<h4><strong>Sec 1 to 3 </strong></h4>
+<h4><strong>Sec 1 to 3</strong></h4>
 <p>Identified Sec 1 to 3 students are given additional support for core subjects
 (EL, Math and Science) via bite-sized sessions to help these students to
 cope with their academic learning. Students in LSP work closely with teacher-coaches,

@@ -74,7 +74,7 @@ or opportunities</p>
 </div>
 <h4>Having Fun with Electronics @ ITE</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Having Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_3_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Having Fun with Electronics" src="/images/Picture2.jpg">
 </div>
 <h4><strong>Examples of ApLM @ Polytechnics</strong>:</h4>
 <ul data-tight="true" class="tight">
@@ -93,11 +93,11 @@ or opportunities</p>
 </ul>
 <h4>Introduction to Data Analytics Lecture @ Polythenic</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Introduction to Data Analytics Lecture @ Poly" src="/images/Applied learning Modules/APLM_Image_4_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Introduction to Data Analytics Lecture" src="/images/Picture3.jpg">
 </div>
 <h4>Working on a Data Analytics project @ Polythenic</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Working on a Data Analytics project @ Polythenic" src="/images/Applied learning Modules/APLM_Image_5_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Working on a Data Analytics" src="/images/Picture4.jpg">
 </div>
 <h4>Chemistry in Action Lecture @ Polythenic</h4>
 <div class="isomer-image-wrapper">
@@ -105,7 +105,7 @@ or opportunities</p>
 </div>
 <h4>Conducting a Laboratory Experiment @ Polythenic</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Conducting a Laboratory Experiment" src="/images/F27FF577_A178_4857_BB4E_E9006B2E61D0_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Conducting a Laboratory Experiment" src="/images/Picture5.jpg">
 </div>
 <h3><strong><u>The school also engages private vendors to run ApLM for students.</u></strong></h3>
 <h4>Aeronautical Engineering Presentation @ Schools</h4>
@@ -130,11 +130,11 @@ or opportunities</p>
 </div>
 <h4>Product Design Showcase @ Schools</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Percussion Showcase" src="/images/5AD16C2C_0C19_417F_AD97_233F1E5E023B_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Product Design Showcase" src="/images/Picture6.jpg">
 </div>
 <h4>Percussion Showcase @ Schools</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Product Design Showcase" src="/images/7F75A90D_81CA_45C3_865B_AF929E815E84_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Percussion Showcase" src="/images/5AD16C2C_0C19_417F_AD97_233F1E5E023B_.png">
 </div>
 <h4>Fundamentals of Sports Business @ Schools</h4>
 <div class="isomer-image-wrapper">

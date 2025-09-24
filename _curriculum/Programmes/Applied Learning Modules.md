@@ -65,9 +65,17 @@ or opportunities</p>
 <img style="width: 100%" height="auto" width="100%" alt="ApLM" src="/images/8FC9A4EF_44DB_4415_B0DC_30E836803053_.png">
 </div>
 <h4><strong>Examples of ApLM @ ITE</strong>:</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Beauty Artistry</p>
+</li>
+<li>
 <p>Digital Modelling for Architecture</p>
+</li>
+<li>
 <p>Introduction to Restaurant Services</p>
+</li>
+</ul>
 <h4>Learning from the lecturers in Fun with Electronics @ ITE</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning from the lecturers in Fun with Electronics @ ITE" src="/images/Applied learning Modules/APLM_Image_2_png.jpg">

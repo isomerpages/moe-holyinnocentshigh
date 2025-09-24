@@ -151,6 +151,3 @@ or opportunities</p>
 <p>Please contact <a href="muhammad_shahrom_asmani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Shahrom</a> if
 you are interested in signing up for any of these exciting Applied Learning
 Modules.</p>
-<h4></h4>
-<h4></h4>
-<p></p>

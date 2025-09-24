@@ -144,6 +144,5 @@ or opportunities</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wire Art Workshop" src="/images/91BD7905_758B_413A_B94E_183D79264B0A_.png">
 </div>
-<p>Please contact <a href="muhammad_shahrom_asmani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Shahrom</a> if
-you are interested in signing up for any of these exciting Applied Learning
-Modules.</p>
+<p>Please contact Mr Shahrom if you are interested in signing up for any
+of these exciting Applied Learning Modules.</p>

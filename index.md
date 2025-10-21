@@ -26,7 +26,7 @@ sections:
       subtitle: JOIN US!!!
       id: infopic
       description: Stay tuned for more updates!
-      image: /images/HIHS_openhouse_2025_compressed.jpg
+      image: /images/Open House/HIHS_openhouse_2025_compressed.jpg
       alt: HIHS OPEN HOUSE 2025
       url: /links/hihs-open-house-2025/
   - infopic:

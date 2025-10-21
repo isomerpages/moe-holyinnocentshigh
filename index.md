@@ -22,13 +22,21 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
+      title: HIHS OPEN HOUSE 2025
+      subtitle: JOIN US!!!
+      id: infopic
+      description: Stay tuned for more updates!
+      image: /images/Open House/HIHS_openhouse_2025_compressed.jpg
+      alt: HIHS OPEN HOUSE 2025
+      url: /links/hihs-open-house-2025/
+  - infopic:
       title: HIHS Sec 1 Registration 2025
       id: infopic
       description: Registration Details for Sec 1 2025
       button: click here to read more
       url: https://sites.google.com/moe.edu.sg/hihs-sec1reg-dec2024/home
       image: /images/Sec_1_Registration_2025_Cohort___Pop_up_Banner.jpg
-      alt: HIHS Open House 2024
+      alt: Sec 1 2025
       subtitle: Discover our campus!
   - infopic:
       title: Caring Teacher Awards 2026
@@ -37,7 +45,7 @@ sections:
       description: "Closing Date: 31 Dec 2025"
       button: click here to read more
       url: https://go.gov.sg/hihs-cta2026
-      image: /images/6E3D4164_76EC_41A3_B39E_F8C6F2045BD3_.png
+      image: /images/Front Page/6E3D4164_76EC_41A3_B39E_F8C6F2045BD3_.png
       alt: Image alt text
   - infopic:
       title: LLP

@@ -28,6 +28,7 @@ sections:
       description: Stay tuned for more updates!
       image: /images/HIHS_openhouse_2025_compressed.jpg
       alt: HIHS OPEN HOUSE 2025
+      url: /links/hihs-open-house-2025/
   - infopic:
       title: HIHS Sec 1 Registration 2025
       id: infopic

@@ -15,8 +15,6 @@ links:
         url: /about/honour-roll/
       - title: School Management Committee
         url: /about/school-management-committee/
-      - title: Departments
-        url: /about/departments/english-language-and-literature-departmente/
       - title: Partners
         url: /about/partners/
       - title: Staff
@@ -26,6 +24,8 @@ links:
   - title: Curriculum
     url: /curriculum/programmes/dsa/
     sublinks:
+      - title: Departments
+        url: /curriculum/departments/english-language-and-literature-departmente/
       - title: Programmes
         url: /curriculum/programmes/dsa/
       - title: Co-Curricular Activities

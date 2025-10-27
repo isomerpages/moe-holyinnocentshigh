@@ -2,6 +2,17 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/Character & Citizenship Education.md
+      - Departments/SEN & Counselling.md
+      - Departments/Craft & Technology and Aesthetics.md
+      - Departments/Discipline Team.md
+      - Departments/Physical Education & Holistic Health Department.md
+      - Departments/Humanities.md
+      - Departments/Science.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue.md
+      - Departments/English Language & Literature Department.md
+      - Departments/.keep
       - Programmes/Direct School Admission 2025.md
       - Programmes/LLP The Good Samaritan Project.md
       - Programmes/ALP Journalism & Broadcasting.md

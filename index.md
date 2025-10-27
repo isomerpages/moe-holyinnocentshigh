@@ -30,14 +30,14 @@ sections:
       alt: HIHS OPEN HOUSE 2025
       url: /links/hihs-open-house-2025/
   - infopic:
-      title: HIHS Sec 1 Registration 2025
+      title: Mr Abdul Hadi President’s Award for Teachers (PAT) 2025
       id: infopic
-      description: Registration Details for Sec 1 2025
-      button: click here to read more
-      url: https://sites.google.com/moe.edu.sg/hihs-sec1reg-dec2024/home
-      image: /images/Sec_1_Registration_2025_Cohort___Pop_up_Banner.jpg
-      alt: Sec 1 2025
-      subtitle: Discover our campus!
+      description: "Credits:  Ministry of Education, Singapore"
+      button: Click here to play the video.
+      url: https://drive.google.com/file/d/1Kb5i2jMXoDHc8BrS-Y_NytKGUsrPcH0d/view?usp=drive_link
+      image: /images/192CAA57_A38F_443A_9D69_258ECE830208_.png
+      alt: Mr Abdul Hadi
+      subtitle: Celebrating our HIHS educator
   - infopic:
       title: Caring Teacher Awards 2026
       subtitle: Nomination is Now Open!

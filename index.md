@@ -30,7 +30,7 @@ sections:
       alt: HIHS OPEN HOUSE 2025
       url: /links/hihs-open-house-2025/
   - infopic:
-      title: Mr Abdul Hadi President’s Award for Teachers (PAT) 2025
+      title: Mr Abdul Hadi President’s Award for Teachers 2025
       id: infopic
       description: "Credits:  Ministry of Education, Singapore"
       button: Click here to play the video.

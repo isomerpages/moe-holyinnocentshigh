@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/Mother Tongue.md
       - Departments/English Language & Literature Department.md
       - Departments/.keep
       - Programmes/Direct School Admission 2025.md

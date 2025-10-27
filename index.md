@@ -35,7 +35,7 @@ sections:
       description: "Credits:  Ministry of Education, Singapore"
       button: Click here to play the video.
       url: https://drive.google.com/file/d/1Kb5i2jMXoDHc8BrS-Y_NytKGUsrPcH0d/view?usp=drive_link
-      image: /images/192CAA57_A38F_443A_9D69_258ECE830208_.png
+      image: /images/Front Page/192CAA57_A38F_443A_9D69_258ECE830208_.png
       alt: Mr Abdul Hadi
       subtitle: Celebrating our HIHS educator
   - infopic:

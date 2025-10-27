@@ -1,8 +1,10 @@
 logo: /images/sch logo.jpg
 links:
   - title: About
-    url: /about/principals-message/
+    url: /about/partners/
     sublinks:
+      - title: Partners
+        url: /about/partners/
       - title: Principal's Message
         url: /about/principals-message/
       - title: History
@@ -15,8 +17,6 @@ links:
         url: /about/honour-roll/
       - title: School Management Committee
         url: /about/school-management-committee/
-      - title: Partners
-        url: /about/partners/
       - title: Staff
         url: /about/staff/
       - title: Info for Students & Parents

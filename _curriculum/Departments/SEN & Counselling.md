@@ -1,6 +1,6 @@
 ---
 title: SEN & Counselling
-permalink: /about/departments/sen-counselling/
+permalink: /curriculum/departments/sen-counselling/
 description: ""
 third_nav_title: Departments
 variant: tiptap

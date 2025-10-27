@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature Department
-permalink: /about/departments/english-language-and-literature-departmente/
+permalink: /curriculum/departments/english-language-and-literature-departmente/
 description: ""
 third_nav_title: Departments
 variant: tiptap

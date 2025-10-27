@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /about/departments/cce/
+permalink: /curriculum/departments/cce/
 description: ""
 third_nav_title: Departments
 variant: tiptap

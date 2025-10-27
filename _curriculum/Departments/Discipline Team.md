@@ -1,6 +1,6 @@
 ---
 title: Discipline Team
-permalink: /about/departments/discipline-team/
+permalink: /curriculum/departments/discipline-team/
 description: ""
 third_nav_title: Departments
 variant: tiptap

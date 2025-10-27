@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /about/departments/humanities/
+permalink: /curriculum/departments/humanities/
 description: ""
 third_nav_title: Departments
 variant: markdown

@@ -36,7 +36,7 @@ sections:
       button: Click here to play the video.
       url: https://drive.google.com/file/d/1Kb5i2jMXoDHc8BrS-Y_NytKGUsrPcH0d/view?usp=drive_link
       image: /images/192CAA57_A38F_443A_9D69_258ECE830208_.png
-      alt: Sec 1 2025
+      alt: Mr Abdul Hadi
       subtitle: Celebrating our HIHS educator
   - infopic:
       title: Caring Teacher Awards 2026

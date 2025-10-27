@@ -24,10 +24,10 @@ links:
   - title: Curriculum
     url: /curriculum/programmes/dsa/
     sublinks:
-      - title: Departments
-        url: /curriculum/departments/cce/
       - title: Programmes
         url: /curriculum/programmes/dsa/
+      - title: Departments
+        url: /curriculum/departments/cce/
       - title: Co-Curricular Activities
         url: /curriculum/cca/
       - title: Leap 2.0

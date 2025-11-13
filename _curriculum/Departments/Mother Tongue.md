@@ -95,9 +95,7 @@ language.&nbsp;</p>
 <br>Ms Siti Salmeah
 <br>Mr Rohaizat Bin Ramlee</p>
 <p>Mdm Nuruljannah</p>
-<p>Mdm Ernie Binte Abdul Rahman
-<br>
-</p>
+<p>Mdm Ernie Binte Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -110,55 +108,92 @@ language.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Programmes / Projects / Competitions in 2024</strong></h4>
-<ul data-tight="true" class="tight">
+<h4><strong>Our Signature Programmes and Key Highlights</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>Applied Learning Programme-Journalism and Broadcasting (J&amp;B)</p>
+<p>&nbsp;Applied Learning Programme (ALP) - Journalism and Broadcasting&nbsp;</p>
 </li>
 <li>
-<p>J&amp;B Project Work-making of introductory video clips, radio drama,
-vlogs, comic drawing, news report writing.</p>
+<p>Mother Tongue Languages Fortnight Programme&nbsp;</p>
 </li>
 <li>
-<p>CL Reading Programme</p>
+<p>Chinese New Year Celebrations&nbsp;</p>
 </li>
 <li>
-<p>Mother Tongue Fortnight Cultural Activities</p>
+<p>Hari Raya Celebrative Activities&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Chinese New Year Celebrative Activities</p>
+<p>Upper Secondary Theatre Experience&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Hari Raya Celebrative Activities</p>
+<p><em>Lianhe Zaobao</em> Correspondents&nbsp;&nbsp;</p>
 </li>
-<li>
-<p>“2020, Fight Against COVID-19” National Chinese Writing Competition (Consolation
-Prize)</p>
-</li>
-<li>
-<p>Chinese Challenge 2020 (Entered into Quarter finals)</p>
-</li>
-<li>
-<p>Create Your Own Newspaper Competition (Lower Sec. Merit Award)</p>
-</li>
-<li>
-<p>Lianhe Zaobao Correspondents (Certificate of Achievement)</p>
-</li>
-</ul>
-<h4><strong>Chinese New Year 2020</strong></h4>
+</ol>
+<h4><strong>Mother Tongue Languages Fortnight Programme</strong>&nbsp;</h4>
+<p>Our annual Mother Tongue Languages (MTL) Fortnight celebrates the rich
+linguistic and cultural diversity of our community. Through a series of
+immersive and hands-on experiences, students deepen their appreciation
+for their Mother Tongue languages and cultures while building confidence
+in using the language in authentic contexts.&nbsp;</p>
+<p>During the two-week celebration, students participate in a variety of
+cultural and language-related activities, such as traditional art and craft
+sessions, language games, and the popular MTL Singing Competition. Secondary
+One students also engage in creative projects such as round fan painting
+and tie-dye, where they explore traditional art forms while expressing
+their individuality.&nbsp;</p>
+<p>Students further experience the vibrancy of different cultures through
+interactive booths, food tastings, and festive highlights such as the Hari
+Raya mini carnival. These activities provide opportunities for students
+to appreciate the beauty of each culture, from ketupat weaving and traditional
+attire displays to multicultural performances.&nbsp;</p>
+<p>Through these authentic experiences, the MTL Fortnight aims to foster
+in our students a deeper love for their Mother Tongue languages, strengthen
+their cultural identity, and nurture a spirit of inclusivity and respect
+in our multilingual society.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother%20tongue%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_5.jpg">
+</div>
+<p></p>
+<p><strong>Cultural Performance Exposure (Theatre Experience)</strong>&nbsp;</p>
+<p>Each year, our Secondary 3 students have the opportunity to attend professional
+Chinese cultural performances through the <em>Cultural Performance Exposure Scheme (CPES)</em> (“文化随意门”计划).
+This programme aims to enhance students’ interest in the Chinese language
+and deepen their appreciation of Chinese culture by providing authentic
+experiences in public performing arts venues.&nbsp;</p>
+<p>In recent years, our students have enjoyed engaging performances such
+as <em>crosstalk (相声)</em>, which not only showcase the beauty and wit of
+the language but also allow students to experience the vibrancy of traditional
+Chinese performing arts in an authentic setting.&nbsp;</p>
+<p>Through these immersive experiences, students gain a richer understanding
+of the language’s expressive power and cultural depth, fostering both linguistic
+confidence and a lifelong appreciation for the arts.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>"Script It Right" Chinese Radio Drama Scriptwriting Workshop and Competition&nbsp;</strong>&nbsp;</p>
+<p>"Script It Right" is an annual Chinese radio drama scriptwriting competition
+and workshop, jointly organized by the Committee to Promote Chinese Language
+Learning (CPCLL), Singapore Press Holdings' Chinese radio station UFM100.3,
+and Holy Innocents' High School. The event is open to students from secondary
+schools, high schools, junior colleges, and polytechnics across Singapore
+and aims to promote the Chinese language through creative writing and storytelling.
+The program includes scriptwriting workshops to hone students' skills and
+a competition to recognize outstanding scripts, which are often broadcast
+on UFM100.3.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother%20tongue%202.jpg">
-</div>
-<h4><strong>MTL Fortnight 2020</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother%20tongue%203.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mother%20tongue%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dept_7.jpg">
 </div>
 <p></p>

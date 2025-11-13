@@ -13,9 +13,9 @@ Please refer to the files for more information.
 
 [Student Device Information Kit](https://drive.google.com/file/d/1ojFp_xdtasjXfEQlAwtFfMCa9890vzZ1/view?usp=sharing)  
   
-[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1hxKEl0iYWxRcR3771TWKmPM8wn_pT4FN/view?usp=drive_link) 
+[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1WA2SmMQRsMAxzC48jImQ42ldHHnqw-Os/view?usp=drive_link) **\*New**
 
-[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1LKeGVWkAuGzF7nvMqb8c8r0Yix1lnQJB/view?usp=drive_link) 
+[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1ddmEhepd-Akhwtw90_HLziUrrFMHcmv2/view?usp=drive_link) **\*New**
   
 [NDLP - Briefing for Parents](https://drive.google.com/file/d/1LoHqDaqu1s-Rf-IN3c1PMaPkfmMj3_CR/view?usp=drive_link)&nbsp;&nbsp;
   

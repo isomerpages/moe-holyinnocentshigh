@@ -49,57 +49,33 @@ Art forms and media covered:
 ![](/images/Art_dept_3.png)
 
 
-
-#### **Upper Secondary Art Programme**
-
-* Acrylic Painting
-* Pencil / Colour Pencil Sketching
-* Digital Art
-* Ceramics
-* Study of Visual Art (SOVA)
-* Enrichment Workshops
-
-![](/images/art%202.jpg)
-
 ##### **Music Programme:**
 
-The Music Programme aims to develop among our students an awareness of and appreciation for music of various cultures, the role of music in daily living and develop ability for creative expression. Through music making, students develop music appreciation and understanding through direct experiences in listening, creating and performing music.
+In Lower Secondary Music, students develop their understanding and appreciation of music through listening, creating, and performing. They explore music from diverse cultures and genres, learning how music conveys ideas and emotions across time and place. Through singing, playing instruments, and composing with both traditional and digital tools, students build creativity, confidence, and collaboration skills. Authentic experiences—such as exposure to live performances under the Performing Arts-Based Learning (PABL)&nbsp;programme—help deepen their understanding of Singapore’s rich musical heritage and global music traditions. The&nbsp;programme&nbsp;aims to nurture expressive, reflective learners who enjoy music as a lifelong pursuit.
 
-##### **Lower Secondary Music Programme**
+![](/images/Music_Dept_1.png)
 
-* Music Elements (Melody, Rhythm, Tempo, Structure, Timbre, Texture and Dynamics)
-* Rhythmic Notation
-* Music Concepts
-* Digital Music Production
-* Playing of Percussion Instruments
-* Pop Music Influence: various historical influence, artistes, bands, genre &amp; style
-* Playing of the Guitar
+![](/images/Music_Dept_2.png)
 
-<img src="/images/art%203.jpg" style="width:45%">
+The Upper Secondary Music programme engages students in listening, performing, and composing experiences to develop musical understanding, creativity, and critical thinking. Through the exploration of diverse genres and traditions, students gain deeper insight into local and global musical cultures. The curriculum builds upon foundational skills from Lower Secondary Music and seeks to cultivate independent, reflective, and innovative learners who value music as an essential aspect of human experience. In doing so, it nurtures a lifelong appreciation for the arts and contributes to the enrichment of Singapore’s cultural heritage.
 
-
-##### **Upper Secondary ‘O’ Level Music Programme**
-
-‘O’ Level Music Programme is a 2 year course, starting at Secondary 3 and ending with the ‘O’ Level examinations. Students engage in Music Studies as well as develop skills in Music Performance and Music Writing. The programme gives them opportunities for them to develop and follow their musical inclinations and helps them to understand and appreciate the cultural diversity of music.
-
-<img src="/images/art%204.jpg" style="width:45%">
-
+![](/images/Music_Dept_3.png)
 
 ##### **Design &amp; Technology Programme:**
 
-The Design and Technology programme aims to develop design-thinking among our students and develop an appreciation of design in everyday life as well as uses of technology (Electronics, Mechanisms and Structures) in products. They learn drawing and sketching skills to enable them to communicate their ideas and thoughts about design effectively. Through engaging in the design process, pupils learn to solve authentic problems and develop resilience, confidence and problem-solving skills.
+The Design and Technology nurtures&nbsp;design thinkers&nbsp;who appreciate the role of design and technology in everyday life. Through exploring&nbsp;Electronics, Mechanisms and Structures, students learn how products are designed to meet human needs. They develop skills in&nbsp;drawing, sketching and visual communication&nbsp;to express their ideas effectively, and through the&nbsp;design process, build&nbsp;creativity, confidence, and problem-solving skills.&nbsp;
 
-##### **Lower Secondary Design and Technology Programme:**
+The lower secondary programme focuses on&nbsp;design appreciation&nbsp;and hands-on learning. Students acquire basic design and technology skills and learn to work confidently with&nbsp;tools, machinery and various materials&nbsp;such as wood, metal and plastics. These experiences help them translate design ideas into tangible products and develop practical skills applicable to daily life.&nbsp;
 
-Lower secondary programme focuses on design appreciation. Students are introduced to basic design skills as well as uses of technology (Electronics, Mechanisms, and Structures) in products and how they are used to meet our everyday needs. They are also taught basic skills in the handling of tools and simple machinery work with the different resistant materials (woods, metals, plastics) to allow them to realise their product designs. The lower secondary programme provides students with practical skills, creativity, and confidence that they can apply in their everyday lives. Through the lower secondary programme's emphasis on design appreciation, students gain essential skills in basic design and technology. They learn to work with tools and machinery confidently, to successfully bring their product designs to life.
+Building on their foundational learning, students at upper secondary levels deepen their understanding of the&nbsp;design process—from research and ideation to realisation—and apply knowledge in&nbsp;Electronics, Mechanisms and Structures&nbsp;to create innovative solutions. They enhance their&nbsp;sketching and rendering&nbsp;skills and are introduced to&nbsp;ICT tools&nbsp;such as 3D CAD modelling and electronic circuit simulators, gaining valuable hands-on experience for future pursuits.
 
-![](/images/art%205.jpg)
+![](/images/CT_Dept_1.png)
 
-##### **Upper Secondary Design and Technology Programme:**
+![](/images/CT_Dept_2.jpg)
 
-Upper secondary programme builds on student's foundational studies in the lower secondary programme. Students are also taught in-depth about the design process (Research, Design opportunities, Ideation, Realisation) and technology (Electronics, Mechanisms, and Structures). Students are taught drawing, sketching, and rendering skills to help them express their ideas and thoughts about design. Students are also exposed to ICT tools like 3D CAD modelling and Electronic Circuit Simulators. The upper secondary programme is a continuation of students' foundational studies in the lower secondary program. Students learn to apply the design process - including research, ideation, and realization to identify and solve authentic problems. They also learn about technology, such as electronics, mechanisms, and structures and how they can be applied into their design solutions. Additionally, students hone their drawing, sketching, and rendering skills, allowing them to better communicate their ideas and thoughts about design. With exposure to ICT tools, such as 3D CAD modelling and electronic circuit simulators, students gain practical experience and hands-on knowledge that will serve them well in the future.
+![](/images/CT_Dept_3.jpg)
 
-<img src="/images/art%206.jpg" style="width:35%">
+![](/images/CT_Dept_4.jpg)
 
 ##### **Nutrition &amp; Food Science Programme:**
 

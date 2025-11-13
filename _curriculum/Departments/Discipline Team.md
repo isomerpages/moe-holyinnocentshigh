@@ -22,31 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 Level Discipline Master (LDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Viviana Lee &amp; Mr Chan Jie Yong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2 Level Discipline Master (LDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kenneth Peh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3 Level Discipline Master (LDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Seng Chuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 and 5 Level Discipline Master (LDM)</p>
+<p>Lower Secondary Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Taranpal Singh</p>
@@ -54,10 +30,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Intervention and Support Programme (Gear-Up)</p>
+<p>Secondary 1 Level Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Lau (OIC) &amp; Mrs Goh Ai Lee</p>
+<p>Mr Chan Jie Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2 Level Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kenneth Peh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 Level Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Seng Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4 and 5 Level Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Viviana Lee</p>
 </td>
 </tr>
 <tr>
@@ -70,67 +70,36 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Philosophy</strong> 
-<br>In Holy Innocents' High School, our <strong>Identity,Relationships</strong> and <strong>Choices</strong> are
-shaped by our values and closely guided by the <strong>Good Samaritan ethos.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:%" height="auto" width="100%" src="/images/discipline4.jpg">
-</div>
-<p><strong>Identity</strong> 
-<br>Together with others in our school and the wider community, I believe
-we can become our best selves and contribute to a greater good as a HI
-Good Samaritan.
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Be <strong>respectful</strong> to others.</p>
-</li>
-<li>
-<p><strong>Conduct</strong> ourselves with <strong>integrity</strong> and <strong>humility</strong>
-</p>
-</li>
-<li>
-<p>Everyone is <strong>unique</strong> and we can be <strong>purposeful &amp; resilient</strong> in
-our lives and work towards our goals and dreams.</p>
-</li>
-</ul>
-<p><strong>Relationships</strong> 
-<br>Let the relationships that I build be meaningful and filled with empathy
-&amp; positivity. May i learn to build trust and be human-centred at work
-and play.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>a. Let me be guided by <strong>respect</strong> and <strong>love</strong> and <strong>take responsibility for my own words and actions</strong> in
-both online and offline.</p>
-</li>
-<li>
-<p>b. Let us give one another the time and space to develop at our own pace.</p>
-</li>
-<li>
-<p>c. May I learn to be <strong>inclusive of others</strong> and recognize
-&amp; celebrate exemplary behaviour.</p>
-</li>
-</ul>
-<p><strong>Choices</strong> 
-<br>I have the power to make responsible choices, I can choose to respond
-with humility, integrity, respect and love in my daily interactions with
-others. In doing so, I will learn and grow into a HI Good Samaritan.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>a. I choose to strike a healthy balance between work and play as I discover
-about myself and my goals.</p>
-</li>
-<li>
-<p>b. I choose to use <strong>kind words</strong> as I speak so that I build
-a more inclusive and positive environment.</p>
-</li>
-<li>
-<p>c. In any given situation, I have a choice to exercise <strong>moral courage,</strong> guided
-by <strong>truth, justice</strong> and <strong>integrity.</strong>
-</p>
-</li>
-</ul>
+<p><strong><u>Positive School Environment</u></strong>&nbsp;</p>
+<p>At Holy Innocents’ High School (HIHS), we foster a positive, caring and
+inclusive school environment anchored in the Good Samaritan ethos. Guided
+by this belief, we nurture students who exemplify compassion, empathy,
+and care for the well-being of others. Through a strong culture of care
+and positive peer support, every student is equipped with the skills to
+support their peers through lessons and their lived experiences in school.&nbsp;</p>
+<p><strong>Peer Support Leaders: Nurturing a Culture of Care</strong>&nbsp;</p>
+<p>With the courage to lead and compassion to serve, our Peer Support Leaders
+(PSLs) play a vital role in leading and shaping a safe and inclusive school
+culture. They lead student well-being initiatives and advocate for positive
+relationships among peers, embodying the school’s Good Samaritan ethos.&nbsp;</p>
+<p>PSLs strengthen the HIHS identity and students’ sense of belonging through
+cohort experiences such as Secondary 1 Orientation programme and student-led
+Character &amp; Citizenship Education (CCE) lessons. They also promote
+well-being and cyber wellness through regular morning assembly sharings
+and student-led leadership training sessions focusing on promoting positive
+peer support.&nbsp;</p>
+<p>In their advocacy for inclusivity, PSLs organise the school’s annual <em>B.E. Inclusive Day (Build Empathy and Inclusive Day)</em> and
+partner with external organisations, including a 2024 school-wide presentation
+at Holy Innocents’ Primary School in conjunction with The Purple Parade
+movement which aims to support inclusion and celebrate abilities of persons
+with disabilities.&nbsp;</p>
+<p>Beyond the school, PSLs serve the wider community through outreach programmes
+such as <em>Christus Natus Est</em> (2023), bringing Christmas festive joy
+to children from neighbouring schools — a school initiative that will continue
+in 2025. They also champion family values as Family Champions (FamChamps)
+by planning upcoming family service projects in 2026 to strengthen bonds
+within and beyond the school.&nbsp;</p>
+<p>Through these collective efforts, every student feels safe, respected,
+valued, and supported in their growth.&nbsp;</p>
 <h1>School Rules</h1>
 <p>Please refer to the school rules and consequences <a href="https://drive.google.com/file/d/10YzqIPunbICWaR0WSZUF1nJiWjIMwDyt/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

@@ -16,25 +16,39 @@ Art Unit, Music Unit, Design and Technology Unit and Nutrition and Food Science 
 |---|---|
 | **Head of Department** | Ms Kwa Yi Ru Grace |
 | **SH (Aesthetics)** | Ms Chen Xin Yi |
-| **Music Unit** | Mrs Geraldine Tay (ST/ Music) <br>Ms Agnes Chin<br>Ms Gladys Seow Yi Ling |
+| **Music Unit** | Mrs Geraldine Tay (ST/ Music) <br>Ms Agnes Chin |
 | **Design and Technology Unit** | Mr Gary Tan (Year Head, Upper Sec)<br> Ms Chen Xinyi |
 | **Art Unit** | Mr Abdul Hadi Wahib (ST/ Art)<br>Ms Jeslyn Lee |
-|  **Nutrition &amp; food Science Unit** |  Mrs Haymini Segar <br>Ms Bernice Pan <br> Ms Ernie Abd Rahman |
+|  **Nutrition &amp; food Science Unit** |  Mrs Haymini Segar <br>Ms Ernie Abd Rahman |
 |  **Support Staff** | Mr Sim Beng Hwa <br> Mr Ng Khoon Huat |
 
 
 #### **Programmes**
 ##### **Art Programme:**
-The Art programme aims to stimulate the love and appreciation of art among our pupils. Through positive learning experiences in art, students develop visual literacy and learn to express their ideas and feelings through their artworks. Through the Art making process, pupils develop their critical and creative thinking and achieve a sense of self-confidence and achievement which equips them to better understand and engage with the world they live in.
- 
-##### **Lower Secondary Art Programme**
- 
-* Drawing
-* Application of Colours
-* Print Making
-* Study of Visual Arts (SOVA)
+The Art programme nurtures students' creative dispositions - including curiosity, openness, and reflectiveness - through engagement with diverse art forms, materials, and techniques. Learning is framed around broad and relevant themes that connect art to students' personal experiences and the world around them, making art meaningful and relatable. The curriculum also develops students' ability to communicate and express ideas confidently through visual language while building their personal portfolios. Through art-making, discussion, and appreciation, students deepen their understanding of identity, culture, and their place in society.
 
-![](/images/art%201.jpg)
+Big Ideas:
+1.    Art helps us to see in new ways
+2.   Art tells stories about our world
+3.   Art influences how we live
+
+Art forms and media covered:
+* Drawing, colouring, doodling
+* Mixed Media (2D, 3D collage)&nbsp;&nbsp;
+* Painting
+* Printmaking
+* Design&nbsp;
+* Photography &amp; Digital Imaging
+* Video &amp; Time-Based Media&nbsp;
+* Sculpture &amp; 3-D Art Forms
+ 
+![](/images/Art_dept_1.png)
+
+![](/images/Art_dept_2.png)
+
+![](/images/Art_dept_3.png)
+
+
 
 #### **Upper Secondary Art Programme**
 

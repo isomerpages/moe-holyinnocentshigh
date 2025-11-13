@@ -65,6 +65,7 @@ optimise potential &amp; pursue productive and meaningful life.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Su Min Brenda</p>
+<p>Mr Sng Ren Guang Aaron</p>
 </td>
 </tr>
 <tr>

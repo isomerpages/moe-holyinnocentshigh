@@ -104,15 +104,46 @@ our students to connect meaningfully with others and the world around them.&nbsp
 <p></p>
 <p><strong>English Language Week</strong>&nbsp;</p>
 <p></p>
-<p><strong>Secondary 3 Literature students performing during our annual English Week concert in 2019</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/EL_Dept_1.jpg">
 </div>
-<p><strong>Even the English and Literature department joined in on the fun, dressing up as various literary characters!</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Dept_2.jpg">
 </div>
-<p><strong>There were also exciting quizzes and activities, which students enjoyed taking part in during English Week 2019! <br>Photos by: Cherlyn Chua (4 Cou), Johnson Chong (3 Lov)</strong>
-</p>
+<p>Our annual English Language Week celebrates the joy and power of words.
+Through a range of language-related activities, students explore their
+individual strengths and gain confidence in expressing themselves.&nbsp;</p>
+<p>Our English Language Week Highlights include the SingLit Workshops, where
+students experiment with creative expression through songwriting, storytelling,
+film writing, and literary design. Another popular highlight is our Human
+Library, an interactive experience where students “borrow” real people
+as living books to hear personal stories from professionals across various
+fields such as doctors, lawyers, architects, and reporters. The Orator’s
+Challenge and Spelling Bee also provide platforms for students to sharpen
+their public speaking and spelling skills while building confidence and
+teamwork.&nbsp;</p>
+<p>These experiences encourage students to communicate with purpose, think
+critically, and appreciate the beauty of language in its many forms.&nbsp;</p>
+<p><strong>Lower Secondary Literature Theatre Experience</strong>&nbsp;
+<br>To extend learning beyond the classroom, our lower secondary students
+attend professional theatre performances aligned with their Literature
+texts. Recent productions such as <em>Perfecting Pratas</em> and <em>The Boy in the Striped Pyjamas</em> allowed
+students to see the texts come alive, deepening their appreciation of character,
+theme, and writer’s style while fostering a love for the performing arts.&nbsp;</p>
+<p><strong>YMCA Plain English Speaking Awards (PESA)</strong>&nbsp;
+<br>The YMCA Plain English Speaking Awards (PESA), organised by the YMCA of
+Singapore in partnership with the Ministry of Education and the Speak Good
+English Movement, provides our students with a platform to develop their
+public speaking skills. The competition promotes public speaking in Plain
+English as an essential life skill, giving students the opportunity to
+sharpen their speaking abilities, build confidence, and learn by observing
+proficient speakers. Through PESA, our students refine their ability to
+convey clear, sincere, and convincing messages, which is an important hallmark
+of effective communication.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Dept_3.jpg">
+</div>
+<p></p>
+<p></p>

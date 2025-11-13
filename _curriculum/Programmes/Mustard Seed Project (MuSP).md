@@ -37,4 +37,5 @@ collaboration.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mustard_Seed_4.jpg">
 </div>
-<p></p>
+<p>MuSP empowers HIHS students to see the world differently, think critically
+across disciplines, and act with courage and compassion.&nbsp;</p>

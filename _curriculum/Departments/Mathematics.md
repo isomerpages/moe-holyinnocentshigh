@@ -102,7 +102,6 @@ how to close these gaps towards mastery of Mathematics.</p>
 <br>Mr Muhammad Shahrom Asmani (SH/ Education Support)
 <br>Mr Clifford Chua Poh Teck (ST/ Mathematics)
 <br>Mr Lin Weiding
-<br>Mrs Lo Sock Kui
 <br>Mrs Cindy Ong
 <br>Ms Shahidah Rahmat
 <br>Mr Nalpon Walter
@@ -122,7 +121,7 @@ how to close these gaps towards mastery of Mathematics.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Programmes / Projects / Competitions in 2024</strong></h4>
+<h4><strong>Programmes / Projects / Competitions in 2025</strong></h4>
 <p>1. Bridging programme for selected Secondary 1 and Secondary 2 students
 <br>2. Enrichment Programme for Lower Secondary students
 <br>3. Math Competition [Eg. Singapore Math Olympiad (SASMO) and All Singapore

@@ -52,7 +52,7 @@ Students learn about the Singaporean society and how Singapore interacts with th
 |  **Social Studies Teachers** | Ms Perng Jia Wei<br>Ms Cherlyn Ng|
 |
 
-#### **Programmes / Projects / Competitions in 2025**
+#### **Humanities Lived Experiences**
 
 1. Geographical Investigation
 2. NUS Geography Challenge

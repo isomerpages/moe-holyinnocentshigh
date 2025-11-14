@@ -217,46 +217,74 @@ hands-on experience for future pursuits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CT_Dept_4.jpg">
 </div>
-<h5><strong>Nutrition &amp; Food Science Programme:</strong></h5>
-<p>The Nutrition &amp; Food Science programme aims to develop among our students
-the relevant life skills to independently navigate the wealth of information
-available to them to make informed choices for everyday living and develop
-in them positive attitudes that will empower them to make informed food
-and consumer choices in their daily life. Our pupils are taught many vital
-skills which challenge their creativity and given opportunities to make
-informed choices</p>
-<h5><strong>Lower Secondary-Food and Consumer Education Programme:</strong></h5>
-<p>Lower secondary programme focuses on building pupils knowledge of learn
-basic principles of consumer education to manage resources and understand
-consumer rights, as well as responsibilities and equip pupils with the
-knowledge about diet and health, so that they can be more discerning in
-choosing nutritious food for good health and be informed of the benefits
-of a balanced meal.</p>
+<h5><strong>Nutrition &amp; Food Science (NFS) Programme</strong></h5>
+<p>At Holy Innocents’ High School, the Nutrition and Food Science (NFS) and
+Food &amp; Consumer Education (FCE) programmes equip students with essential
+knowledge and practical skills in food, nutrition, and healthy living.
+Students learn to select ingredients, plan balanced meals, and prepare
+nutritious dishes, fostering independence and responsibility for lifelong
+well-being.&nbsp;</p>
+<p>Students also apply learning through hands-on cooking, experiments, and
+real-world tasks. By understanding the science behind food preparation,
+they develop critical thinking and problem-solving skills that prepare
+them for future challenges.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/art%207.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/art%208.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_2.png">
 </div>
-<p>
+<p><em>Nasi Lemak Burger and Oats Egg Custard — Fusion creations by our HIHS students</em>&nbsp;
 <br>
+<br><strong>Promoting Consumer Awareness</strong>&nbsp;</p>
+<p>Students learn to read nutrition labels, evaluate product claims, and
+understand food safety. They also explore issues such as processed foods,
+sustainable consumption, and ethical sourcing. These experiences help them
+become discerning consumers who make wise, health-conscious decisions.&nbsp;</p>
+<p>&nbsp;<strong>Developing Capability in Food Sustainability</strong>&nbsp;</p>
+<p>Through practical lessons and creative projects—such as reusing food scraps
+in new recipes—students learn to minimize food waste and make environmentally
+responsible choices. These activities highlight the link between science,
+sustainability, and daily food practices.&nbsp;</p>
+<p><strong>Promoting Food Innovation through Food Science</strong>&nbsp;</p>
+<p>Students are introduced to food product development and explore how scientific
+experimentation can create healthier and more sustainable food options.
+Learning journeys to industry partners like You Tiao Man and At-Sunrice
+GlobalChef Academy expose them to real-world innovation and career pathways
+in the food industry.&nbsp;
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_4.png">
+</div>
+<p><em>Our Secondary 3 students at You Tiao Man and Sunrice GlobalChef Academy</em>&nbsp;</p>
+<p><strong>Celebrating Creativity through MasterChef and Bake-Off Challenges</strong>&nbsp;</p>
+<p>Competitions such as MasterChef and Bake-Off allow students to design
+and test original recipes. These activities build creativity, teamwork,
+resilience, and confidence while reinforcing food science concepts in an
+engaging way.&nbsp;
 <br>
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_5.png">
+</div>
+<p><em>Cupcake creations from our student bakers</em>&nbsp;</p>
+<p><strong>Alumni and Industry Engagement</strong>&nbsp;</p>
+<p>Alumni and industry partners enrich students’ learning by sharing expertise
+and real-world insights, inspiring interest in food innovation and related
+careers.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_6.png">
+</div>
+<p><em>Alumni sharing session with our students</em>&nbsp;
 <br>
 <br>
 <br>
 <br>
 <br>
 </p>
-<h5><strong>Upper Secondary Food and Nutrition Programme:</strong></h5>
-<p>Building on their knowledge from the lower secondary programme, they are
-also taught in depth on principals of food science, nutritional concepts,
-diet and health issues as well as how to conduct Food Science Experiments.</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/art%209.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/art%2010.jpg">
-</div>
+<h5></h5>
 <p></p>

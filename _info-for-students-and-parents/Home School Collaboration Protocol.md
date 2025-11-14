@@ -2,62 +2,872 @@
 title: Home School Collaboration Protocol
 permalink: /about/Info-for-Students-and-Parents/home-school-collaboration-protocol/
 description: ""
+variant: tiptap
 ---
-### **Home School Collaboration Protocol**
-
-##### **Character Development and Social-Emotional Well-Being**
-
-|      Areas | In School | At home |
-|---|---|---|
-| General<br> Discipline  | Form Teachers (FT) are the key liaison persons with parents. On the first day of school, FT will brief students on the school rules printed in the Student Handbook. The school expects students to abide by school rules at all times, and uphold the image of the school through their attitudes, behaviour and actions. | Parents may read the Student Handbook and ensure their children follow the school rules (especially on attire and personal grooming and the usage of mobile phone or other electronic devices brought to school). |
-| Serious<br> Offences <br>e.g. <br>Cheating/<br>Truancy  | FT or Discipline Teachers (DT) will inform parents if their children are involved in serious offences. <br><br>Depending on the nature of the offences, parents may be asked to meet FT/DT in school to discuss how parents and school can collaborate to adopt measures to help the student learn from the offence. Where necessary, appropriate punishment will be meted out and students sent for counselling. | Parents should work closely with the school to help their children change their undesirable behaviours. Parents should take time and effort to counsel their children, help them process the circumstances of the impact of their actions on self and others through reflection, and encourage them to do the right thing. If their children are suspended, parents should ensure that their children stay at home during the suspension period, and bring their children back to school once the suspension period is over. |
-| Minor <br>Offences<br> e.g.<br> late-coming<br> less than 5 times  | The school and teachers will endeavour to correct misbehaviour by adopting a counselling and restorative approach, encourage students to reflect over what they have not done correctly, and take steps to restore any broken relationships. Consequences may be meted out for minor offences, with possibilities including detention, reflection, apologies, and other appropriate consequences. FT will inform parents on the students’ offences and the consequences. | Parents should work with their children to process the incidents where possible, help their children understand the different perspectives experienced by the various parties involved, and help them understand how their behaviour and actions may have hurt themselves or others in some instances. |
-|Absenteeism | The school will contact parents via phone call or messaging each time the child is absent. When a student returns to school after his/her absence, FT will request for the medical certificate (MC) and/or parent’s letter. Disciplinary actions may be meted out if students are absent without valid reasons.<br><br>&nbsp;A 0 mark will be given for absence in Weighted Assessment (WA) and Semestral Assessment (SA), without official MC.<br><br>&nbsp;While parent’s letters are accepted, except for WA and SA, the school will only accept up to a maximum of 2 letters per semester to explain for a child’s absence. |Parents/Students should inform the school before 7.25 am if they are unable to attend school where possible. If students are unwell, parents are encouraged to bring their children to consult a doctor and request for a MC. MCs must be submitted to the FT immediately when their children return to school. Likewise, other official documents or excuse letters for other valid leave of absence (e.g. demise of relatives) should be submitted to the FT for records. Only letters signed by parents or legal guardians will be accepted.|
-|Late-coming|A message will be sent to the parents each time the child is late for school. The consequences for late-coming are spelt out in the Student Handbook.|Parents may help to ensure that their children wake up and leave home on time so that they are punctual for school. It will be helpful if parents could work with their children to develop the habit of punctuality.<br><br>Parents are strongly encouraged to download the SNAAPP app in their smartphone to monitor their children’s attendance in school, and receive messages from the school.|
-|Counselling|The school has Counsellors and an Allied Educator (Learning and Behavioural Support) to help students with Autistic Spectrum Disorder, Dyslexia, Attention Deficit/Hyperactivity Disorder, specific learning issues, and also assist those who are feeling stressed and/or have unique social-emotional needs.|It will be helpful for parents to inform the school or FT on their children’s conditions/special learning needs, if any, at the beginning of the year. Parents may also discuss with FT and request for their children to see the Allied Educators for social-emotional support when necessary.|
-|Values-In-Action (VIA) Projects|The school will plan VIA projects for students to serve the community meaningfully. All students will be given autonomy to plan VIA projects, under the guidance of FTs. VIA also serves as a platform for students to hone their leadership skills through the Good Samaritan Programme.|Parents may discuss the VIA projects with their children to help them reflect on their learning. Parents may also join the Parent Support Group (PSG) if they wish to take part in VIA projects with their children.|
-|School Camps|The school will organise level camps for Sec 1 to 5 students every year. These camps provide opportunities for bonding between students and teachers. They also inculcate in students important attributes such as resilience and self-discipline, and provide enrichment experiences to help them think and discover their aspirations and interests. Camps are compulsory and are an integral part of the school curriculum to enrich students’ learning experience.<br> <br>Faith formation for the whole school involves imbuing a sense of purpose and personal mission in our students.|Parents should encourage their children to attend the camps, which would help build their character and pick up life skills.<br><br>They may also share with their children any good camping experiences they may have had.|
-|Faith Formation|For Catholic students, faith formation also entails a progressive journey of discipleship to encounter God and to acquire knowledge and understanding of Christ's teaching, ultimately growing to become a witness to Christ when they leave the school. Catholic activities include participation in a non-core CCA, YCS, and level milestone activities which constitute a series of key events for each level for Catholic students to experience and know God during a significant phase in their discipleship journey. Other Catholic activities include daily prayer ministry in the Chapel, and monthly and obligatory masses for all Catholics. Religious and Moral Education lessons for Catholic students, which are aligned to the CCE curriculum, but delivered with suitable Catholic messages, are also conducted throughout the year.<br><br>Spiritual development for the whole school population involves the whole school in activities such as daily morning reflections and afternoon prayers, as well as school events such as Commencement Service on the first day of school, and Thanksgiving Mass at the end of the academic year. Prayers and reflections shared at these platforms provide regular checkpoints to reinforce the school mission and values in our students.|Catholic parents should encourage their children to participate in Catholic activities, and help their children understand the importance and relevance of their faith to their lives.<br><br>Non-Catholic parents could encourage their children to be open to other religions, culture and diversity, while at the same time encouraging their children to become responsible and contributing citizens/members of the country.|
-|Character and Citizenship Education (CCE)|The school inculcates in students, the school values of ‘Humility’, ‘Integrity’, ‘Respect’ and ‘Love’, through CCE lessons. The teachers also conduct lessons on Sexuality Education, Education and Career Guidance (ECG) and Cyber Wellness, to complement the CCE lessons. In addition, students undergo a school-based curriculum focusing on leadership and service development under the school’s Good Samaritan Programme.|Parents may espouse the same set of values at home to help students internalise them. Parents who wish to find out more about the school curriculum for character and citizenship development may refer to the school website or approach the HOD/CCE. Parents could follow up from the modules conducted with their children, and guide them closely in their character development process.|
-|Environmental Education|The school encourages students to care for their environment through CCE lessons and Environment Education programmes. Green messages such as “keeping the environment clean”, “returning the cutlery”, “reduce, reuse and recycle” are constantly reinforced through classroom routines and activities. At the end of each day, students undergo LEAD [Love Your Environment, Always Do Your part], in which they demonstrate responsibility by maintaining cleanliness in their classrooms/school daily.|Parents may assist to role-model and reinforce the same messages at home, by getting your children involved in house chores, and emphasising the importance of being civic-minded individuals.|
-|
-
-##### **Academic Studies**
-
-| Areas | In School: | At Home: |
-|---|---|---|
-| Scheme of Work and Common Tests | The school provides the summarised Scheme of Work (SOW) for all core subjects at the beginning of each semester on the school website. Indicative dates for Weighted Assessments (WA) are also included in the SOW. Subject teachers will inform students the scope and coverage of WA. | Parents may refer to the summarised Scheme of Work of the respective core subjects on the school website to monitor the learning progress of their children and guide them in planning for their revision. When in doubt, parents may contact the subject teachers through the General Office for clarifications.|
-|Homework|The school has put in place a Homework Policy to ensure that an appropriate amount of work is assigned in each subject weekly to help students reinforce their learning in school. Academic departments also have internal guidelines on academic projects. All students are expected to complete the work on time, unless otherwise permitted by subject teachers. Subject teachers will provide feedback to the parents if the students do not complete their homework repeatedly.|Parents may help to guide their children in time management outside school, and work with teachers to ensure that their children complete all the assigned work on time. Parents may contact the subject teachers directly if they have any doubts with regard to the homework questions or deadlines for submission.|
-|Higher Malay<br> Language/Chinese<br> Language B<br> (CLB)/Tamil<br> Language<br> (TL)/Asian (AL) or<br> Foreign Language<br> (FL), Malay Special<br> Programme (MSP)<br> lessons conducted<br> outside school|We will provide students the schedule for Higher Malay Language/Chinese Language B /Tamil Language/Asian or Foreign Language/ Malay Special Programme lessons conducted outside school. These lessons are compulsory. Absence from these lessons requires an official MC or valid documents. <br><br>Disciplinary actions will be meted out if students are absent without valid reasons.<br><br>[Anderson Sec. Sch. (HML)/Compassvale Sec. Sch. (CLB)/Umar Pulavar Tamil Centre/Seng Kang Sec. Sch. (HTL/TL)/MOELC Newton (Asian or Foreign Languages)].| Parents need to monitor their children's attendance and ensure that they keep themselves updated through the school websites or letters to parents for updates, and for assessment information. <br><br>For Asian or Foreign languages, the child is required to make private study arrangement if he/she is not attending lessons at the MOELC.|
-|Remedial lessons,<br> Supplementary<br> Lessons and <br>Consultations|Teachers may conduct remedial lessons to provide additional support and guidance to the weaker students. They may also organise make-up lessons for the whole class, where necessary, to catch up on the lost curriculum time (e.g. due to public holidays, school camps, etc). Arrangements will be made between teachers and students in advance.<br><br>In addition, the school also organises supplementary programmes for the entire level to supplement lessons during normal timetabled curriculum time (e.g. Sec 3 Express Supplementary Programme in Nov holidays), as well as bridging programmes to support specific learning needs for new students offering SBB subjects. The school will alert parents on supplementary and bridging programmes via notification and/or termly letters.<br><br>Remedial, make-up, supplementary and bridging lessons will not be conducted on Saturdays.<br><br>In addition, students may approach teachers for small group consultations if they face difficulties in their work. No notification letters will be issued for these student-initiated consultations.|Remedial, make-up, supplementary and bridging lessons are organised to benefit students. Parents should encourage their children to attend these lessons initiated by teachers. There will not be any makeup lessons if students cannot attend these lessons.<br><br>As such lessons are considered part of the curriculum for students, should these programmes coincide in timing with the children’s activities outside school (such as tuition or other personal activities), parents are encouraged to make alternative arrangements for these personal activities. Parents should inform the teachers in writing (i.e. email the teacher directly or write a letter to be passed to teachers through the children) if alternative arrangements are not possible.|
-|School Holiday <br>Assignments /<br> Projects|Before the start of the school holidays, teachers will inform students on the work that is required and stipulate reasonable deadlines for submission.<br><br>Students who foresee difficulties in completing the assignments due to family matters may approach their teachers to request for extension of submission deadlines.|Parents can help to monitor and ensure that their children complete the holiday assignments on time. It is also recommended that parents allow the children some time to enjoy and relax, as the school holidays also serve as opportunities for the children to recharge before they continue with their learning journey.|
-|Major Examinations|The school will issue notification letters to inform students and parents on the examination schedule each semester. A copy will also be uploaded onto the school website for reference.<br><br>Subject teachers will inform students on the format of the examination papers, as well as outline the subject topics to be tested for each paper, at least 3 weeks before the start of the examination.|Upon receiving the examination schedule, parents should discuss and guide their children in planning their revision schedule. Parents may wish to ensure that their children are taking the examinations seriously, and start their revision as early as possible to avoid extreme levels of anxiety caused by rushing through their revision just before the examinations.|
-|
-
-##### **Physical and Co-Curricular Development**
-
-| Areas | In School: | At Home: |
-|---|---|---|
-|Safety and Security|The school endeavours to provide a safe and secure environment for students to learn and develop in. All students are covered under a basic group insurance policy purchased by the school. Students who are not feeling well can approach the General Office for assistance. The school will also proactively review its safety and security measures regularly.|Parents are advised to follow the school’s advice on road safety. Parents should drop-off their children at designated drop-off areas and exercise caution when driving within and around the school premises. Parents could also remind their children to follow traffic rules and safety instructions given by school staff on the use of specific rooms and conduct of activities. Parents are welcomed to suggest improvements on safety to the school.|
-|Physical Exercise|The school updates our database with the latest outcome of health checks conducted by HPB, and will relay the required information to relevant teachers for follow-up. The school schedules weekly PE lessons for students to engage in physical activities, where they will develop skills in a range of sports. Uniformed groups and sports CCAs also conduct physical training on a regular basis.<br><br>For students with weight management issues, the school has the APPLE programme to help students develop good habits and practices leading to a healthier lifestyle.|Parents should surface medical conditions and issues to the school immediately via form teachers so that the school can follow up accordingly.<br><br>Parents can help to monitor and advise their children on proper dietary and exercise habits. It will be most ideal if parents can role-model and exercise together with their children. For parents whose children are in the APPLE programme, they should encourage their children to attend the programme, and help them develop healthy habits and practices.|
-|Healthy Eating Habits|The school will work with canteen stallholders to implement the guidelines introduced by HPB in the sale of food and drinks. Through Home Economics lessons taught at the Lower Secondary level, students are also taught about nutrition and good eating habits.|Parents may reinforce healthy eating messages by preparing home-cooked food that follows HPB’s “My Healthy Plate” message. If possible, parents should limit their children’s consumption of deep-fried food and unhealthy snacks. In addition, parents may also help to ensure that their children have a proper breakfast before coming to school, especially on days where their children have morning PE lessons.|
-|Lifestyle Choices|Through CCE and Lower Secondary Science lessons, the school advises students to stay away from harmful activities such as smoking, alcohol consumption, substance-abuse, gambling, pre-marital sex, gaming addiction, cyber-bullying etc.|Parents can reinforce and convey the same messages to their children. Consistent and coherent messaging from both home and school will be more effective in deterring the students from engaging in the unhealthy activities.|
-|Co-Curricular Activities (CCA)|The school provides a range of CCA for students to engage in healthy and enriching activities after school. Students are expected to join one CCA. The CCA training schedule and other relevant information are available on the school website.<br><br>The CCA grading/recognition system (LEAPS 2.0), which determines a student’s CCA grades/level of experiences, is printed in the Student Handbook and available on the school website.|Parents are advised to monitor their children’s CCA attendance closely. If their children are unwell, they are advised to see a doctor and submit the medical certificate to the CCA teachers-in-charge when they return to school if necessary. Parents may call the school if they are unsure about the CCA schedule.<br><br>Parent are encouraged to read the Student Handbook be familiar with LEAPS 2.0.|
-|After-School Enrichment Programmes|Other than CCAs, the school also organises outside-of- school enrichment programmes for students. Examples of these programmes include learning journeys, Olympiads, Science Research Programme, level games, Student Leadership programmes etc. The school will issue parent consent letters for official enrichment programmes.<br><br>The school has an After-School Engagement (ASE) programme where students can sign up for after-school activities under the guidance of school staff and a youth worker, in a designated school facility.|As the school enrichment programmes are evaluated by professionals and are considered beneficial for their children’s development, parents are strongly advised to support all school enrichment programmes. Parents can call the respective teachers-in-charge if they have queries regarding the programmes.|
-|
-
-##### **School-Parent Relations**
-
-| Areas | In School: | At Home: |
-|---|---|---|
-|Nature of <br>Parent-Teacher<br>Communication|The school contacts parents when their children<br> 1.fall sick or are injured in school,<br>2.are absent or late from school,<br>3.are involved in disciplinary issues that warrant attention by the discipline committee,<br>4.exhibit unproductive learning behaviours (e.g. consistently not paying attention in class or does not complete homework) or attain below par academic results.<br><br>Staff will contact parents during weekdays on any matters related to the child, during work hours (up till 6 pm). Staff will not respond to parents’ or students’ queries during weekends, unless queries are related to activities or programmes held on the specific weekends. Staff will not contact students late in the evenings. Teachers may respond to emails on the next working day if they cannot access their emails promptly.|For non-urgent matters, parents can email their concerns to the relevant teachers.<br><br>For urgent matters, parents are advised to call the General Office and request to talk to the teachers directly, or leave a message for the teachers to call back. (The General Office operates until 6 pm on Mondays to Fridays. It is not opened on weekends.)<br><br>Parents should advise their children not to communicate with teachers late in the evenings, even if it is related to academic work or co-curricular programme arrangements. Students should be encouraged to plan ahead and schedule appointments or consultations with teachers during office hours.|
-|Contact Information|The school will provide staff email addresses on the school website. The school will not provide personal contact numbers to parents. Parents who would like personal contact numbers of staff should request from the staff directly. Staff has the discretion not to provide personal contact numbers to parents.|Parents are advised to update their contact information with the school during the contact updating exercise on the first week of school in Term 1 and Term 3, or as and when the need arises. Parents should also request their children to provide updated contact information to the school when necessary.|
-|School Website,<br>Instagram and <br>Facebook|The school regularly updates its Facebook page and Instagram to keep parents and students informed of the happenings in the school. Photos of school events are periodically uploaded onto the Facebook. Official information such as timetables, presentation slides, scheme of work and termly letters to parents are available for download from the school website.|Parents are encouraged to check the school Facebook and website regularly to keep them updated of the school events and programmes.|
-|Student Attendance|On every official school day, Form Teachers will mark student attendance using SNAAPP. Parents will be notified if students are absent without valid reason, or are late for school.|Parents are strongly encouraged to download the SNAAPP app in their smartphone to monitor their children’s attendance in school, and receive messages from the school.|
-|Class Timetable|The school uploads all class timetables on the school website at the beginning of each semester for reference.|Parents may print/view their children’s class timetables from the school website to gain a better understanding of their children’s daily learning routines in school. In doing so, parents can also help to inculcate/reinforce the importance of organising learning resources for effective teaching and learning to take place in school, e.g. filing notes systematically and bringing necessary materials for lessons.|
-|Termly Letters<br>to Parents|At the beginning of the year and the end of each Term, the school issues letters to inform parents on news of the school and upcoming events in the following Term. The letters are also available for reference in the school website.|Parents should read the letters to keep themselves informed of the school activities during the year.|
-|Mass Messaging <br> System|The school periodically sends messages to parents and students to inform/remind them of important upcoming activities that require their attention.|Parents may help to remind their children if the messages warrant follow-up action. There is no need to reply to the messages.|
-|Parent-Teacher<br>Meetings and<br>Engagement<br>sessions|The school organises parent-teacher meetings (PTM) and engagement sessions for parents to interact with Form Teachers. The first two PTMs in the year is for parents of selected levels, while subsequent engagement sessions are for identified students.|Parents are strongly encouraged to attend the first PTM to speak with the form teachers and find out their children’s conduct, and academic performance in school. If parents wish to speak with subject teachers, parents should make prior arrangements through a request slip to the school.|
-|Monitoring<br>of Results|The school will issue Report Cards at the end of each Term on the students’ academic and/or co-curricular progress.|Parents may review their children’s academic progress at the end of every term and discuss with their children on future targets and areas for improvements. The report cards also facilitate meaningful discussions between the parents and teachers, especially in identifying potential aspects in which the school and family can work together to help the children improve and achieve in the future.|
-|School Fees and<br>Other Fees|The school will send reminders on behalf of MOE on payment of school fees, and letters on payment for other student-related fees as and when necessary. The school will not refund any payments made if these programmes have to be cancelled due to unforeseen circumstances.<br><br>The school will provide financial assistance to needy students whenever possible, so that no student will be deprived of opportunities because of a lack of funds.|Parents are advised to make prompt payments for school and student-related fees, and to ensure that bank accounts with GIRO facilities have sufficient funds for deduction.<br><br>Parents should approach the Form Teachers or General Office for assistance if they have difficulties making payments for school fees or other fees.|
-|
+<h3><strong>Home School Collaboration Protocol</strong></h3>
+<h5><strong>Character Development and Social-Emotional Well-Being</strong></h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Areas</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>At home</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>General
+<br>Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teachers (FT) are the key liaison persons with parents. On the first
+day of school, FT will brief students on the school rules printed in the
+Student Handbook. The school expects students to abide by school rules
+at all times, and uphold the image of the school through their attitudes,
+behaviour and actions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may read the Student Handbook and ensure their children follow
+the school rules (especially on attire and personal grooming and the usage
+of mobile phone or other electronic devices brought to school).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Serious
+<br>Offences
+<br>e.g.
+<br>Cheating/
+<br>Truancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FT or Discipline Teachers (DT) will inform parents if their children are
+involved in serious offences.
+<br>
+<br>Depending on the nature of the offences, parents may be asked to meet
+FT/DT in school to discuss how parents and school can collaborate to adopt
+measures to help the student learn from the offence. Where necessary, appropriate
+punishment will be meted out and students sent for counselling.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents should work closely with the school to help their children change
+their undesirable behaviours. Parents should take time and effort to counsel
+their children, help them process the circumstances of the impact of their
+actions on self and others through reflection, and encourage them to do
+the right thing. If their children are suspended, parents should ensure
+that their children stay at home during the suspension period, and bring
+their children back to school once the suspension period is over.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minor
+<br>Offences
+<br>e.g.
+<br>late-coming
+<br>less than 5 times</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school and teachers will endeavour to correct misbehaviour by adopting
+a counselling and restorative approach, encourage students to reflect over
+what they have not done correctly, and take steps to restore any broken
+relationships. Consequences may be meted out for minor offences, with possibilities
+including detention, reflection, apologies, and other appropriate consequences.
+FT will inform parents on the students’ offences and the consequences.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents should work with their children to process the incidents where
+possible, help their children understand the different perspectives experienced
+by the various parties involved, and help them understand how their behaviour
+and actions may have hurt themselves or others in some instances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Absenteeism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will contact parents via phone call or messaging each time
+the child is absent. When a student returns to school after his/her absence,
+FT will request for the medical certificate (MC) and/or parent’s letter.
+Disciplinary actions may be meted out if students are absent without valid
+reasons.
+<br>
+<br>&nbsp;A 0 mark will be given for absence in Weighted Assessment (WA) and
+Semestral Assessment (SA), without official MC.
+<br>
+<br>&nbsp;While parent’s letters are accepted, except for WA and SA, the school
+will only accept up to a maximum of 2 letters per semester to explain for
+a child’s absence.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Students should inform the school before 7.25 am if they are unable
+to attend school where possible. If students are unwell, parents are encouraged
+to bring their children to consult a doctor and request for a MC. MCs must
+be submitted to the FT immediately when their children return to school.
+Likewise, other official documents or excuse letters for other valid leave
+of absence (e.g. demise of relatives) should be submitted to the FT for
+records. Only letters signed by parents or legal guardians will be accepted.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late-coming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A message will be sent to the parents each time the child is late for
+school. The consequences for late-coming are spelt out in the Student Handbook.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may help to ensure that their children wake up and leave home
+on time so that they are punctual for school. It will be helpful if parents
+could work with their children to develop the habit of punctuality.
+<br>
+<br>Parents are strongly encouraged to download the SNAAPP app in their smartphone
+to monitor their children’s attendance in school, and receive messages
+from the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Counselling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school has Counsellors and Special Educational Needs Officers to help
+students with Autistic Spectrum Disorder, Dyslexia, Attention Deficit/Hyperactivity
+Disorder, specific learning issues, and also assist those who are feeling
+stressed and/or have unique social-emotional needs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It will be helpful for parents to inform the school or CM on their children’s
+learning, emotional, behavioural or mental wellbeing needs, if any, at
+the beginning of the year. Parents may also discuss with CM and request
+for their children to see the Counsellors or Special Educational Needs
+Officers for social-emotional support when necessary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Values-In-Action (VIA) Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will plan VIA projects for students to serve the community
+meaningfully. All students will be given autonomy to plan VIA projects,
+under the guidance of FTs. VIA also serves as a platform for students to
+hone their leadership skills through the Good Samaritan Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may discuss the VIA projects with their children to help them
+reflect on their learning. Parents may also join the Parent Support Group
+(PSG) if they wish to take part in VIA projects with their children.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Camps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will organise level camps for Sec 1 to 5 students every year.
+These camps provide opportunities for bonding between students and teachers.
+They also inculcate in students important attributes such as resilience
+and self-discipline, and provide enrichment experiences to help them think
+and discover their aspirations and interests. Camps are compulsory and
+are an integral part of the school curriculum to enrich students’ learning
+experience.
+<br>
+<br>Faith formation for the whole school involves imbuing a sense of purpose
+and personal mission in our students.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents should encourage their children to attend the camps, which would
+help build their character and pick up life skills.
+<br>
+<br>They may also share with their children any good camping experiences they
+may have had.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Faith Formation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Catholic students, faith formation also entails a progressive journey
+of discipleship to encounter God and to acquire knowledge and understanding
+of Christ's teaching, ultimately growing to become a witness to Christ
+when they leave the school. Catholic activities include participation in
+a non-core CCA, YCS, and level milestone activities which constitute a
+series of key events for each level for Catholic students to experience
+and know God during a significant phase in their discipleship journey.
+Other Catholic activities include daily prayer ministry in the Chapel,
+and monthly and obligatory masses for all Catholics. Religious and Moral
+Education lessons for Catholic students, which are aligned to the CCE curriculum,
+but delivered with suitable Catholic messages, are also conducted throughout
+the year.
+<br>
+<br>Spiritual development for the whole school population involves the whole
+school in activities such as daily morning reflections and afternoon prayers,
+as well as school events such as Commencement Service on the first day
+of school, and Thanksgiving Mass at the end of the academic year. Prayers
+and reflections shared at these platforms provide regular checkpoints to
+reinforce the school mission and values in our students.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Catholic parents should encourage their children to participate in Catholic
+activities, and help their children understand the importance and relevance
+of their faith to their lives.
+<br>
+<br>Non-Catholic parents could encourage their children to be open to other
+religions, culture and diversity, while at the same time encouraging their
+children to become responsible and contributing citizens/members of the
+country.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character and Citizenship Education (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school inculcates in students, the school values of ‘Humility’, ‘Integrity’,
+‘Respect’ and ‘Love’, through CCE lessons. The teachers also conduct lessons
+on Sexuality Education, Education and Career Guidance (ECG) and Cyber Wellness,
+to complement the CCE lessons. In addition, students undergo a school-based
+curriculum focusing on leadership and service development under the school’s
+Good Samaritan Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may espouse the same set of values at home to help students internalise
+them. Parents who wish to find out more about the school curriculum for
+character and citizenship development may refer to the school website or
+approach the HOD/CCE. Parents could follow up from the modules conducted
+with their children, and guide them closely in their character development
+process.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environmental Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school encourages students to care for their environment through CCE
+lessons and Environment Education programmes. Green messages such as “keeping
+the environment clean”, “returning the cutlery”, “reduce, reuse and recycle”
+are constantly reinforced through classroom routines and activities. At
+the end of each day, students undergo LEAD [Love Your Environment, Always
+Do Your part], in which they demonstrate responsibility by maintaining
+cleanliness in their classrooms/school daily.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may assist to role-model and reinforce the same messages at home,
+by getting your children involved in house chores, and emphasising the
+importance of being civic-minded individuals.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Academic Studies</strong></h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Areas</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In School:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>At Home:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scheme of Work and Common Tests</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school provides the summarised Scheme of Work (SOW) for all core subjects
+at the beginning of each semester on the school website. Indicative dates
+for Weighted Assessments (WA) are also included in the SOW. Subject teachers
+will inform students the scope and coverage of WA.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may refer to the summarised Scheme of Work of the respective core
+subjects on the school website to monitor the learning progress of their
+children and guide them in planning for their revision. When in doubt,
+parents may contact the subject teachers through the General Office for
+clarifications.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Homework</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school has put in place a Homework Policy to ensure that an appropriate
+amount of work is assigned in each subject weekly to help students reinforce
+their learning in school. Academic departments also have internal guidelines
+on academic projects. All students are expected to complete the work on
+time, unless otherwise permitted by subject teachers. Subject teachers
+will provide feedback to the parents if the students do not complete their
+homework repeatedly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may help to guide their children in time management outside school,
+and work with teachers to ensure that their children complete all the assigned
+work on time. Parents may contact the subject teachers directly if they
+have any doubts with regard to the homework questions or deadlines for
+submission.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Malay
+<br>Language/Chinese
+<br>Language B
+<br>(CLB)/Tamil
+<br>Language
+<br>(TL)/Asian (AL) or
+<br>Foreign Language
+<br>(FL), Malay Special
+<br>Programme (MSP)
+<br>lessons conducted
+<br>outside school</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We will provide students the schedule for Higher Malay Language/Chinese
+Language B /Tamil Language/Asian or Foreign Language/ Malay Special Programme
+lessons conducted outside school. These lessons are compulsory. Absence
+from these lessons requires an official MC or valid documents.
+<br>
+<br>Disciplinary actions will be meted out if students are absent without
+valid reasons.
+<br>
+<br>[Anderson Sec. Sch. (HML)/Compassvale Sec. Sch. (CLB)/Umar Pulavar Tamil
+Centre/Seng Kang Sec. Sch. (HTL/TL)/MOELC Newton (Asian or Foreign Languages)].</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents need to monitor their children's attendance and ensure that they
+keep themselves updated through the school websites or letters to parents
+for updates, and for assessment information.
+<br>
+<br>For Asian or Foreign languages, the child is required to make private
+study arrangement if he/she is not attending lessons at the MOELC.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Remedial lessons,
+<br>Supplementary
+<br>Lessons and
+<br>Consultations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers may conduct remedial lessons to provide additional support and
+guidance to the weaker students. They may also organise make-up lessons
+for the whole class, where necessary, to catch up on the lost curriculum
+time (e.g. due to public holidays, school camps, etc). Arrangements will
+be made between teachers and students in advance.
+<br>
+<br>In addition, the school also organises supplementary programmes for the
+entire level to supplement lessons during normal timetabled curriculum
+time (e.g. Sec 3 Express Supplementary Programme in Nov holidays), as well
+as bridging programmes to support specific learning needs for new students
+offering SBB subjects. The school will alert parents on supplementary and
+bridging programmes via notification and/or termly letters.
+<br>
+<br>Remedial, make-up, supplementary and bridging lessons will not be conducted
+on Saturdays.
+<br>
+<br>In addition, students may approach teachers for small group consultations
+if they face difficulties in their work. No notification letters will be
+issued for these student-initiated consultations.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remedial, make-up, supplementary and bridging lessons are organised to
+benefit students. Parents should encourage their children to attend these
+lessons initiated by teachers. There will not be any makeup lessons if
+students cannot attend these lessons.
+<br>
+<br>As such lessons are considered part of the curriculum for students, should
+these programmes coincide in timing with the children’s activities outside
+school (such as tuition or other personal activities), parents are encouraged
+to make alternative arrangements for these personal activities. Parents
+should inform the teachers in writing (i.e. email the teacher directly
+or write a letter to be passed to teachers through the children) if alternative
+arrangements are not possible.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Holiday
+<br>Assignments /
+<br>Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Before the start of the school holidays, teachers will inform students
+on the work that is required and stipulate reasonable deadlines for submission.
+<br>
+<br>Students who foresee difficulties in completing the assignments due to
+family matters may approach their teachers to request for extension of
+submission deadlines.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents can help to monitor and ensure that their children complete the
+holiday assignments on time. It is also recommended that parents allow
+the children some time to enjoy and relax, as the school holidays also
+serve as opportunities for the children to recharge before they continue
+with their learning journey.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Major Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will issue notification letters to inform students and parents
+on the examination schedule each semester. A copy will also be uploaded
+onto the school website for reference.
+<br>
+<br>Subject teachers will inform students on the format of the examination
+papers, as well as outline the subject topics to be tested for each paper,
+at least 3 weeks before the start of the examination.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upon receiving the examination schedule, parents should discuss and guide
+their children in planning their revision schedule. Parents may wish to
+ensure that their children are taking the examinations seriously, and start
+their revision as early as possible to avoid extreme levels of anxiety
+caused by rushing through their revision just before the examinations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Physical and Co-Curricular Development</strong></h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Areas</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In School:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>At Home:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safety and Security</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school endeavours to provide a safe and secure environment for students
+to learn and develop in. All students are covered under a basic group insurance
+policy purchased by the school. Students who are not feeling well can approach
+the General Office for assistance. The school will also proactively review
+its safety and security measures regularly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are advised to follow the school’s advice on road safety. Parents
+should drop-off their children at designated drop-off areas and exercise
+caution when driving within and around the school premises. Parents could
+also remind their children to follow traffic rules and safety instructions
+given by school staff on the use of specific rooms and conduct of activities.
+Parents are welcomed to suggest improvements on safety to the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Exercise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school updates our database with the latest outcome of health checks
+conducted by HPB, and will relay the required information to relevant teachers
+for follow-up. The school schedules weekly PE lessons for students to engage
+in physical activities, where they will develop skills in a range of sports.
+Uniformed groups and sports CCAs also conduct physical training on a regular
+basis.
+<br>
+<br>For students with weight management issues, the school has the APPLE programme
+to help students develop good habits and practices leading to a healthier
+lifestyle.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents should surface medical conditions and issues to the school immediately
+via form teachers so that the school can follow up accordingly.
+<br>
+<br>Parents can help to monitor and advise their children on proper dietary
+and exercise habits. It will be most ideal if parents can role-model and
+exercise together with their children. For parents whose children are in
+the APPLE programme, they should encourage their children to attend the
+programme, and help them develop healthy habits and practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Healthy Eating Habits</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will work with canteen stallholders to implement the guidelines
+introduced by HPB in the sale of food and drinks. Through Home Economics
+lessons taught at the Lower Secondary level, students are also taught about
+nutrition and good eating habits.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may reinforce healthy eating messages by preparing home-cooked
+food that follows HPB’s “My Healthy Plate” message. If possible, parents
+should limit their children’s consumption of deep-fried food and unhealthy
+snacks. In addition, parents may also help to ensure that their children
+have a proper breakfast before coming to school, especially on days where
+their children have morning PE lessons.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lifestyle Choices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through CCE and Lower Secondary Science lessons, the school advises students
+to stay away from harmful activities such as smoking, alcohol consumption,
+substance-abuse, gambling, pre-marital sex, gaming addiction, cyber-bullying
+etc.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents can reinforce and convey the same messages to their children.
+Consistent and coherent messaging from both home and school will be more
+effective in deterring the students from engaging in the unhealthy activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-Curricular Activities (CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school provides a range of CCA for students to engage in healthy and
+enriching activities after school. Students are expected to join one CCA.
+The CCA training schedule and other relevant information are available
+on the school website.
+<br>
+<br>The CCA grading/recognition system (LEAPS 2.0), which determines a student’s
+CCA grades/level of experiences, is printed in the Student Handbook and
+available on the school website.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are advised to monitor their children’s CCA attendance closely.
+If their children are unwell, they are advised to see a doctor and submit
+the medical certificate to the CCA teachers-in-charge when they return
+to school if necessary. Parents may call the school if they are unsure
+about the CCA schedule.
+<br>
+<br>Parent are encouraged to read the Student Handbook be familiar with LEAPS
+2.0.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>After-School Enrichment Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other than CCAs, the school also organises outside-of- school enrichment
+programmes for students. Examples of these programmes include learning
+journeys, Olympiads, Science Research Programme, level games, Student Leadership
+programmes etc. The school will issue parent consent letters for official
+enrichment programmes.
+<br>
+<br>The school has an After-School Engagement (ASE) programme where students
+can sign up for after-school activities under the guidance of school staff
+and a youth worker, in a designated school facility.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the school enrichment programmes are evaluated by professionals and
+are considered beneficial for their children’s development, parents are
+strongly advised to support all school enrichment programmes. Parents can
+call the respective teachers-in-charge if they have queries regarding the
+programmes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>School-Parent Relations</strong></h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Areas</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In School:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>At Home:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nature of
+<br>Parent-Teacher
+<br>Communication</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school contacts parents when their children
+<br>1.fall sick or are injured in school,
+<br>2.are absent or late from school,
+<br>3.are involved in disciplinary issues that warrant attention by the discipline
+committee,
+<br>4.exhibit unproductive learning behaviours (e.g. consistently not paying
+attention in class or does not complete homework) or attain below par academic
+results.
+<br>
+<br>Staff will contact parents during weekdays on any matters related to the
+child, during work hours (up till 6 pm). Staff will not respond to parents’
+or students’ queries during weekends, unless queries are related to activities
+or programmes held on the specific weekends. Staff will not contact students
+late in the evenings. Teachers may respond to emails on the next working
+day if they cannot access their emails promptly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For non-urgent matters, parents can email their concerns to the relevant
+teachers.
+<br>
+<br>For urgent matters, parents are advised to call the General Office and
+request to talk to the teachers directly, or leave a message for the teachers
+to call back. (The General Office operates until 6 pm on Mondays to Fridays.
+It is not opened on weekends.)
+<br>
+<br>Parents should advise their children not to communicate with teachers
+late in the evenings, even if it is related to academic work or co-curricular
+programme arrangements. Students should be encouraged to plan ahead and
+schedule appointments or consultations with teachers during office hours.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will provide staff email addresses on the school website. The
+school will not provide personal contact numbers to parents. Parents who
+would like personal contact numbers of staff should request from the staff
+directly. Staff has the discretion not to provide personal contact numbers
+to parents.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are advised to update their contact information with the school
+during the contact updating exercise on the first week of school in Term
+1 and Term 3, or as and when the need arises. Parents should also request
+their children to provide updated contact information to the school when
+necessary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Website,
+<br>Instagram and
+<br>Facebook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school regularly updates its Facebook page and Instagram to keep parents
+and students informed of the happenings in the school. Photos of school
+events are periodically uploaded onto the Facebook. Official information
+such as timetables, presentation slides, scheme of work and termly letters
+to parents are available for download from the school website.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are encouraged to check the school Facebook and website regularly
+to keep them updated of the school events and programmes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Attendance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On every official school day, Form Teachers will mark student attendance
+using SNAAPP. Parents will be notified if students are absent without valid
+reason, or are late for school.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are strongly encouraged to download the SNAAPP app in their smartphone
+to monitor their children’s attendance in school, and receive messages
+from the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class Timetable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school uploads all class timetables on the school website at the beginning
+of each semester for reference.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may print/view their children’s class timetables from the school
+website to gain a better understanding of their children’s daily learning
+routines in school. In doing so, parents can also help to inculcate/reinforce
+the importance of organising learning resources for effective teaching
+and learning to take place in school, e.g. filing notes systematically
+and bringing necessary materials for lessons.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Termly Letters
+<br>to Parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>At the beginning of the year and the end of each Term, the school issues
+letters to inform parents on news of the school and upcoming events in
+the following Term. The letters are also available for reference in the
+school website.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents should read the letters to keep themselves informed of the school
+activities during the year.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Messaging
+<br>System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school periodically sends messages to parents and students to inform/remind
+them of important upcoming activities that require their attention.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may help to remind their children if the messages warrant follow-up
+action. There is no need to reply to the messages.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent-Teacher
+<br>Meetings and
+<br>Engagement
+<br>sessions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school organises parent-teacher meetings (PTM) and engagement sessions
+for parents to interact with Form Teachers. The first two PTMs in the year
+is for parents of selected levels, while subsequent engagement sessions
+are for identified students.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are strongly encouraged to attend the first PTM to speak with
+the form teachers and find out their children’s conduct, and academic performance
+in school. If parents wish to speak with subject teachers, parents should
+make prior arrangements through a request slip to the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monitoring
+<br>of Results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will issue Report Cards at the end of each Term on the students’
+academic and/or co-curricular progress.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may review their children’s academic progress at the end of every
+term and discuss with their children on future targets and areas for improvements.
+The report cards also facilitate meaningful discussions between the parents
+and teachers, especially in identifying potential aspects in which the
+school and family can work together to help the children improve and achieve
+in the future.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Fees and
+<br>Other Fees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will send reminders on behalf of MOE on payment of school fees,
+and letters on payment for other student-related fees as and when necessary.
+The school will not refund any payments made if these programmes have to
+be cancelled due to unforeseen circumstances.
+<br>
+<br>The school will provide financial assistance to needy students whenever
+possible, so that no student will be deprived of opportunities because
+of a lack of funds.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are advised to make prompt payments for school and student-related
+fees, and to ensure that bank accounts with GIRO facilities have sufficient
+funds for deduction.
+<br>
+<br>Parents should approach the Form Teachers or General Office for assistance
+if they have difficulties making payments for school fees or other fees.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

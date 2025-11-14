@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Programmes/Arts@HIHS.md
       - Programmes/Mustard Seed Project (MuSP).md
       - Programmes/.keep
       - Programmes/Direct School Admission 2025.md

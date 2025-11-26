@@ -25,7 +25,6 @@ sections:
       title: HIHS OPEN HOUSE 2025
       subtitle: JOIN US!!!
       id: infopic
-      description: Stay tuned for more updates!
       image: /images/2025_Open_House_Programme.png
       alt: HIHS OPEN HOUSE 2025
       url: /links/hihs-open-house-2025/

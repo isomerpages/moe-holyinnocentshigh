@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **2026 Book Lists**
 
-click [here]() for more information
+click [here](https://drive.google.com/drive/folders/1KsEnZhff1985iRyRl30BSLMe51uMtEt7?usp=drive_link) for more information

@@ -77,9 +77,9 @@ and Nature.</p>
 <br><strong><u>Physics</u></strong>
 <br>Mr Lai Mun Guan
 <br>Mr Damien Lee Kian Aik
-<br>Mr Chan Shee Wai Desmond (HOD Science)</p>
-<p>Mr Chang Jee Yen (ST Physics)</p>
-<p>Ms Yeong May Kit
+<br>Mr Chan Shee Wai Desmond (HOD Science)
+<br>Mr Chang Jee Yen (ST Physics)
+<br>Ms Yeong May Kit
 <br><strong><u>Laboratory Staff</u></strong>
 <br>Mdm Nawirah Binte Sharrif (Lab Technician)
 <br>Mdm Ho Tze Huey (Lab Technician)</p>

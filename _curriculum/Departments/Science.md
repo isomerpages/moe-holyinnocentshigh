@@ -71,9 +71,9 @@ and Nature.</p>
 <br>Ms Woo Wei Shan (SH/ Science)
 <br>Ms Katherine Hor
 <br>Mrs Sheryl Mok-Koh Yilin (HOD/ SEN)
-<br>Ms Khoo Xiang Yun (School Staff Developer)</p>
-<p>Ms Tay Siew Wei</p>
-<p>Mr Luke Liau
+<br>Ms Khoo Xiang Yun (School Staff Developer)
+<br>Ms Tay Siew Wei
+<br>Mr Luke Liau
 <br><strong><u>Physics</u></strong>
 <br>Mr Lai Mun Guan
 <br>Mr Damien Lee Kian Aik

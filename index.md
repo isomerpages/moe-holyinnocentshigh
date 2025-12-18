@@ -22,12 +22,13 @@ sections:
           description: Click here
           url: https://sites.google.com/hihs.edu.sg/hihs-dsa/
   - infopic:
-      title: HIHS OPEN HOUSE 2025
+      title: HIHS Sec 1 Registration 2026
       subtitle: JOIN US!!!
       id: infopic
-      image: /images/2025_Open_House_Programme.png
-      alt: HIHS OPEN HOUSE 2025
-      url: /links/hihs-open-house-2025/
+      image: /images/Sec_1_Registration_2026_Cohort___Pop_up_Banner.jpg
+      alt: HIHS Sec 1 Registration 2026
+      url: https://sites.google.com/moe.edu.sg/holy-innocents-high-school/home
+      button: Click here for more
   - infopic:
       title: Mr Abdul Hadi President’s Award for Teachers 2025
       id: infopic

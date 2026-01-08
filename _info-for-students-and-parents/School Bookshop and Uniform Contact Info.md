@@ -145,7 +145,7 @@ an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 January and 3 January 2025</p>
+<p>5 and 15 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:45 PM to 2:45 PM</p>
@@ -153,39 +153,34 @@ an appointment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 January 2025</p>
+<p>12 and 26 February 2026</p>
 </td>
-<td rowspan="6" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>2:00 PM to 4:00 PM</p>
+<td rowspan="1" colspan="1">
+<p>12:45 PM to 2:45 PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 February and 27 February 2025</p>
+<p>5 and 26 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:45 PM to 2:45 PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 March and 27 March 2025</p>
+<p>9 and 23 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:45 PM to 2:45 PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 April and 24 April 2025</p>
+<p>6 and 20 August 2026</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>14 August and 28 August 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 September and 25 September 2025</p>
+<p>12:45 PM to 2:45 PM</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +194,6 @@ an appointment.</p>
 </tbody>
 </table>
 <p><strong>Time of sales</strong> 
-<br>Weekday: 2 to 4 pm
 <br>For convenience, you may also like to order online as follow:
 <br>
 </p>

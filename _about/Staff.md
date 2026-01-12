@@ -127,7 +127,7 @@ variant: tiptap
 <p>Mr Tan Hong Yak Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_thiam_kwee_arthur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yak@moe.edu.sg</a>
+<p><a href="mailto:tan_hong_yak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ variant: tiptap
 <p>Mr Low Heok Ling Bernard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_tsi_tang_ian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_heok_ling_bernard@moe.edu.sg</a>
+<p><a href="mailto:low_heok_ling_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_heok_ling_bernard@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Programmes
 variant: tiptap
 ---
-<h3><strong>Information on Sexuality Education in 2025</strong></h3>
+<h3><strong>Information on Sexuality Education in 2026</strong></h3>
 <h4><strong>Moe&nbsp;Sexuality Education in Schools</strong></h4>
 <ol>
 <li>
@@ -46,7 +46,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Holy Innocents’ High School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Holy Innocents’ High School’s Sexuality Education Programme for 2026</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -87,7 +87,8 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<h4><strong>At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
+<h4><strong>At Holy Innocents’ High School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Sec_1_2025.jpg">
 </div>
@@ -149,7 +150,7 @@ desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
 </li>
 </ol>
-<h5><strong>At Holy Innocents’ High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong></h5>
+<h5><strong>At Holy Innocents’ High School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sex_Ed_Parental.jpg">
 </div>

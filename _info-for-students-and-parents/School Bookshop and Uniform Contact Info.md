@@ -136,10 +136,12 @@ an appointment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date in School</p>
+<p><strong>Date in School</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +160,7 @@ an appointment.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Time of sales</strong> 
+<p><strong>Time of sales</strong> 
 <br>For convenience, you may also like to order online as follow:
 <br>
 </p>

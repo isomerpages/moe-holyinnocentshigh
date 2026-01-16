@@ -19,6 +19,6 @@ Please refer to the files for more information.
   
 [NDLP - Briefing for Parents](https://drive.google.com/file/d/143-3VZ5j6HJcIFM9VtpwiEAKO4SXmhKx/view?usp=drive_link)
   
-[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1UT7tzb26iiU7Oz1RIOjFLRhdR-AXDznY/view?usp=drive_link)
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/13_q4yaxS4F-J9m9GxSL0a0SX20vxrOkJ/view?usp=drive_link)
 
 [DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdma)

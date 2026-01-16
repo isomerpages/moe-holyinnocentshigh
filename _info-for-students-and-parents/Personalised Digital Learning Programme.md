@@ -17,7 +17,7 @@ Please refer to the files for more information.
 
 [Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1ddmEhepd-Akhwtw90_HLziUrrFMHcmv2/view?usp=drive_link)
   
-[NDLP - Briefing for Parents](https://drive.google.com/file/d/143-3VZ5j6HJcIFM9VtpwiEAKO4SXmhKx/view?usp=drive_link)&nbsp;&nbsp;
+[NDLP - Briefing for Parents](https://drive.google.com/file/d/143-3VZ5j6HJcIFM9VtpwiEAKO4SXmhKx/view?usp=drive_link)
   
 [Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1UT7tzb26iiU7Oz1RIOjFLRhdR-AXDznY/view?usp=drive_link)
 

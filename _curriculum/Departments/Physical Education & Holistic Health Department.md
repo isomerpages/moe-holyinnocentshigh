@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h3><strong>Physical Education &amp; Holistic Health Department</strong></h3>
+<h3><strong>Physical Education &amp; Holistic Health</strong></h3>
 <h4><strong>Mission:</strong></h4>
 <p>To nurture students who possess a healthy state of being</p>
 <h4><strong>Vision:</strong></h4>

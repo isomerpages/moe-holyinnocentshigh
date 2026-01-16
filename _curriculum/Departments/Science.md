@@ -62,23 +62,23 @@ and Nature.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Biology</u></strong>
-<br>Mr Lim Thiam Kwee Arthur (HOD / ICT)
+<br>Mdm Tan Pei Yin Linda
 <br>Ms Lau Mei Tong
 <br>Mdm Chua Sheau Horng
 <br><strong><u>Chemistry</u></strong>
-<br>Mrs Valerie Seah-Ng Poh Ling
+<br>Ms Khoo Xiang Yun (School Staff Developer)</p>
+<p>Mrs Sheryl Mok-Koh Yilin (HOD/ SEN)</p>
+<p>Ms Woo Wei Shan (SH/ Science)</p>
+<p>Mrs Valerie Seah-Ng Poh Ling
 <br>Ms Soh Sze Chuan Sabrina
-<br>Ms Woo Wei Shan (SH/ Science)
 <br>Ms Katherine Hor
-<br>Mrs Sheryl Mok-Koh Yilin (HOD/ SEN)
-<br>Ms Khoo Xiang Yun (School Staff Developer)
 <br>Ms Tay Siew Wei
 <br>Mr Luke Liau
 <br><strong><u>Physics</u></strong>
-<br>Mr Lai Mun Guan
+<br>Mr Chan Shee Wai Desmond (HOD Science) Mr Tan Hong Yak Joseph (HOD / ICT)</p>
+<p>Mr Chang Jee Yen (ST Physics)</p>
+<p>Mr Lai Mun Guan
 <br>Mr Damien Lee Kian Aik
-<br>Mr Chan Shee Wai Desmond (HOD Science)
-<br>Mr Chang Jee Yen (ST Physics)
 <br>Ms Yeong May Kit
 <br><strong><u>Laboratory Staff</u></strong>
 <br>Mdm Nawirah Binte Sharrif (Lab Technician)

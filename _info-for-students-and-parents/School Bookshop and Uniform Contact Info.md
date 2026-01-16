@@ -145,22 +145,15 @@ an appointment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5, 15 January 2026</p>
-<p>&nbsp;</p>
 <p>12, 26 February 2026</p>
-<p>&nbsp;</p>
-<p>5, 26 March 2026</p>
-<p>&nbsp;</p>
-<p>9, 23 April 2026</p>
-<p>&nbsp;</p>
-<p>6, 20 August 2026</p>
-<p>&nbsp;</p>
+<p>&nbsp;5, 26 March 2026</p>
+<p>&nbsp;9, 23 April 2026</p>
+<p>&nbsp;6, 20 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>2 pm to 4pm</p>
+<p>&nbsp;2 pm to 4pm</p>
 </td>
 </tr>
 </tbody>

@@ -127,6 +127,7 @@ an appointment.</p>
 </tbody>
 </table>
 <h4><strong>Sales of School Uniform and PE Attire</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,66 +135,37 @@ an appointment.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Date in School</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 and 15 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12:45 PM to 2:45 PM</p>
+<p>Time</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 and 26 February 2026</p>
+<p>5, 15 January 2026</p>
+<p>&nbsp;</p>
+<p>12, 26 February 2026</p>
+<p>&nbsp;</p>
+<p>5, 26 March 2026</p>
+<p>&nbsp;</p>
+<p>9, 23 April 2026</p>
+<p>&nbsp;</p>
+<p>6, 20 August 2026</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12:45 PM to 2:45 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 and 26 March 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12:45 PM to 2:45 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 and 23 April 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12:45 PM to 2:45 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 and 20 August 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12:45 PM to 2:45 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>2 pm to 4pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Time of sales</strong> 
+<p>&nbsp;<strong>Time of sales</strong> 
 <br>For convenience, you may also like to order online as follow:
 <br>
 </p>

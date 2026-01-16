@@ -11,14 +11,14 @@ variant: markdown
 
 Please refer to the files for more information.
 
-[Student Device Information Kit](https://drive.google.com/file/d/1ojFp_xdtasjXfEQlAwtFfMCa9890vzZ1/view?usp=sharing)  
+[Student Device Information Kit](https://docs.google.com/presentation/d/1h6d0CNmVQ_oJZ8s7eqKuAdd6poTOgR1D/edit?usp=drive_link&amp;ouid=106413074224839001271&amp;rtpof=true&amp;sd=true)
   
-[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1WA2SmMQRsMAxzC48jImQ42ldHHnqw-Os/view?usp=drive_link) **\*New**
+[Parents Handbook on 1 to 1 learning Part 1](https://drive.google.com/file/d/1WA2SmMQRsMAxzC48jImQ42ldHHnqw-Os/view?usp=drive_link)
 
-[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1ddmEhepd-Akhwtw90_HLziUrrFMHcmv2/view?usp=drive_link) **\*New**
+[Parents Handbook on 1 to 1 learning Part 2](https://drive.google.com/file/d/1ddmEhepd-Akhwtw90_HLziUrrFMHcmv2/view?usp=drive_link)
   
-[NDLP - Briefing for Parents](https://drive.google.com/file/d/1LoHqDaqu1s-Rf-IN3c1PMaPkfmMj3_CR/view?usp=drive_link)&nbsp;&nbsp;
+[NDLP - Briefing for Parents](https://drive.google.com/file/d/143-3VZ5j6HJcIFM9VtpwiEAKO4SXmhKx/view?usp=drive_link)
   
-[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1h2DbaK_L_x8fGEwPblIINPawpQoVI_2j/view?usp=drive_link)
+[Letter to Parents for PDLP Procurement](https://drive.google.com/file/d/1UT7tzb26iiU7Oz1RIOjFLRhdR-AXDznY/view?usp=drive_link)
 
-[DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdma)  **\*New**
+[DMA Option Form for Parents (Require SINGPASS APP)](https://go.gov.sg/hihsdma)

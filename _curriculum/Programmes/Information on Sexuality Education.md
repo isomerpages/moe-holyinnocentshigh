@@ -77,7 +77,7 @@ and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At HOLY INNOCENTS’ HIGH SCHOOL, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p>Please click on the <a href="https://drive.google.com/file/d/1_4VRCHaGOKDXXRmlI4u0UkQ0r716DG7V/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2026</a> to
+<p>Please click on the <a href="https://drive.google.com/file/d/1_4VRCHaGOKDXXRmlI4u0UkQ0r716DG7V/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2026</a> to
 view.</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a

@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h3><strong>Personalised Digital Learning Programme (PDLP)</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FKftVAU4eI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3FKftVAU4eI"></iframe>
 </div>
 <p>Please refer to the files for more information.</p>
-<p><a href="https://docs.google.com/presentation/d/1h6d0CNmVQ_oJZ8s7eqKuAdd6poTOgR1D/edit?usp=drive_link&amp;ouid=106413074224839001271&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
+<p><a href="https://docs.google.com/presentation/d/1Y_mFzDI9RJvCwS4rloPfTaV0OM_g1_n1/edit?usp=sharing&amp;ouid=106413074224839001271&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1WA2SmMQRsMAxzC48jImQ42ldHHnqw-Os/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook on 1 to 1 learning Part 1</a>
 </p>

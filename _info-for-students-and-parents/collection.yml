@@ -2,7 +2,6 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
-      - Personalised Digital Learning Programme.md
       - DMA Parents Option/.keep
       - Education and Career Guidance (ECG).md
       - School Rules.md
@@ -21,3 +20,4 @@ collections:
       - Information for Parents/Parent Support Group & Dads for Life.md
       - School Bookshop and Uniform Contact Info.md
       - MOE FAS.md
+      - Personalised Digital Learning Programme.md

@@ -19,6 +19,8 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/13_q4yaxS4F-J9m9GxSL0a0SX20vxrOkJ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents for PDLP Procurement</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1KQv4xZeyC3-hucZJmpXDZJymP4X4AJzB/view?usp=sharing" rel="noopener nofollow" target="_blank">S1 PLD AUP Routines</a>
+</p>
 <hr>
 <p>DMA Matters</p>
 <p><a href="https://go.gov.sg/hihsdma" rel="noopener noreferrer nofollow" target="_blank">DMA Option Form for Parents (Require SINGPASS APP)</a>

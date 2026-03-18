@@ -14,3 +14,7 @@ description: ""
 <h4>Important Reminder: Always Back Up Data and Organise Files to Prevent Data Loss Due to Device Failure or Factory Reset</h4>
 <h4></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/SLS_module_for_file_management_and_data_backup.jpg">
+</div>
+<p></p>

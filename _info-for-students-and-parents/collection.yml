@@ -2,6 +2,7 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
+      - National Digital Literacy Programme (NDLP).md
       - Student Device Information Kit.md
       - Education and Career Guidance (ECG).md
       - School Rules.md

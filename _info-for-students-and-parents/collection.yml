@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Personal Learning Device (PLD)/.keep
-      - National Digital Literacy Programme (NDLP).md
       - Student Device Information Kit.md
       - Education and Career Guidance (ECG).md
       - School Rules.md

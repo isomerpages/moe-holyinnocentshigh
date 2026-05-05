@@ -2,7 +2,6 @@ collections:
   info-for-students-and-parents:
     output: true
     order:
-      - Personal Learning Device (PLD) FAQ.md
       - Education and Career Guidance (ECG).md
       - School Rules.md
       - Timetables.md
@@ -24,4 +23,5 @@ collections:
       - Personal Learning Device (PLD)/National Digital Literacy Programme
         (NDLP).md
       - Personal Learning Device (PLD)/Student Device Information Kit.md
+      - Personal Learning Device (PLD)/Personal Learning Device (PLD) FAQ.md
       - Personalised Digital Learning Programme.md

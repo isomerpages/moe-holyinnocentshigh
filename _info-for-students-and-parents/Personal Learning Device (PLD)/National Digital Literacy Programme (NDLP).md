@@ -15,14 +15,14 @@ third_nav_title: Personal Learning Device (PLD)
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/digital_parenting_tips.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/PDLP/digital_parenting_tips.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/protect_your_child_from_online_dangers.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/PDLP/protect_your_child_from_online_dangers.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/Guide_your_child_to_use_the_device.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/PDLP/Guide_your_child_to_use_the_device.jpg">
 </div>
 <p></p>

@@ -3,6 +3,7 @@ title: Personalised Digital Learning Programme
 permalink: /about/info-for-students-and-parents/pdlp/
 description: ""
 variant: tiptap
+third_nav_title: Personal Learning Device (PLD)
 ---
 <h3><strong>Personalised Digital Learning Programme (PDLP)</strong></h3>
 <div class="iframe-wrapper">
@@ -22,7 +23,7 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1KQv4xZeyC3-hucZJmpXDZJymP4X4AJzB/view?usp=sharing" rel="noopener nofollow" target="_blank">S1 PLD AUP Routines</a>
 </p>
 <hr>
-<p>DMA Matters</p>
+<p>DMA Parents Option</p>
 <p><a href="https://go.gov.sg/hihsdma" rel="noopener noreferrer nofollow" target="_blank">DMA Option Form for Parents (Require SINGPASS APP)</a>
 </p>
 <p><a href="/files/iPadOS_DMA_Parent_Option_A_V1_2.pdf" rel="noopener noreferrer nofollow" target="_blank">iPadOS DMA_Parent Option A Guide</a>

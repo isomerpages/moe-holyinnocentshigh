@@ -14,3 +14,11 @@ third_nav_title: Personal Learning Device (PLD)
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/Providing_parents_with_greater_choice_for_after_sch_PLD_use.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDLP/After_school_DMA_Parent_Options.jpg">
+</div>
+<p></p>

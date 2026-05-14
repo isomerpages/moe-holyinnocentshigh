@@ -10,7 +10,7 @@ third_nav_title: Personal Learning Device (PLD)
 </p>
 <p><a href="https://drive.google.com/file/d/1wgMXt_9XK1JJIDBGrnITU09Pl4Tgiu5O/view?usp=sharing" rel="noopener nofollow" target="_blank">iPadOS DMA_Parent Option A Guide</a>
 </p>
-<p><a href="/files/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">iPadOS DMA_Parent Option B Guide</a>
+<p><a href="https://drive.google.com/file/d/1pfeXWyCzjI_FqyNd5XG01b4zKi3Xpypt/view?usp=sharing" rel="noopener nofollow" target="_blank">iPadOS DMA_Parent Option B Guide</a>
 <br>
 </p>
 <p></p>

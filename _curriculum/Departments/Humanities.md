@@ -221,17 +221,6 @@ confidentally with contemporary issues in Singapore and the world.</p>
 <p>English Language, Social Studies</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Humanities Lived Experiences</strong></h4>

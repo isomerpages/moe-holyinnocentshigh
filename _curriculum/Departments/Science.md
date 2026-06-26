@@ -73,13 +73,16 @@ and Nature.</p>
 <br>Ms Soh Sze Chuan Sabrina
 <br>Ms Katherine Hor
 <br>Ms Tay Siew Wei
-<br>Mr Luke Liau
-<br><strong><u>Physics</u></strong>
-<br>Mr Chan Shee Wai Desmond (HOD Science) Mr Tan Hong Yak Joseph (HOD / ICT)</p>
+<br>Mr Luke Liau</p>
+<p></p>
+<p><strong><u>Physics</u></strong>
+<br>Mr Chan Shee Wai Desmond (HOD Science)</p>
+<p>Mr Tan Hong Yak Joseph (HOD/ ICT)</p>
 <p>Mr Chang Jee Yen (ST Physics)</p>
 <p>Mr Lai Mun Guan
 <br>Mr Damien Lee Kian Aik
-<br>Ms Yeong May Kit
+<br>Ms Yeong May Kit</p>
+<p>
 <br><strong><u>Laboratory Staff</u></strong>
 <br>Mdm Nawirah Binte Sharrif (Lab Technician)
 <br>Mdm Ho Tze Huey (Lab Technician)</p>

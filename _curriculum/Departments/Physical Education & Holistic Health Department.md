@@ -167,17 +167,12 @@ of maintaining a healthy body weight and the strategies to achieve them</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ricky Han Cheng Kwang (HOD PE &amp; CCA)</p>
+<p>Ms Valerie Lau (HOD Discipline)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Valerie Lau (HOD Discipline)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Taranpal Singh (SH PE)</p>
+<p>Mr Taranpal Singh (HOD PE &amp; CCA)</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +187,7 @@ of maintaining a healthy body weight and the strategies to achieve them</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Viviana Lee</p>
+<p></p>
 </td>
 </tr>
 </tbody>

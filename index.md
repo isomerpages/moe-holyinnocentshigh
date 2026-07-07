@@ -39,15 +39,6 @@ sections:
       alt: Mr Abdul Hadi
       subtitle: Celebrating our HIHS educator
   - infopic:
-      title: Caring Teacher Awards 2026
-      subtitle: Nomination is Now Open!
-      id: infopic
-      description: "Closing Date: 31 Dec 2025"
-      button: click here to read more
-      url: https://go.gov.sg/hihs-cta2026
-      image: /images/Front Page/6E3D4164_76EC_41A3_B39E_F8C6F2045BD3_.png
-      alt: Image alt text
-  - infopic:
       title: LLP
       subtitle: The Good Samaritan Programme
       description: Learning for Life Programme
@@ -63,12 +54,6 @@ sections:
       url: /curriculum/programmes/alp/
       image: /images/infopic 2.jpg
       alt: Image alt text
-  - infopic:
-      title: Elective Modules
-      button: click here to read more
-      alt: Image alt text
-      url: /curriculum/programmes/elective-modules/
-      image: /images/infopic 3.jpg
   - infopic:
       title: PDLP
       subtitle: iPad for personalised learning

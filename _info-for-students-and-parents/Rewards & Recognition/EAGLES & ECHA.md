@@ -36,5 +36,5 @@ The award is given to 2% of the school population (Singapore Citizens only). ECH
 The student must have a:
 
 *   Singapore Citizenship
-*   Conduct grade of ‘Excellent’
+*   Strong conduct grade
 *   Nomination by staff / peers

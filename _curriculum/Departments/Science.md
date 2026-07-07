@@ -71,7 +71,6 @@ and Nature.</p>
 <p>Ms Woo Wei Shan (SH/ Science)</p>
 <p>Mrs Valerie Seah-Ng Poh Ling
 <br>Ms Soh Sze Chuan Sabrina
-<br>Ms Katherine Hor
 <br>Ms Tay Siew Wei
 <br>Mr Luke Liau</p>
 <p></p>

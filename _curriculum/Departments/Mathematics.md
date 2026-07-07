@@ -77,7 +77,7 @@ how to close these gaps towards mastery of Mathematics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Sim Tsi Tang</p>
+<p>Mr Ian Sim Tsi Tang (Assistant Year Head, Lower Sec)</p>
 </td>
 </tr>
 <tr>
@@ -109,6 +109,7 @@ how to close these gaps towards mastery of Mathematics.</p>
 <br>Ms Apollonia Riard
 <br>Mr Terence Koh
 <br>Ms Natalie Kwok</p>
+<p>Mr Bernard Low</p>
 </td>
 </tr>
 <tr>

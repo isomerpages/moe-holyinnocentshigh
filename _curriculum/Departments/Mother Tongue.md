@@ -92,8 +92,7 @@ language.&nbsp;</p>
 <br>Ms Liu Nan
 <br>Ms Poh Qiuyan</p>
 <p>Ms Shang Xiaomeng
-<br>Ms Siti Salmeah
-<br>Mr Rohaizat Bin Ramlee</p>
+<br>Ms Siti Salmeah</p>
 <p>Mdm Nuruljannah</p>
 <p>Mdm Ernie Binte Abdul Rahman</p>
 </td>

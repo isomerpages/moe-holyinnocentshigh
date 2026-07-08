@@ -27,7 +27,9 @@ our students to connect meaningfully with others and the world around them.&nbsp
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<blockquote>
 <p></p>
+</blockquote>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -39,7 +41,8 @@ our students to connect meaningfully with others and the world around them.&nbsp
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hazel Lee</p>
+<p><strong>Ms Hazel Lee</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,15 +52,6 @@ our students to connect meaningfully with others and the world around them.&nbsp
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alexis Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (Literature)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Divya Raman</p>
 </td>
 </tr>
 <tr>
@@ -76,16 +70,18 @@ our students to connect meaningfully with others and the world around them.&nbsp
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Damien Poon (HOD, CCE)
-<br>Ms Lim Lee Lian (Assistant Year Head, Lower Sec)
-<br>Ms Siti Aisyah (Subject Head, Student Well-Being)
+<br>Ms Lim Lee Lian (Subject Head, Student Well-Being)
+<br>Ms Siti Aisyah (Subject Head, CCE)
 <br>Ms Agnes Chin
-<br>Mr Jeremy Khoo
+<br>Mr Jeremy Khoo (Assistant Year Head, Upper Sec)
 <br>Ms Lim Lay Yong
 <br>Ms Lee Wan Jing Melodie
 <br>Ms Perng Jiawei
 <br>Mrs Susanne Ng
-<br>Ms Vanessa Hew
 <br>Ms Nicole Wong</p>
+<p>Mdm Ong Rui Yun Jean</p>
+<p>Ms Tan Yen Leng</p>
+<p>Mr Kenneth Feng</p>
 </td>
 </tr>
 <tr>

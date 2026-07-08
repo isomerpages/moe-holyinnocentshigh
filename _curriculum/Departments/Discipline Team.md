@@ -22,18 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Discipline Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Taranpal Singh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Secondary 1 Level Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Jie Yong</p>
+<p>Ms Jeslin Ang Hui Min and Ms Apollonia Riard</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +33,7 @@ variant: tiptap
 <p>Secondary 2 Level Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Peh</p>
+<p>Mr Chan Jie Yong</p>
 </td>
 </tr>
 <tr>
@@ -49,15 +41,15 @@ variant: tiptap
 <p>Secondary 3 Level Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Seng Chuan</p>
+<p>Mr Kenneth Peh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4 and 5 Level Discipline Master</p>
+<p>Secondary 4 Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Viviana Lee</p>
+<p>Mr Ho Seng Chuan</p>
 </td>
 </tr>
 <tr>

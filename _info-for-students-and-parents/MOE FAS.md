@@ -9,7 +9,7 @@ variant: markdown
 #### **MOE Financial Assistance Scheme (FAS)**
 
       
-Please note that MOE-FAS 2024 application is now open.   For information on FAS and to check your eligibility, you may like to visit [MOE FAS website](https://www.moe.gov.sg/financial-matters/financial-assistance).
+Please note that MOE-FAS application is now open.   For information on FAS and to check your eligibility, you may like to visit [MOE FAS website](https://www.moe.gov.sg/financial-matters/financial-assistance).
 
 For application, you can either:
 

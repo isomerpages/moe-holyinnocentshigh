@@ -446,6 +446,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>Click <a href="https://drive.google.com/file/d/1ok9XAv-jDMCmJh49hFAnlNH0re8xOb9T/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a> for
+<br>Click <a href="https://drive.google.com/file/d/1R_JbE05zBvuMXaIieuzOciPVTQ_iFDeW/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
 Class Mentors 2026</p>
 <p></p>

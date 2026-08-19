@@ -114,11 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>With effect from 15th October 2022, an appointment needs to be made for
-visits to retail outlet, at least 2 days in advance. Please refer to the
-web link here: <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a> and
-instructions are also attached in this link on how to go about booking
-an appointment.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -94,4 +94,4 @@ within and beyond the school.&nbsp;</p>
 <p>Through these collective efforts, every student feels safe, respected,
 valued, and supported in their growth.&nbsp;</p>
 <h1>School Rules</h1>
-<p>Please refer to the school rules and consequences <a href="https://drive.google.com/file/d/10YzqIPunbICWaR0WSZUF1nJiWjIMwDyt/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Please refer to the school rules and consequences <a href="https://drive.google.com/file/d/1TSl65_bY7N20yYKpU_dJ90PiJiy4w_gQ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

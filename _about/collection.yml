@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Partners.md
       - Principal's Message.md
       - History.md
       - HIHS Heartbeat.md
@@ -10,3 +9,4 @@ collections:
       - Honour Roll.md
       - School Management Committee.md
       - Staff.md
+      - Partners.md

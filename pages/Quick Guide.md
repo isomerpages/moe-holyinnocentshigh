@@ -2,23 +2,24 @@
 title: Quick Guide
 permalink: /FAQ/
 description: ""
+variant: markdown
 ---
 ### **FAQ**
 
 ##### **General:**
 * [How can I contact the School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/contact-us/)
-* [When are the school terms/ school holidays?](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022)
+* [When are the school terms/ school holidays?](https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026)
 * [Where can I find out more about Direct School Admission (DSA) to Holy Innocents' High School?](https://sites.google.com/hihs.edu.sg/hihs-dsa/)
 
 
 ##### **Finance Matters:**
 
 * [What are the school fees for Secondary School education?](https://www.moe.gov.sg/financial-matters/fees)
-* [I would like to find out more about  the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/financial-matters/financial-assistance)
+* [I would like to find out more about&nbsp; the Financial Assistance Scheme and Bursaries.](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ##### **CCA Matters:**
 * [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://staging.d2xn9n00fw62s4.amplifyapp.com/curriculum/cca/)
-<!---* [Where can I find out more about CCAs and related CCA matters in Holy Innocents' High School?](https://holyinnocentshigh.moe.edu.sg/curriculum/cca) **Broken Link**--->
+
 * [What is the CCA Grading System?](https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit)
 
 ##### **Miscellaneous:**

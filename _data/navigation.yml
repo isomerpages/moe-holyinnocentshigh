@@ -3,8 +3,6 @@ links:
   - title: About
     url: /about/partners/
     sublinks:
-      - title: Partners
-        url: /about/partners/
       - title: Principal's Message
         url: /about/principals-message/
       - title: History
@@ -13,12 +11,12 @@ links:
         url: /about/hihs-heartbeat/
       - title: School Song and Creed
         url: /about/school-song-and-creed/
-      - title: Honour Roll
-        url: /about/honour-roll/
       - title: School Management Committee
         url: /about/school-management-committee/
       - title: Staff
         url: /about/staff/
+      - title: Partners
+        url: /about/partners/
       - title: Info for Students & Parents
         url: /about/Info-for-Students-and-Parents/school-rules/
   - title: Curriculum

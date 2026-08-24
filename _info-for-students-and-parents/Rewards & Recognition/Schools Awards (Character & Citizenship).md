@@ -21,4 +21,3 @@ variant: markdown
 -	good academic performance at the National Examinations
 -	outstanding leadership and contributions in service to our school.
 -	Demonstration of our school values of Humility, Integrity, Respect and Love
-

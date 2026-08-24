@@ -8,20 +8,20 @@ variant: tiptap
 <h3><strong>LLP - The Good Samaritan Project</strong></h3>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LLP1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP2222.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP3333.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP4444.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP111111.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP5555.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP22222.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP33333.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP44444.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP55555.jpg">
 </div>
 <h4><strong>Values in Action (VIA)</strong></h4>
 <p>Our Secondary 1 to 5 students are involved in the planning and implementation

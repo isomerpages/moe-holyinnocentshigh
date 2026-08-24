@@ -7,58 +7,42 @@ variant: tiptap
 ---
 <h2><strong>What are Applied Learning Modules?</strong></h2>
 <p>Applied Learning Modules (ApLM) are enrichment modules which broaden the
-learning</p>
-<p>experiences of students and complement the secondary school curriculum
-with a focus on the</p>
-<p>practical application of knowledge. These modules provide our students
-with applied learning</p>
-<p>opportunities – learning that involves doing and applying, learning about
-the real world, and</p>
-<p>learning for life. ApLM also allow students to discover their interests
-and strengths and make</p>
-<p>informed education and career choices. In particular, ApLM@ITE/ApLM@Poly
-provide students</p>
-<p>with stronger education and career guidance (ECG) through authentic and
-immersive learning</p>
-<p>experiences at ITE and the Polytechnics respectively.</p>
+learning experiences of students and complement the secondary school curriculum
+with a focus on the practical application of knowledge. These modules provide
+our students with applied learning opportunities – learning that involves
+doing and applying, learning about the real world, and learning for life.
+ApLM also allow students to discover their interests and strengths and
+make informed education and career choices. In particular, ApLM@ITE/ApLM@Poly
+provide students with stronger education and career guidance (ECG) through
+authentic and immersive learning experiences at ITE and the Polytechnics
+respectively.</p>
 <h3><strong>How do students benefit from ApLM?</strong></h3>
 <p>ApLM allow students to apply their skills and knowledge through:</p>
 <h4><strong>Learning by doing</strong></h4>
 <p>When students learn by doing, they are engaged in hands-on, experiential
-learning. There is</p>
-<p>greater engagement in the learning process, and this results in deeper
-learning for students as</p>
-<p>they see connections between theory and practice.</p>
+learning. There is greater engagement in the learning process, and this
+results in deeper learning for students as they see connections between
+theory and practice.</p>
 <h4><strong>Learning about the real world</strong></h4>
 <p>Students are provided with rich opportunities to acquire and apply knowledge
-and skills in real-</p>
-<p>world contexts to help deepen their learning. This also allows them to
-see the relevance of their</p>
-<p>learning, which aids in developing motivation and a sense of purpose in
-our students.</p>
+and skills in real-world contexts to help deepen their learning. This also
+allows them to see the relevance of their learning, which aids in developing
+motivation and a sense of purpose in our students.</p>
 <h4><strong>Learning for life</strong></h4>
 <p>Through ApLM, students start to appreciate the complexities of reality
-and experience the need</p>
-<p>to imagine possibilities, take risks and try something new or different.
-They also learn from</p>
-<p>challenges and setbacks when things do not work according to plan or theory.
-These are</p>
-<p>attitudes and dispositions which they can continue to apply as lifelong
-learners.</p>
+and experience the need to imagine possibilities, take risks and try something
+new or different. They also learn from challenges and setbacks when things
+do not work according to plan or theory. These are attitudes and dispositions
+which they can continue to apply as lifelong learners.</p>
 <h4><strong>ApLM for students</strong></h4>
 <p>ApLM modules are made available to all students from Secondary 2 onwards.
-To ensure that all</p>
-<p>students are provided with an opportunity to participate in ApLM, each
-student may be enrolled</p>
-<p>in up to three ApLMs throughout their secondary school years. As part
-of the students’</p>
-<p>preparations for the Subject Selection Exercise in Secondary 2, students
-will be given the</p>
-<p>opportunity to select an ApLM of their choice to deepen their understanding
-of the elective</p>
-<p>subjects that they might be interested in and the various career paths
-or opportunities</p>
-<p>associated with it.</p>
+To ensure that all students are provided with an opportunity to participate
+in ApLM, each student may be enrolled in up to three ApLMs throughout their
+secondary school years. As part of the students’ preparations for the Subject
+Selection Exercise in Secondary 2, students will be given the opportunity
+to select an ApLM of their choice to deepen their understanding of the
+elective subjects that they might be interested in and the various career
+paths or opportunities associated with it.</p>
 <p></p>
 <p>There are 3 types of ApLM:</p>
 <div class="isomer-image-wrapper">

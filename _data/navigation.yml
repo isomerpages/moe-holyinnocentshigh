@@ -3,8 +3,6 @@ links:
   - title: About
     url: /about/partners/
     sublinks:
-      - title: Partners
-        url: /about/partners/
       - title: Principal's Message
         url: /about/principals-message/
       - title: History
@@ -13,12 +11,12 @@ links:
         url: /about/hihs-heartbeat/
       - title: School Song and Creed
         url: /about/school-song-and-creed/
-      - title: Honour Roll
-        url: /about/honour-roll/
       - title: School Management Committee
         url: /about/school-management-committee/
       - title: Staff
         url: /about/staff/
+      - title: Partners
+        url: /about/partners/
       - title: Info for Students & Parents
         url: /about/Info-for-Students-and-Parents/school-rules/
   - title: Curriculum
@@ -32,19 +30,6 @@ links:
         url: /curriculum/cca/
       - title: Leap 2.0
         url: https://drive.google.com/file/d/0B2pbdW9B5cI3dnQ1VTdMQXRDT3M/edit?resourcekey=0-IhOPNGKY3kIMx0F_Zt5gDg
-  - title: Ethos
-    url: /ethos/teachers-creed/
-    sublinks:
-      - title: Teachers' Creed
-        url: /ethos/teachers-creed/
-      - title: Teachers' Pledge
-        url: /ethos/teachers-pledge/
-      - title: Teachers' Vision
-        url: /ethos/teachers-vision/
-      - title: Our Catholic Light
-        url: https://youtu.be/lbdx9vjSwqA
-      - title: Teaching Ethos
-        url: /ethos/teaching-ethos/
   - title: Links
     url: /Links/
     sublinks:

@@ -3,8 +3,9 @@ title: Honours Scroll (Character & Citizenship)
 permalink: /information-for-students-and-parents/rewards-n-recognition/honours-scroll-character-n-citizenship/
 description: ""
 third_nav_title: Rewards & Recognition
+variant: markdown
 ---
-### **Honours Scroll (Character & Citizenship)**
+### **School Awards (Character & Citizenship)**
 
 **1.  Student of the Year**
 

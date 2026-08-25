@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Rewards & Recognition
 variant: markdown
 ---
-### **School Awards (Character & Citizenship)**
+### **School Awards**
 
 **1.	HIHS All Round Achievement Award**
 

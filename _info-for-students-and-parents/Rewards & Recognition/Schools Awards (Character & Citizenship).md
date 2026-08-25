@@ -11,13 +11,13 @@ variant: markdown
 
 - awarded to Secondary 1 to 3 students of the academic year
 - perform well academically
--demonstrate the courage to lead and compassion to serve through their CCAs
+- demonstrate the courage to lead and compassion to serve through their CCAs
 - model the school values through commendable conduct.
 
 
 **2.	Good Samaritan Award**
 
--	Awarded to students from the Graduating  batch of preceding year
+-	awarded to students from the Graduating  batch of preceding year
 -	good academic performance at the National Examinations
 -	outstanding leadership and contributions in service to our school.
--	Demonstration of our school values of Humility, Integrity, Respect and Love
+-	demonstration of our school values of Humility, Integrity, Respect and Love

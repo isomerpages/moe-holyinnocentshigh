@@ -53,7 +53,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Distinction)&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

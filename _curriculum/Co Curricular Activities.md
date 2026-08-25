@@ -29,9 +29,8 @@ from any of these 4 CCA groups:</p>
 <h3><strong>Our CCA Achievements</strong></h3>
 <p><strong>Uniformed Groups</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -42,9 +41,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Achievements/Awards</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Attached Photographs ( students in action/photos from awards ceremony)</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -54,9 +50,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Distinction)&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -64,9 +57,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Overall Proficiency Award&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -76,9 +66,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>Frank Cooper Sands Award&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -87,18 +74,14 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>Corp Achievement Award&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>Visual and Performing Arts</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -109,9 +92,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Achievements/Awards</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Photographs ( students in action/photos from awards ceremony)</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -121,9 +101,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>SYF - Certificate of Accomplishment&nbsp;&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,9 +108,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF - Certificate of Accomplishment&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -143,9 +117,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>SYF - Certificate of Accomplishment&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,9 +124,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF - Certificate of Commendation&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -165,16 +133,12 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>SYF - Certificate of Distinction&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Physical Sports</strong>&nbsp;</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -186,9 +150,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Achievements/Awards</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Attached Photographs ( students in action/photos from awards ceremony)</strong>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,9 +157,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG League 2 – Top-4 Placing&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -208,9 +166,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>NSG League 2 – Top-8 Placing&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -218,9 +173,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG Overall 8<sup>th</sup> Placing&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -230,9 +182,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>NSG League 2 - 2<sup>nd</sup> Runner Up&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -241,9 +190,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>NSG League 4 – Top-4 Placing&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -251,9 +197,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pesta Sukan U-14 – 1<sup>st</sup> Placing&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -264,16 +207,13 @@ from any of these 4 CCA groups:</p>
 <p>NSG Gold Medal - 1<sup>st</sup> International Nanquan, Nandao, Nangun&nbsp;</p>
 <p>NSG Bronze Medal – Formulated 24-Style Taijiquan and 32-Style Taijijian</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Clubs and Societies</strong>&nbsp;</p>
-<table style="minWidth: 75px">
+<p><strong>Clubs and Societies</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -285,9 +225,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p><strong>Achievements/Awards</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Attached Photographs ( students in action/photos from awards ceremony)</strong>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -296,9 +233,6 @@ from any of these 4 CCA groups:</p>
 <td rowspan="1" colspan="1">
 <p>Our School, Our Stories – Certificate of Participation&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -306,9 +240,6 @@ from any of these 4 CCA groups:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pesta Sukan National Weiqi Tournament – 2<sup>nd</sup> and 3<sup>rd</sup> Placing&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>

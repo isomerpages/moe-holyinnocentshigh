@@ -135,4 +135,24 @@ in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce%205.jpg">
 </div>
+<h4><strong>Values in Action (VIA)</strong></h4>
+<p>Through Values in Action (VIA), students learn to look beyond themselves,
+put their values into practice, and take ownership of contributing meaningfully
+to the community. Guided by the Good Samaritan Ethos, the HIHS VIA programme
+follows a spiral progression: students revisit and deepen their understanding
+of service-learning as they progress from serving the school community
+in Lower Secondary to engaging with the wider community in Upper Secondary.
+Through CCE lessons, students learn about the key elements of service-learning
+and initiate projects that respond to the needs of their beneficiaries.
+In the process, they develop greater self-awareness, empathy, and leadership.</p>
+<p><strong><u>Lower Secondary VIA</u></strong>
+</p>
+<p>Secondary 1 service-learning supports the National Education emphasis
+on racial harmony. Secondary 1 classes set up booths that showcase games
+and advocacy activities centered on racial harmony, with students of other
+levels as their audience. In the process, they grow in their understanding
+of how they can be agents of positive change in the school community. They
+learn to exemplify the school values of love and respect, promoting understanding
+and mutual respect among their peers.</p>
+<p></p>
 <p></p>

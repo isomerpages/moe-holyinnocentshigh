@@ -135,4 +135,62 @@ in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce%205.jpg">
 </div>
+<h4><strong>Values in Action (VIA)</strong></h4>
+<p>Through Values in Action (VIA), students learn to look beyond themselves,
+put their values into practice, and take ownership of contributing meaningfully
+to the community. Guided by the Good Samaritan Ethos, the HIHS VIA programme
+follows a spiral progression: students revisit and deepen their understanding
+of service-learning as they progress from serving the school community
+in Lower Secondary to engaging with the wider community in Upper Secondary.
+Through CCE lessons, students learn about the key elements of service-learning
+and initiate projects that respond to the needs of their beneficiaries.
+In the process, they develop greater self-awareness, empathy, and leadership.</p>
+<p><strong><u>Lower Secondary VIA</u></strong>
+</p>
+<p>Secondary 1 service-learning supports the National Education emphasis
+on racial harmony. Secondary 1 classes set up booths that showcase games
+and advocacy activities centered on racial harmony, with students of other
+levels as their audience. In the process, they grow in their understanding
+of how they can be agents of positive change in the school community. They
+learn to exemplify the school values of love and respect, promoting understanding
+and mutual respect among their peers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA2.jpg">
+</div>
+<p>Secondary 2 students contribute to a culture of inclusivity, empathy,
+and understanding within the school community. In CCE lessons, they learn
+about different special needs, reflect on the importance of empathy, and
+plan for booths featuring games and advocacy activities on Be Inclusive
+day (a school-wide event organised by the SEN and Service-Learning team).
+Through these projects, students promote inclusion in the community, and
+advance the school’s values of love and respect.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA4.jpg">
+</div>
+<p><strong><u>Upper Secondary VIA</u></strong>
+</p>
+<p>As HIHS students progress to Upper Secondary, they are invited to look
+beyond their school community and to serve the wider community. HIHS collaborates
+with Caritas Singapore, Morning Star, and the National Kidney Foundation
+to serve their beneficiaries. Through these meaningful collaborations,
+students further develop empathy as they design and facilitate activities
+suited to beneficiaries’ needs and interests. This experience broadens
+their perspective of social needs and community partnerships. It also allows
+them to develop compassion and a belief that they can make a difference
+in society. As far as possible, each class serves the same community partner
+over two years. This enables students to build deeper relationships and
+to apply learning from their first year as they refine their service-learning
+project in the second.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA6.jpg">
+</div>
 <p></p>
